@@ -1,0 +1,1456 @@
+{
+  "Action": {
+    "label_kr": "액션",
+    "games": [
+      {
+        "appid": 730,
+        "name": "Counter-Strike: Global Offensive",
+        "ccu": 1013936,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "ccu": 314682,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "ccu": 163599,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 252490,
+        "name": "Rust",
+        "ccu": 143870,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 1172470,
+        "name": "Apex Legends",
+        "ccu": 124262,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "ccu": 91184,
+        "price": "499",
+        "discount": "0"
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "ccu": 67851,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1938090,
+        "name": "Call of Duty: Modern Warfare II",
+        "ccu": 67419,
+        "price": "3849",
+        "discount": "45"
+      },
+      {
+        "appid": 1203220,
+        "name": "NARAKA: BLADEPOINT",
+        "ccu": 66954,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 553850,
+        "name": "HELLDIVERS 2",
+        "ccu": 53399,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 359550,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "ccu": 51847,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 236390,
+        "name": "War Thunder",
+        "ccu": 50478,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 381210,
+        "name": "Dead by Daylight",
+        "ccu": 44886,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "ccu": 43819,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1366800,
+        "name": "Crosshair X",
+        "ccu": 41428,
+        "price": "499",
+        "discount": "0"
+      },
+      {
+        "appid": 3240220,
+        "name": "Grand Theft Auto V Enhanced",
+        "ccu": 39502,
+        "price": "1979",
+        "discount": "56"
+      },
+      {
+        "appid": 221100,
+        "name": "DayZ",
+        "ccu": 37066,
+        "price": "2249",
+        "discount": "55"
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "ccu": 36195,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 438100,
+        "name": "VRChat",
+        "ccu": 34699,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 3241660,
+        "name": "R.E.P.O.",
+        "ccu": 32349,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 394360,
+        "name": "Hearts of Iron IV",
+        "ccu": 32112,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "ccu": 30542,
+        "price": "509",
+        "discount": "66"
+      },
+      {
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "ccu": 29885,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 1245620,
+        "name": "ELDEN RING",
+        "ccu": 29529,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 1903340,
+        "name": "Clair Obscur: Expedition 33",
+        "ccu": 27880,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 322170,
+        "name": "Geometry Dash",
+        "ccu": 27850,
+        "price": "499",
+        "discount": "0"
+      },
+      {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "ccu": 27254,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "ccu": 25122,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 489830,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "ccu": 25085,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 1085660,
+        "name": "Destiny 2",
+        "ccu": 24619,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "ccu": 24580,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 3164500,
+        "name": "Schedule I",
+        "ccu": 22757,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "ccu": 22265,
+        "price": "2099",
+        "discount": "65"
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "ccu": 22170,
+        "price": "1499",
+        "discount": "0"
+      },
+      {
+        "appid": 252950,
+        "name": "Rocket League",
+        "ccu": 21106,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 39210,
+        "name": "FINAL FANTASY XIV Online",
+        "ccu": 19824,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 2993780,
+        "name": "FANTASY LIFE i: The Girl Who Steals Time",
+        "ccu": 19498,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 294100,
+        "name": "RimWorld",
+        "ccu": 19211,
+        "price": "2799",
+        "discount": "20"
+      },
+      {
+        "appid": 4000,
+        "name": "Garry's Mod",
+        "ccu": 18400,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 1623730,
+        "name": "Palworld",
+        "ccu": 18028,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 1599340,
+        "name": "Lost Ark",
+        "ccu": 17355,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "ccu": 17281,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 251570,
+        "name": "7 Days to Die",
+        "ccu": 17045,
+        "price": "4499",
+        "discount": "0"
+      },
+      {
+        "appid": 1142710,
+        "name": "Total War: WARHAMMER III",
+        "ccu": 16842,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 2694490,
+        "name": "Path of Exile 2",
+        "ccu": 16727,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 306130,
+        "name": "The Elder Scrolls Online",
+        "ccu": 15987,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "ccu": 15893,
+        "price": "799",
+        "discount": "80"
+      },
+      {
+        "appid": 284160,
+        "name": "BeamNG.drive",
+        "ccu": 15863,
+        "price": "2499",
+        "discount": "0"
+      },
+      {
+        "appid": 629520,
+        "name": "Soundpad",
+        "ccu": 15279,
+        "price": "499",
+        "discount": "0"
+      },
+      {
+        "appid": 2358720,
+        "name": "Black Myth: Wukong",
+        "ccu": 15004,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 1364780,
+        "name": "Street Fighter 6",
+        "ccu": 14920,
+        "price": "1999",
+        "discount": "50"
+      },
+      {
+        "appid": 250900,
+        "name": "The Binding of Isaac: Rebirth",
+        "ccu": 14904,
+        "price": "1499",
+        "discount": "0"
+      },
+      {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "ccu": 14477,
+        "price": "2499",
+        "discount": "50"
+      },
+      {
+        "appid": 892970,
+        "name": "Valheim",
+        "ccu": 14439,
+        "price": "999",
+        "discount": "50"
+      },
+      {
+        "appid": 2623190,
+        "name": "The Elder Scrolls IV: Oblivion Remastered",
+        "ccu": 14420,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 582660,
+        "name": "Black Desert",
+        "ccu": 14345,
+        "price": "99",
+        "discount": "90"
+      },
+      {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "ccu": 14169,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 813780,
+        "name": "Age of Empires II: Definitive Edition",
+        "ccu": 13465,
+        "price": "1224",
+        "discount": "65"
+      },
+      {
+        "appid": 2246340,
+        "name": "Monster Hunter Wilds",
+        "ccu": 12494,
+        "price": "6999",
+        "discount": "0"
+      },
+      {
+        "appid": 1049590,
+        "name": "Eternal Return",
+        "ccu": 12341,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "ccu": 12291,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 2399830,
+        "name": "ARK: Survival Ascended",
+        "ccu": 12007,
+        "price": "4499",
+        "discount": "0"
+      },
+      {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "ccu": 11923,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 1874880,
+        "name": "Arma Reforger",
+        "ccu": 11466,
+        "price": "2799",
+        "discount": "30"
+      },
+      {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "ccu": 11179,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 1604030,
+        "name": "V Rising",
+        "ccu": 10961,
+        "price": "3499",
+        "discount": "0"
+      },
+      {
+        "appid": 1203620,
+        "name": "Enshrouded",
+        "ccu": 10654,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 304930,
+        "name": "Unturned",
+        "ccu": 10408,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1551360,
+        "name": "Forza Horizon 5",
+        "ccu": 10009,
+        "price": "2999",
+        "discount": "50"
+      },
+      {
+        "appid": 739630,
+        "name": "Phasmophobia",
+        "ccu": 9978,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 365670,
+        "name": "Blender",
+        "ccu": 9640,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 2221490,
+        "name": "Tom Clancy’s The Division 2",
+        "ccu": 9481,
+        "price": "749",
+        "discount": "75"
+      },
+      {
+        "appid": 1237950,
+        "name": "STAR WARS Battlefront II",
+        "ccu": 9213,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 393380,
+        "name": "Squad",
+        "ccu": 9116,
+        "price": "2999",
+        "discount": "40"
+      },
+      {
+        "appid": 244210,
+        "name": "Assetto Corsa",
+        "ccu": 8961,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "ccu": 8842,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 2344520,
+        "name": "Diablo IV",
+        "ccu": 8835,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "ccu": 8551,
+        "price": "499",
+        "discount": "75"
+      },
+      {
+        "appid": 513710,
+        "name": "SCUM",
+        "ccu": 8535,
+        "price": "4499",
+        "discount": "0"
+      },
+      {
+        "appid": 552990,
+        "name": "World of Warships",
+        "ccu": 8518,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1283970,
+        "name": "YoloMouse - Cursor Changer",
+        "ccu": 8493,
+        "price": "399",
+        "discount": "0"
+      },
+      {
+        "appid": 761890,
+        "name": "Albion Online",
+        "ccu": 8184,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1466060,
+        "name": "Tainted Grail: The Fall of Avalon",
+        "ccu": 8175,
+        "price": "2924",
+        "discount": "35"
+      },
+      {
+        "appid": 216150,
+        "name": "MapleStory",
+        "ccu": 8092,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 632360,
+        "name": "Risk of Rain 2",
+        "ccu": 7902,
+        "price": "824",
+        "discount": "67"
+      },
+      {
+        "appid": 2479810,
+        "name": "Gray Zone Warfare",
+        "ccu": 7543,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 960090,
+        "name": "Bloons TD 6",
+        "ccu": 7489,
+        "price": "1399",
+        "discount": "0"
+      },
+      {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "ccu": 7323,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 1361210,
+        "name": "Warhammer 40,000: Darktide",
+        "ccu": 7267,
+        "price": "999",
+        "discount": "75"
+      },
+      {
+        "appid": 107410,
+        "name": "Arma 3",
+        "ccu": 7181,
+        "price": "899",
+        "discount": "70"
+      },
+      {
+        "appid": 1466860,
+        "name": "Age of Empires IV: Anniversary Edition",
+        "ccu": 7084,
+        "price": "1999",
+        "discount": "50"
+      },
+      {
+        "appid": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "ccu": 7073,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 2183900,
+        "name": "Warhammer 40,000: Space Marine 2",
+        "ccu": 6851,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 814380,
+        "name": "Sekiro: Shadows Die Twice - GOTY Edition",
+        "ccu": 6767,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 270880,
+        "name": "American Truck Simulator",
+        "ccu": 6742,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 1286830,
+        "name": "STAR WARS: The Old Republic",
+        "ccu": 6625,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1942280,
+        "name": "Brotato",
+        "ccu": 6389,
+        "price": "349",
+        "discount": "30"
+      },
+      {
+        "appid": 1238810,
+        "name": "Battlefield V",
+        "ccu": 6327,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 1238840,
+        "name": "Battlefield 1",
+        "ccu": 6308,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 594650,
+        "name": "Hunt: Showdown 1896",
+        "ccu": 6300,
+        "price": "1349",
+        "discount": "55"
+      }
+    ]
+  },
+  "RPG": {
+    "label_kr": "RPG",
+    "games": [
+      {
+        "appid": 2622380,
+        "name": "ELDEN RING NIGHTREIGN",
+        "ccu": 163599,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 1671210,
+        "name": "DELTARUNE",
+        "ccu": 83936,
+        "price": "2499",
+        "discount": "0"
+      },
+      {
+        "appid": 271590,
+        "name": "Grand Theft Auto V Legacy",
+        "ccu": 67851,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1086940,
+        "name": "Baldur's Gate 3",
+        "ccu": 54771,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "ccu": 50662,
+        "price": "1499",
+        "discount": "0"
+      },
+      {
+        "appid": 230410,
+        "name": "Warframe",
+        "ccu": 36195,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1245620,
+        "name": "ELDEN RING",
+        "ccu": 29529,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 1903340,
+        "name": "Clair Obscur: Expedition 33",
+        "ccu": 27880,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 489830,
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "ccu": 25085,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 105600,
+        "name": "Terraria",
+        "ccu": 24580,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 108600,
+        "name": "Project Zomboid",
+        "ccu": 22864,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 1091500,
+        "name": "Cyberpunk 2077",
+        "ccu": 22265,
+        "price": "2099",
+        "discount": "65"
+      },
+      {
+        "appid": 346110,
+        "name": "ARK: Survival Evolved",
+        "ccu": 22170,
+        "price": "1499",
+        "discount": "0"
+      },
+      {
+        "appid": 39210,
+        "name": "FINAL FANTASY XIV Online",
+        "ccu": 19824,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 2993780,
+        "name": "FANTASY LIFE i: The Girl Who Steals Time",
+        "ccu": 19498,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 294100,
+        "name": "RimWorld",
+        "ccu": 19211,
+        "price": "2799",
+        "discount": "20"
+      },
+      {
+        "appid": 1623730,
+        "name": "Palworld",
+        "ccu": 18028,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 1599340,
+        "name": "Lost Ark",
+        "ccu": 17355,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 227300,
+        "name": "Euro Truck Simulator 2",
+        "ccu": 17281,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 251570,
+        "name": "7 Days to Die",
+        "ccu": 17045,
+        "price": "4499",
+        "discount": "0"
+      },
+      {
+        "appid": 2694490,
+        "name": "Path of Exile 2",
+        "ccu": 16727,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 306130,
+        "name": "The Elder Scrolls Online",
+        "ccu": 15987,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "ccu": 15893,
+        "price": "799",
+        "discount": "80"
+      },
+      {
+        "appid": 646570,
+        "name": "Slay the Spire",
+        "ccu": 15038,
+        "price": "2499",
+        "discount": "0"
+      },
+      {
+        "appid": 2358720,
+        "name": "Black Myth: Wukong",
+        "ccu": 15004,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 766570,
+        "name": "Russian Fishing 4",
+        "ccu": 14950,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 261550,
+        "name": "Mount & Blade II: Bannerlord",
+        "ccu": 14477,
+        "price": "2499",
+        "discount": "50"
+      },
+      {
+        "appid": 892970,
+        "name": "Valheim",
+        "ccu": 14439,
+        "price": "999",
+        "discount": "50"
+      },
+      {
+        "appid": 2623190,
+        "name": "The Elder Scrolls IV: Oblivion Remastered",
+        "ccu": 14420,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 582660,
+        "name": "Black Desert",
+        "ccu": 14345,
+        "price": "99",
+        "discount": "90"
+      },
+      {
+        "appid": 1158310,
+        "name": "Crusader Kings III",
+        "ccu": 14302,
+        "price": "1499",
+        "discount": "70"
+      },
+      {
+        "appid": 2246340,
+        "name": "Monster Hunter Wilds",
+        "ccu": 12494,
+        "price": "6999",
+        "discount": "0"
+      },
+      {
+        "appid": 2399830,
+        "name": "ARK: Survival Ascended",
+        "ccu": 12007,
+        "price": "4499",
+        "discount": "0"
+      },
+      {
+        "appid": 582010,
+        "name": "Monster Hunter: World",
+        "ccu": 11923,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "ccu": 11179,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 1476970,
+        "name": "Legends of IdleOn - Idle MMO",
+        "ccu": 11081,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1203620,
+        "name": "Enshrouded",
+        "ccu": 10654,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 2221490,
+        "name": "Tom Clancy’s The Division 2",
+        "ccu": 9481,
+        "price": "749",
+        "discount": "75"
+      },
+      {
+        "appid": 393380,
+        "name": "Squad",
+        "ccu": 9116,
+        "price": "2999",
+        "discount": "40"
+      },
+      {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "ccu": 8842,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 2344520,
+        "name": "Diablo IV",
+        "ccu": 8835,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 1151340,
+        "name": "Fallout 76",
+        "ccu": 8796,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "ccu": 8551,
+        "price": "499",
+        "discount": "75"
+      },
+      {
+        "appid": 513710,
+        "name": "SCUM",
+        "ccu": 8535,
+        "price": "4499",
+        "discount": "0"
+      },
+      {
+        "appid": 761890,
+        "name": "Albion Online",
+        "ccu": 8184,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1466060,
+        "name": "Tainted Grail: The Fall of Avalon",
+        "ccu": 8175,
+        "price": "2924",
+        "discount": "35"
+      },
+      {
+        "appid": 216150,
+        "name": "MapleStory",
+        "ccu": 8092,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 3117820,
+        "name": "Sultan's Game",
+        "ccu": 7726,
+        "price": "2499",
+        "discount": "0"
+      },
+      {
+        "appid": 1361210,
+        "name": "Warhammer 40,000: Darktide",
+        "ccu": 7267,
+        "price": "999",
+        "discount": "75"
+      },
+      {
+        "appid": 1771300,
+        "name": "Kingdom Come: Deliverance II",
+        "ccu": 7073,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 2784470,
+        "name": "9 Kings",
+        "ccu": 6920,
+        "price": "999",
+        "discount": "50"
+      },
+      {
+        "appid": 814380,
+        "name": "Sekiro: Shadows Die Twice - GOTY Edition",
+        "ccu": 6767,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 1286830,
+        "name": "STAR WARS: The Old Republic",
+        "ccu": 6625,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1942280,
+        "name": "Brotato",
+        "ccu": 6389,
+        "price": "349",
+        "discount": "30"
+      },
+      {
+        "appid": 376210,
+        "name": "The Isle",
+        "ccu": 5946,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 899770,
+        "name": "Last Epoch",
+        "ccu": 5831,
+        "price": "3499",
+        "discount": "0"
+      },
+      {
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "ccu": 5716,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 440900,
+        "name": "Conan Exiles",
+        "ccu": 5677,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 1063730,
+        "name": "New World: Aeternum",
+        "ccu": 5583,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 233860,
+        "name": "Kenshi",
+        "ccu": 5412,
+        "price": "1199",
+        "discount": "60"
+      },
+      {
+        "appid": 286160,
+        "name": "Tabletop Simulator",
+        "ccu": 5021,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 1687950,
+        "name": "Persona 5 Royal",
+        "ccu": 4994,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 2437170,
+        "name": "SMITE 2",
+        "ccu": 4975,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 239140,
+        "name": "Dying Light",
+        "ccu": 4953,
+        "price": "2499",
+        "discount": "0"
+      },
+      {
+        "appid": 359320,
+        "name": "Elite Dangerous",
+        "ccu": 4845,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 700330,
+        "name": "SCP: Secret Laboratory",
+        "ccu": 4696,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 238960,
+        "name": "Path of Exile",
+        "ccu": 4694,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1267910,
+        "name": "Melvor Idle",
+        "ccu": 4551,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 374320,
+        "name": "DARK SOULS III",
+        "ccu": 4381,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 534380,
+        "name": "Dying Light 2 Stay Human: Reloaded Edition",
+        "ccu": 4223,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 1468810,
+        "name": "鬼谷八荒 Tale of Immortal",
+        "ccu": 4116,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 22380,
+        "name": "Fallout: New Vegas",
+        "ccu": 3892,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 262060,
+        "name": "Darkest Dungeon",
+        "ccu": 3848,
+        "price": "2499",
+        "discount": "0"
+      },
+      {
+        "appid": 1716740,
+        "name": "Starfield",
+        "ccu": 3725,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 8500,
+        "name": "EVE Online",
+        "ccu": 3705,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1446780,
+        "name": "MONSTER HUNTER RISE",
+        "ccu": 3658,
+        "price": "3999",
+        "discount": "0"
+      },
+      {
+        "appid": 2186680,
+        "name": "Warhammer 40,000: Rogue Trader",
+        "ccu": 3582,
+        "price": "4999",
+        "discount": "0"
+      },
+      {
+        "appid": 435150,
+        "name": "Divinity: Original Sin 2 - Definitive Edition",
+        "ccu": 3510,
+        "price": "4499",
+        "discount": "0"
+      },
+      {
+        "appid": 2665680,
+        "name": "Tower of Babel: Survivors of Chaos",
+        "ccu": 3392,
+        "price": "999",
+        "discount": "0"
+      },
+      {
+        "appid": 1147690,
+        "name": "NGU IDLE",
+        "ccu": 3382,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1868140,
+        "name": "DAVE THE DIVER",
+        "ccu": 3367,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 391540,
+        "name": "Undertale",
+        "ccu": 3331,
+        "price": "249",
+        "discount": "75"
+      },
+      {
+        "appid": 1546320,
+        "name": "Your Chronicle",
+        "ccu": 3324,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1258080,
+        "name": "Shop Titans",
+        "ccu": 3279,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1284210,
+        "name": "Guild Wars 2",
+        "ccu": 3277,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 2622000,
+        "name": "Astral Party ",
+        "ccu": 3227,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 397540,
+        "name": "Borderlands 3",
+        "ccu": 3164,
+        "price": "599",
+        "discount": "90"
+      },
+      {
+        "appid": 268500,
+        "name": "XCOM 2",
+        "ccu": 3123,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 48700,
+        "name": "Mount & Blade: Warband",
+        "ccu": 3055,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 627690,
+        "name": "Idle Champions of the Forgotten Realms",
+        "ccu": 3034,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 1794680,
+        "name": "Vampire Survivors",
+        "ccu": 2966,
+        "price": "349",
+        "discount": "30"
+      },
+      {
+        "appid": 242760,
+        "name": "The Forest",
+        "ccu": 2892,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 570940,
+        "name": "DARK SOULS: REMASTERED",
+        "ccu": 2879,
+        "price": "1999",
+        "discount": "50"
+      },
+      {
+        "appid": 505460,
+        "name": "Foxhole",
+        "ccu": 2821,
+        "price": "2999",
+        "discount": "0"
+      },
+      {
+        "appid": 2646460,
+        "name": "Soulmask",
+        "ccu": 2760,
+        "price": "2699",
+        "discount": "10"
+      },
+      {
+        "appid": 3183280,
+        "name": "Game of Thrones: Kingsroad",
+        "ccu": 2634,
+        "price": "0",
+        "discount": "0"
+      },
+      {
+        "appid": 812140,
+        "name": "Assassin's Creed Odyssey",
+        "ccu": 2629,
+        "price": "5999",
+        "discount": "0"
+      },
+      {
+        "appid": 2071280,
+        "name": "Ravenswatch",
+        "ccu": 2578,
+        "price": "1499",
+        "discount": "40"
+      },
+      {
+        "appid": 305620,
+        "name": "The Long Dark",
+        "ccu": 2575,
+        "price": "1999",
+        "discount": "0"
+      },
+      {
+        "appid": 588650,
+        "name": "Dead Cells",
+        "ccu": 2559,
+        "price": "1249",
+        "discount": "50"
+      }
+    ]
+  },
+  "Shooter": {
+    "label_kr": "슈팅",
+    "games": []
+  },
+  "Strategy": {
+    "label_kr": "전략",
+    "games": []
+  },
+  "Simulation": {
+    "label_kr": "시뮬레이션",
+    "games": []
+  },
+  "Adventure": {
+    "label_kr": "어드벤처",
+    "games": []
+  },
+  "Indie": {
+    "label_kr": "인디",
+    "games": []
+  },
+  "Multiplayer": {
+    "label_kr": "멀티플레이",
+    "games": []
+  },
+  "Horror": {
+    "label_kr": "호러",
+    "games": []
+  },
+  "Free to Play": {
+    "label_kr": "무료",
+    "games": []
+  },
+  "Survival": {
+    "label_kr": "생존",
+    "games": []
+  },
+  "Open World": {
+    "label_kr": "오픈월드",
+    "games": []
+  },
+  "Racing": {
+    "label_kr": "레이싱",
+    "games": []
+  }
+}
