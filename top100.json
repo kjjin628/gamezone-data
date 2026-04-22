@@ -1,0 +1,902 @@
+[
+  {
+    "appid": 730,
+    "name": "Counter-Strike: Global Offensive",
+    "ccu": 1013936,
+    "price": "0",
+    "discount": "0",
+    "positive": 7642084,
+    "negative": 1173003
+  },
+  {
+    "appid": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "ccu": 314682,
+    "price": "0",
+    "discount": "0",
+    "positive": 1520457,
+    "negative": 1037487
+  },
+  {
+    "appid": 252490,
+    "name": "Rust",
+    "ccu": 143870,
+    "price": "3999",
+    "discount": "0",
+    "positive": 1071135,
+    "negative": 156649
+  },
+  {
+    "appid": 1172470,
+    "name": "Apex Legends",
+    "ccu": 124262,
+    "price": "0",
+    "discount": "0",
+    "positive": 668053,
+    "negative": 326926
+  },
+  {
+    "appid": 431960,
+    "name": "Wallpaper Engine",
+    "ccu": 91184,
+    "price": "499",
+    "discount": "0",
+    "positive": 876898,
+    "negative": 17560
+  },
+  {
+    "appid": 271590,
+    "name": "Grand Theft Auto V Legacy",
+    "ccu": 67851,
+    "price": "0",
+    "discount": "0",
+    "positive": 1739980,
+    "negative": 250576
+  },
+  {
+    "appid": 1938090,
+    "name": "Call of Duty: Modern Warfare II",
+    "ccu": 67419,
+    "price": "3849",
+    "discount": "45",
+    "positive": 419594,
+    "negative": 294520
+  },
+  {
+    "appid": 1203220,
+    "name": "NARAKA: BLADEPOINT",
+    "ccu": 66954,
+    "price": "0",
+    "discount": "0",
+    "positive": 225960,
+    "negative": 98967
+  },
+  {
+    "appid": 1086940,
+    "name": "Baldur's Gate 3",
+    "ccu": 54771,
+    "price": "5999",
+    "discount": "0",
+    "positive": 736688,
+    "negative": 23974
+  },
+  {
+    "appid": 553850,
+    "name": "HELLDIVERS 2",
+    "ccu": 53399,
+    "price": "3999",
+    "discount": "0",
+    "positive": 775883,
+    "negative": 241752
+  },
+  {
+    "appid": 359550,
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "ccu": 51847,
+    "price": "1999",
+    "discount": "0",
+    "positive": 1172854,
+    "negative": 225730
+  },
+  {
+    "appid": 413150,
+    "name": "Stardew Valley",
+    "ccu": 50662,
+    "price": "1499",
+    "discount": "0",
+    "positive": 872384,
+    "negative": 13811
+  },
+  {
+    "appid": 236390,
+    "name": "War Thunder",
+    "ccu": 50478,
+    "price": "0",
+    "discount": "0",
+    "positive": 484469,
+    "negative": 272617
+  },
+  {
+    "appid": 381210,
+    "name": "Dead by Daylight",
+    "ccu": 44886,
+    "price": "1999",
+    "discount": "0",
+    "positive": 630223,
+    "negative": 166993
+  },
+  {
+    "appid": 440,
+    "name": "Team Fortress 2",
+    "ccu": 43819,
+    "price": "0",
+    "discount": "0",
+    "positive": 1044264,
+    "negative": 117208
+  },
+  {
+    "appid": 221100,
+    "name": "DayZ",
+    "ccu": 37066,
+    "price": "2249",
+    "discount": "55",
+    "positive": 330349,
+    "negative": 99903
+  },
+  {
+    "appid": 230410,
+    "name": "Warframe",
+    "ccu": 36195,
+    "price": "0",
+    "discount": "0",
+    "positive": 545393,
+    "negative": 81110
+  },
+  {
+    "appid": 438100,
+    "name": "VRChat",
+    "ccu": 34699,
+    "price": "0",
+    "discount": "0",
+    "positive": 181623,
+    "negative": 58732
+  },
+  {
+    "appid": 3241660,
+    "name": "R.E.P.O.",
+    "ccu": 32349,
+    "price": "999",
+    "discount": "0",
+    "positive": 179154,
+    "negative": 6488
+  },
+  {
+    "appid": 322330,
+    "name": "Don't Starve Together",
+    "ccu": 30542,
+    "price": "509",
+    "discount": "66",
+    "positive": 475393,
+    "negative": 23668
+  },
+  {
+    "appid": 1174180,
+    "name": "Red Dead Redemption 2",
+    "ccu": 29885,
+    "price": "5999",
+    "discount": "0",
+    "positive": 676667,
+    "negative": 56875
+  },
+  {
+    "appid": 1245620,
+    "name": "ELDEN RING",
+    "ccu": 29529,
+    "price": "5999",
+    "discount": "0",
+    "positive": 981540,
+    "negative": 75137
+  },
+  {
+    "appid": 218620,
+    "name": "PAYDAY 2",
+    "ccu": 27254,
+    "price": "999",
+    "discount": "0",
+    "positive": 594327,
+    "negative": 68755
+  },
+  {
+    "appid": 289070,
+    "name": "Sid Meier’s Civilization VI",
+    "ccu": 25420,
+    "price": "5999",
+    "discount": "0",
+    "positive": 304053,
+    "negative": 45867
+  },
+  {
+    "appid": 1222670,
+    "name": "The Sims 4",
+    "ccu": 25276,
+    "price": "0",
+    "discount": "0",
+    "positive": 149064,
+    "negative": 21663
+  },
+  {
+    "appid": 550,
+    "name": "Left 4 Dead 2",
+    "ccu": 25122,
+    "price": "999",
+    "discount": "0",
+    "positive": 940221,
+    "negative": 23762
+  },
+  {
+    "appid": 1085660,
+    "name": "Destiny 2",
+    "ccu": 24619,
+    "price": "0",
+    "discount": "0",
+    "positive": 497891,
+    "negative": 127725
+  },
+  {
+    "appid": 105600,
+    "name": "Terraria",
+    "ccu": 24580,
+    "price": "999",
+    "discount": "0",
+    "positive": 1373979,
+    "negative": 35494
+  },
+  {
+    "appid": 108600,
+    "name": "Project Zomboid",
+    "ccu": 22864,
+    "price": "1999",
+    "discount": "0",
+    "positive": 355171,
+    "negative": 21892
+  },
+  {
+    "appid": 3164500,
+    "name": "Schedule I",
+    "ccu": 22757,
+    "price": "1999",
+    "discount": "0",
+    "positive": 200803,
+    "negative": 3238
+  },
+  {
+    "appid": 1091500,
+    "name": "Cyberpunk 2077",
+    "ccu": 22265,
+    "price": "2099",
+    "discount": "65",
+    "positive": 713071,
+    "negative": 131850
+  },
+  {
+    "appid": 346110,
+    "name": "ARK: Survival Evolved",
+    "ccu": 22170,
+    "price": "1499",
+    "discount": "0",
+    "positive": 612177,
+    "negative": 117993
+  },
+  {
+    "appid": 252950,
+    "name": "Rocket League",
+    "ccu": 21106,
+    "price": "0",
+    "discount": "0",
+    "positive": 509445,
+    "negative": 73775
+  },
+  {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "ccu": 18400,
+    "price": "999",
+    "discount": "0",
+    "positive": 1122546,
+    "negative": 37161
+  },
+  {
+    "appid": 1623730,
+    "name": "Palworld",
+    "ccu": 18028,
+    "price": "2999",
+    "discount": "0",
+    "positive": 358266,
+    "negative": 22443
+  },
+  {
+    "appid": 1599340,
+    "name": "Lost Ark",
+    "ccu": 17355,
+    "price": "0",
+    "discount": "0",
+    "positive": 143481,
+    "negative": 58540
+  },
+  {
+    "appid": 227300,
+    "name": "Euro Truck Simulator 2",
+    "ccu": 17281,
+    "price": "1999",
+    "discount": "0",
+    "positive": 844480,
+    "negative": 22924
+  },
+  {
+    "appid": 251570,
+    "name": "7 Days to Die",
+    "ccu": 17045,
+    "price": "4499",
+    "discount": "0",
+    "positive": 327889,
+    "negative": 42157
+  },
+  {
+    "appid": 2694490,
+    "name": "Path of Exile 2",
+    "ccu": 16727,
+    "price": "2999",
+    "discount": "0",
+    "positive": 118511,
+    "negative": 50510
+  },
+  {
+    "appid": 292030,
+    "name": "The Witcher 3: Wild Hunt",
+    "ccu": 15893,
+    "price": "799",
+    "discount": "80",
+    "positive": 802993,
+    "negative": 32356
+  },
+  {
+    "appid": 2358720,
+    "name": "Black Myth: Wukong",
+    "ccu": 15004,
+    "price": "5999",
+    "discount": "0",
+    "positive": 1111720,
+    "negative": 38378
+  },
+  {
+    "appid": 261550,
+    "name": "Mount & Blade II: Bannerlord",
+    "ccu": 14477,
+    "price": "2499",
+    "discount": "50",
+    "positive": 232360,
+    "negative": 32031
+  },
+  {
+    "appid": 892970,
+    "name": "Valheim",
+    "ccu": 14439,
+    "price": "999",
+    "discount": "50",
+    "positive": 471451,
+    "negative": 28377
+  },
+  {
+    "appid": 291550,
+    "name": "Brawlhalla",
+    "ccu": 14169,
+    "price": "0",
+    "discount": "0",
+    "positive": 314809,
+    "negative": 71647
+  },
+  {
+    "appid": 1665460,
+    "name": "eFootball",
+    "ccu": 13404,
+    "price": "0",
+    "discount": "0",
+    "positive": 44067,
+    "negative": 48266
+  },
+  {
+    "appid": 526870,
+    "name": "Satisfactory",
+    "ccu": 12596,
+    "price": "2799",
+    "discount": "30",
+    "positive": 225479,
+    "negative": 6585
+  },
+  {
+    "appid": 2246340,
+    "name": "Monster Hunter Wilds",
+    "ccu": 12494,
+    "price": "6999",
+    "discount": "0",
+    "positive": 127273,
+    "negative": 91142
+  },
+  {
+    "appid": 8930,
+    "name": "Sid Meier's Civilization V",
+    "ccu": 12206,
+    "price": "2999",
+    "discount": "0",
+    "positive": 195724,
+    "negative": 8541
+  },
+  {
+    "appid": 582010,
+    "name": "Monster Hunter: World",
+    "ccu": 11923,
+    "price": "2999",
+    "discount": "0",
+    "positive": 434239,
+    "negative": 59151
+  },
+  {
+    "appid": 377160,
+    "name": "Fallout 4",
+    "ccu": 11179,
+    "price": "1999",
+    "discount": "0",
+    "positive": 326054,
+    "negative": 66233
+  },
+  {
+    "appid": 304930,
+    "name": "Unturned",
+    "ccu": 10408,
+    "price": "0",
+    "discount": "0",
+    "positive": 506516,
+    "negative": 48852
+  },
+  {
+    "appid": 739630,
+    "name": "Phasmophobia",
+    "ccu": 9978,
+    "price": "1999",
+    "discount": "0",
+    "positive": 736611,
+    "negative": 32168
+  },
+  {
+    "appid": 255710,
+    "name": "Cities: Skylines",
+    "ccu": 8842,
+    "price": "2999",
+    "discount": "0",
+    "positive": 256362,
+    "negative": 19408
+  },
+  {
+    "appid": 49520,
+    "name": "Borderlands 2",
+    "ccu": 8551,
+    "price": "499",
+    "discount": "75",
+    "positive": 272900,
+    "negative": 22318
+  },
+  {
+    "appid": 552990,
+    "name": "World of Warships",
+    "ccu": 8518,
+    "price": "0",
+    "discount": "0",
+    "positive": 112887,
+    "negative": 33665
+  },
+  {
+    "appid": 632360,
+    "name": "Risk of Rain 2",
+    "ccu": 7902,
+    "price": "2499",
+    "discount": "0",
+    "positive": 293127,
+    "negative": 20450
+  },
+  {
+    "appid": 10,
+    "name": "Counter-Strike",
+    "ccu": 7323,
+    "price": "999",
+    "discount": "0",
+    "positive": 243818,
+    "negative": 6427
+  },
+  {
+    "appid": 107410,
+    "name": "Arma 3",
+    "ccu": 7181,
+    "price": "899",
+    "discount": "70",
+    "positive": 256128,
+    "negative": 27136
+  },
+  {
+    "appid": 814380,
+    "name": "Sekiro: Shadows Die Twice - GOTY Edition",
+    "ccu": 6767,
+    "price": "5999",
+    "discount": "0",
+    "positive": 307041,
+    "negative": 15193
+  },
+  {
+    "appid": 1238810,
+    "name": "Battlefield V",
+    "ccu": 6327,
+    "price": "4999",
+    "discount": "0",
+    "positive": 177352,
+    "negative": 72936
+  },
+  {
+    "appid": 594650,
+    "name": "Hunt: Showdown 1896",
+    "ccu": 6300,
+    "price": "1349",
+    "discount": "55",
+    "positive": 181110,
+    "negative": 67110
+  },
+  {
+    "appid": 1966720,
+    "name": "Lethal Company",
+    "ccu": 6199,
+    "price": "999",
+    "discount": "0",
+    "positive": 473422,
+    "negative": 13738
+  },
+  {
+    "appid": 240,
+    "name": "Counter-Strike: Source",
+    "ccu": 6187,
+    "price": "999",
+    "discount": "0",
+    "positive": 175426,
+    "negative": 6808
+  },
+  {
+    "appid": 899770,
+    "name": "Last Epoch",
+    "ccu": 5831,
+    "price": "3499",
+    "discount": "0",
+    "positive": 88027,
+    "negative": 22596
+  },
+  {
+    "appid": 990080,
+    "name": "Hogwarts Legacy",
+    "ccu": 5716,
+    "price": "5999",
+    "discount": "0",
+    "positive": 289966,
+    "negative": 31429
+  },
+  {
+    "appid": 444200,
+    "name": "World of Tanks Blitz",
+    "ccu": 5707,
+    "price": "0",
+    "discount": "0",
+    "positive": 116407,
+    "negative": 31754
+  },
+  {
+    "appid": 1063730,
+    "name": "New World: Aeternum",
+    "ccu": 5583,
+    "price": "5999",
+    "discount": "0",
+    "positive": 196798,
+    "negative": 90080
+  },
+  {
+    "appid": 239140,
+    "name": "Dying Light",
+    "ccu": 4953,
+    "price": "2499",
+    "discount": "0",
+    "positive": 435687,
+    "negative": 21945
+  },
+  {
+    "appid": 648800,
+    "name": "Raft",
+    "ccu": 4701,
+    "price": "1999",
+    "discount": "0",
+    "positive": 323198,
+    "negative": 23161
+  },
+  {
+    "appid": 238960,
+    "name": "Path of Exile",
+    "ccu": 4694,
+    "price": "0",
+    "discount": "0",
+    "positive": 209822,
+    "negative": 25269
+  },
+  {
+    "appid": 1326470,
+    "name": "Sons Of The Forest",
+    "ccu": 4450,
+    "price": "2999",
+    "discount": "0",
+    "positive": 222495,
+    "negative": 31051
+  },
+  {
+    "appid": 945360,
+    "name": "Among Us",
+    "ccu": 3832,
+    "price": "499",
+    "discount": "0",
+    "positive": 643681,
+    "negative": 57104
+  },
+  {
+    "appid": 2186680,
+    "name": "Warhammer 40,000: Rogue Trader",
+    "ccu": 3582,
+    "price": "4999",
+    "discount": "0",
+    "positive": 26360,
+    "negative": 4445
+  },
+  {
+    "appid": 242760,
+    "name": "The Forest",
+    "ccu": 2892,
+    "price": "1999",
+    "discount": "0",
+    "positive": 599805,
+    "negative": 27986
+  },
+  {
+    "appid": 1517290,
+    "name": "Battlefield 2042",
+    "ccu": 2774,
+    "price": "5999",
+    "discount": "0",
+    "positive": 139186,
+    "negative": 158588
+  },
+  {
+    "appid": 219990,
+    "name": "Grim Dawn",
+    "ccu": 2376,
+    "price": "2499",
+    "discount": "0",
+    "positive": 93489,
+    "negative": 6241
+  },
+  {
+    "appid": 1240440,
+    "name": "Halo Infinite",
+    "ccu": 2275,
+    "price": "0",
+    "discount": "0",
+    "positive": 123333,
+    "negative": 53708
+  },
+  {
+    "appid": 386360,
+    "name": "SMITE",
+    "ccu": 1853,
+    "price": "0",
+    "discount": "0",
+    "positive": 94368,
+    "negative": 25428
+  },
+  {
+    "appid": 220,
+    "name": "Half-Life 2",
+    "ccu": 1555,
+    "price": "999",
+    "discount": "0",
+    "positive": 239721,
+    "negative": 5906
+  },
+  {
+    "appid": 1811260,
+    "name": "EA SPORTS FIFA 23",
+    "ccu": 1280,
+    "price": "0",
+    "discount": "0",
+    "positive": 86192,
+    "negative": 65227
+  },
+  {
+    "appid": 444090,
+    "name": "Paladins",
+    "ccu": 1028,
+    "price": "0",
+    "discount": "0",
+    "positive": 294373,
+    "negative": 52031
+  },
+  {
+    "appid": 433850,
+    "name": "Z1 Battle Royale",
+    "ccu": 1010,
+    "price": "0",
+    "discount": "0",
+    "positive": 113729,
+    "negative": 90284
+  },
+  {
+    "appid": 477160,
+    "name": "Human Fall Flat",
+    "ccu": 950,
+    "price": "1999",
+    "discount": "0",
+    "positive": 202253,
+    "negative": 11387
+  },
+  {
+    "appid": 304050,
+    "name": "Trove",
+    "ccu": 758,
+    "price": "0",
+    "discount": "0",
+    "positive": 74103,
+    "negative": 18267
+  },
+  {
+    "appid": 1097150,
+    "name": "Fall Guys: Ultimate Knockout",
+    "ccu": 664,
+    "price": "0",
+    "discount": "0",
+    "positive": 385154,
+    "negative": 88589
+  },
+  {
+    "appid": 400,
+    "name": "Portal",
+    "ccu": 638,
+    "price": "999",
+    "discount": "0",
+    "positive": 175024,
+    "negative": 2717
+  },
+  {
+    "appid": 70,
+    "name": "Half-Life",
+    "ccu": 634,
+    "price": "999",
+    "discount": "0",
+    "positive": 143086,
+    "negative": 5135
+  },
+  {
+    "appid": 291480,
+    "name": "Warface: Clutch",
+    "ccu": 270,
+    "price": "0",
+    "discount": "0",
+    "positive": 54554,
+    "negative": 27643
+  },
+  {
+    "appid": 1491000,
+    "name": "War Robots: Frontiers",
+    "ccu": 256,
+    "price": "0",
+    "discount": "0",
+    "positive": 1977,
+    "negative": 1105
+  },
+  {
+    "appid": 1089350,
+    "name": "NBA 2K20",
+    "ccu": 221,
+    "price": "0",
+    "discount": "0",
+    "positive": 30260,
+    "negative": 30413
+  },
+  {
+    "appid": 550650,
+    "name": "Black Squad",
+    "ccu": 212,
+    "price": "0",
+    "discount": "0",
+    "positive": 62042,
+    "negative": 19672
+  },
+  {
+    "appid": 320,
+    "name": "Half-Life 2: Deathmatch",
+    "ccu": 159,
+    "price": "1999",
+    "discount": "0",
+    "positive": 12962,
+    "negative": 1334
+  },
+  {
+    "appid": 532210,
+    "name": "Life is Strange 2",
+    "ccu": 153,
+    "price": "3196",
+    "discount": "0",
+    "positive": 31616,
+    "negative": 5018
+  },
+  {
+    "appid": 100,
+    "name": "Counter-Strike: Condition Zero",
+    "ccu": 83,
+    "price": "999",
+    "discount": "0",
+    "positive": 13442,
+    "negative": 1535
+  },
+  {
+    "appid": 1116170,
+    "name": "CyberCorp",
+    "ccu": 3,
+    "price": "1499",
+    "discount": "0",
+    "positive": 266,
+    "negative": 56
+  },
+  {
+    "appid": 340,
+    "name": "Half-Life 2: Lost Coast",
+    "ccu": 2,
+    "price": "1999",
+    "discount": "0",
+    "positive": 12215,
+    "negative": 1471
+  },
+  {
+    "appid": 417910,
+    "name": "Street Warriors Online",
+    "ccu": 1,
+    "price": "199",
+    "discount": "0",
+    "positive": 941,
+    "negative": 693
+  },
+  {
+    "appid": 901583,
+    "name": "Grand Theft Auto IV: Complete Edition",
+    "ccu": 0,
+    "price": "0",
+    "discount": "0",
+    "positive": 144570,
+    "negative": 30702
+  },
+  {
+    "appid": 227940,
+    "name": "Heroes & Generals",
+    "ccu": 0,
+    "price": "0",
+    "discount": "0",
+    "positive": 96499,
+    "negative": 46264
+  },
+  {
+    "appid": 755790,
+    "name": "Ring of Elysium",
+    "ccu": 0,
+    "price": "0",
+    "discount": "0",
+    "positive": 74345,
+    "negative": 25492
+  }
+]
