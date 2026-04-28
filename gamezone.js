@@ -796,7 +796,7 @@ document.addEventListener("DOMContentLoaded",function(){
     var ut=$("updateTime");if(ut&&data.updated_at)ut.textContent="업데이트: "+data.updated_at;
   }).catch(function(e){console.error("meta error:",e);});
 
-  fetch(EPIC_API).then(function(r){return r.json();}).then(function(data){
+  fetch(DATA_BASE+"epic.json").then(function(r){return r.json();}).then(function(data){
     parseEpicData(data);
     renderEpicFree();
     renderEpicTop20();
