@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5059251,
+    "positive": 5060228,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759249,
+    "positive": 1759267,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 907223,
+    "positive": 907315,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 145802,
+    "positive": 146456,
     "negative": 0,
     "genres": [
       "인디",
@@ -190,7 +190,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1575,
+    "positive": 1576,
     "negative": 0,
     "genres": [
       "액션",
@@ -225,7 +225,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1876346,
+    "positive": 1876414,
     "negative": 0,
     "genres": [
       "액션",
@@ -279,7 +279,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 539767,
+    "positive": 539982,
     "negative": 0,
     "genres": [
       "액션",
@@ -313,7 +313,7 @@
     "price_kr_formatted": "₩ 58,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 280642,
+    "positive": 280798,
     "negative": 0,
     "genres": [
       "액션"
@@ -416,7 +416,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1239452,
+    "positive": 1239488,
     "negative": 0,
     "genres": [
       "액션",
@@ -444,25 +444,25 @@
     "is_free": false,
     "desc_kr": "죽음조차도 피할 수 없는 섬뜩한 악의 영역에 영원히 갇힌 네 명의 생존자는 신경과 재치를 시험하는 잔혹한 게임에서 피에 굶주린 살인마에 맞서 싸워야 합니다. 어느 편에 설지 선택하고 공포 게임 최고의 비대칭 멀티플레이어에서 긴장감과 공포의 세계로 들어가보세요.",
     "release_date": "2016년 6월 14일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/0d639f88506b8a695c40898ec22dadaaa6698d3e/header_alt_assets_5.jpg?t=1777395345",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/0d639f88506b8a695c40898ec22dadaaa6698d3e/header_alt_assets_5.jpg?t=1777584780",
     "price_kr": 860000,
     "price_kr_initial": 2150000,
     "price_kr_formatted": "₩ 8,600",
     "price_kr_initial_formatted": "₩ 21,500",
     "discount": 60,
-    "positive": 654608,
+    "positive": 654707,
     "negative": 0,
     "genres": [
       "액션"
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_659500624438a4aa77bfdf304cba3ecebcd92ed9.600x338.jpg?t=1777395345",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_ca6b39f2fcac8feb75d23976b1be31290d58d159.600x338.jpg?t=1777395345",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_4075aac79adfe1a5b71665d2cc5ff7d52122650b.600x338.jpg?t=1777395345",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_d3778cc9576bf3457f4ba896a443a114c0455753.600x338.jpg?t=1777395345",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_b142095e4f9e5d9db978270ea09e8b9149db9f18.600x338.jpg?t=1777395345",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/ss_430577c364a68dbe24e8a1d895bd678ea04b87d5.600x338.jpg?t=1777395345"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1777584780",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1777584780",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1777584780",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.600x338.jpg?t=1777584780",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.600x338.jpg?t=1777584780",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/7a898338890f6e0aabf1c8c424a4f33c56c4e1e1/ss_7a898338890f6e0aabf1c8c424a4f33c56c4e1e1.600x338.jpg?t=1777584780"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 64-bit Operating System<br></li><li><strong>프로세서:</strong> Intel Core i3-4170 or AMD FX-8120<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> DX11 Compatible GeForce GTX 460 1GB or AMD HD 6850 1GB<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DX11 compatible<br></li><li><strong>추가 사항:</strong> With these requirements, it is recommended that the game is played on Low quality settings.</li></ul>",
@@ -483,7 +483,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 818878,
+    "positive": 819590,
     "negative": 0,
     "genres": [
       "액션"
@@ -550,7 +550,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 28089,
+    "positive": 28876,
     "negative": 0,
     "genres": [
       "액션",
@@ -657,7 +657,7 @@
     "price_kr_formatted": "₩ 16,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 859574,
+    "positive": 859685,
     "negative": 0,
     "genres": [
       "인디",
