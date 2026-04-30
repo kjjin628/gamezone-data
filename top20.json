@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5059054,
+    "positive": 5059251,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759242,
+    "positive": 1759249,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 907186,
+    "positive": 907223,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 145544,
+    "positive": 145802,
     "negative": 0,
     "genres": [
       "인디",
@@ -225,7 +225,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1876335,
+    "positive": 1876346,
     "negative": 0,
     "genres": [
       "액션",
@@ -279,7 +279,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 539721,
+    "positive": 539767,
     "negative": 0,
     "genres": [
       "액션",
@@ -313,7 +313,7 @@
     "price_kr_formatted": "₩ 58,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 280576,
+    "positive": 280642,
     "negative": 0,
     "genres": [
       "액션"
@@ -416,7 +416,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1239459,
+    "positive": 1239452,
     "negative": 0,
     "genres": [
       "액션",
@@ -450,7 +450,7 @@
     "price_kr_formatted": "₩ 8,600",
     "price_kr_initial_formatted": "₩ 21,500",
     "discount": 60,
-    "positive": 654591,
+    "positive": 654608,
     "negative": 0,
     "genres": [
       "액션"
@@ -483,7 +483,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 818606,
+    "positive": 818878,
     "negative": 0,
     "genres": [
       "액션"
@@ -544,13 +544,13 @@
     "is_free": false,
     "desc_kr": "해적 시대로 PvE 생존 모험을 떠나보세요. 육지와 바다에서, 혼자서 혹은 친구들과 함께 싸우세요. 건설하고, 제작하고, 어두운 비밀이 가득한 광활한 오픈 월드를 탐험하세요. 라이트한 소울라이크 전투를 마스터하고 도전적인 보스에 맞서세요. 함선을 지휘하고 어마어마한 보물을 약탈하세요!",
     "release_date": "2026년 4월 14일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/7e838d87d787735d5d29d72777c5ee55653dfb2b/header.jpg?t=1776704774",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/7e838d87d787735d5d29d72777c5ee55653dfb2b/header.jpg?t=1777529081",
     "price_kr": 3200000,
     "price_kr_initial": 3200000,
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 27808,
+    "positive": 28089,
     "negative": 0,
     "genres": [
       "액션",
@@ -560,12 +560,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/464db0a63a2d03bb8e75ecf04e24f8949b03d500/ss_464db0a63a2d03bb8e75ecf04e24f8949b03d500.600x338.jpg?t=1776704774",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/f83b7aa29874e6e57fd20ab0642269536723ac1a/ss_f83b7aa29874e6e57fd20ab0642269536723ac1a.600x338.jpg?t=1776704774",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/65dfc1db4ae81fd96d496c0e3bb9640281eafe0c/ss_65dfc1db4ae81fd96d496c0e3bb9640281eafe0c.600x338.jpg?t=1776704774",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/9d7ee982069054a1ba23dc881f26f1f83f356daa/ss_9d7ee982069054a1ba23dc881f26f1f83f356daa.600x338.jpg?t=1776704774",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/1ecaa7ff2d46c717a5afb4a7e11f678d16ae3064/ss_1ecaa7ff2d46c717a5afb4a7e11f678d16ae3064.600x338.jpg?t=1776704774",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/c5f6647067df8c778831b463443b22b6e1df0ed6/ss_c5f6647067df8c778831b463443b22b6e1df0ed6.600x338.jpg?t=1776704774"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/464db0a63a2d03bb8e75ecf04e24f8949b03d500/ss_464db0a63a2d03bb8e75ecf04e24f8949b03d500.600x338.jpg?t=1777529081",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/f83b7aa29874e6e57fd20ab0642269536723ac1a/ss_f83b7aa29874e6e57fd20ab0642269536723ac1a.600x338.jpg?t=1777529081",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/65dfc1db4ae81fd96d496c0e3bb9640281eafe0c/ss_65dfc1db4ae81fd96d496c0e3bb9640281eafe0c.600x338.jpg?t=1777529081",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/9d7ee982069054a1ba23dc881f26f1f83f356daa/ss_9d7ee982069054a1ba23dc881f26f1f83f356daa.600x338.jpg?t=1777529081",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/1ecaa7ff2d46c717a5afb4a7e11f678d16ae3064/ss_1ecaa7ff2d46c717a5afb4a7e11f678d16ae3064.600x338.jpg?t=1777529081",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/c5f6647067df8c778831b463443b22b6e1df0ed6/ss_c5f6647067df8c778831b463443b22b6e1df0ed6.600x338.jpg?t=1777529081"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows® 10(64비트)™<br></li><li><strong>프로세서:</strong> Intel® Core™ i7-8700K / AMD® Ryzen™ 7 2700X<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA® GTX™ 1080 Ti / AMD® Radeon™ RX 6800<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 30 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> 현재 개발 단계에서는 시스템 요구 사항이 최종 확정되지 않았습니다. 지속적인 최적화를 통해 다양한 하드웨어 구성에서의 성능이 향상될 예정입니다. 명시된 최소 RAM 요구 사항은 싱글 플레이 및 협동 플레이에 적용됩니다. 서버(월드)를 직접 호스팅하는 경우 추가 RAM이 필요합니다. 원활한 게임 플레이를 위해 SSD 사용을 강력히 권장합니다.</li></ul>",
@@ -657,7 +657,7 @@
     "price_kr_formatted": "₩ 16,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 859543,
+    "positive": 859574,
     "negative": 0,
     "genres": [
       "인디",
