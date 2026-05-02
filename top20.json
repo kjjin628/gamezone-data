@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5062499,
+    "positive": 5063524,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759317,
+    "positive": 1759341,
     "negative": 0,
     "genres": [
       "액션",
@@ -111,13 +111,13 @@
     "is_free": false,
     "desc_kr": "바탕화면에서 멋진 라이브 배경화면을 사용하세요. 자신의 이미지를 애니메이션으로 만들어서 새 배경화면을 생성하거나 비디오/웹 사이트를 가져와서 Steam Workshop에서 공유하세요!",
     "release_date": "2018년 11월 16일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1739211362",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1777723277",
     "price_kr": 560000,
     "price_kr_initial": 560000,
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 907649,
+    "positive": 907766,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -129,12 +129,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_3a57330656c2c782f236e210f771f7d0a54581b5.600x338.jpg?t=1739211362",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_39ed0a9730b67a930acb8ceed221cc968bee7731.600x338.jpg?t=1739211362",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_8d1d6ab2b5333a1685547c48d5ddc7fd391f2650.600x338.jpg?t=1739211362",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_c63a5b855bf66be02b7d1c167987f7cf2a38870a.600x338.jpg?t=1739211362",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_61924a20e4de0ce7736ae1b0d8035fae76767992.600x338.jpg?t=1739211362",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_4de8564700e99ba7ecac2794127cc85ceba63778.600x338.jpg?t=1739211362"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_3a57330656c2c782f236e210f771f7d0a54581b5.600x338.jpg?t=1777723277",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_39ed0a9730b67a930acb8ceed221cc968bee7731.600x338.jpg?t=1777723277",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_8d1d6ab2b5333a1685547c48d5ddc7fd391f2650.600x338.jpg?t=1777723277",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_c63a5b855bf66be02b7d1c167987f7cf2a38870a.600x338.jpg?t=1777723277",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_61924a20e4de0ce7736ae1b0d8035fae76767992.600x338.jpg?t=1777723277",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/ss_4de8564700e99ba7ecac2794127cc85ceba63778.600x338.jpg?t=1777723277"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10, Windows 11<br></li><li><strong>프로세서:</strong> 1.66 GHz Intel i5 or equivalent<br></li><li><strong>메모리:</strong> 1024 MB RAM<br></li><li><strong>그래픽:</strong> HD Graphics 4000 or above<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>저장 공간:</strong> 512 MB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> Windows N 버전에는 Microsoft의 'Media Feature Pack'이 필요합니다.</li></ul>",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 148373,
+    "positive": 149160,
     "negative": 0,
     "genres": [
       "인디",
@@ -225,7 +225,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1876623,
+    "positive": 1876739,
     "negative": 0,
     "genres": [
       "액션",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 540804,
+    "positive": 541145,
     "negative": 0,
     "genres": [
       "액션",
@@ -383,7 +383,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1239611,
+    "positive": 1239659,
     "negative": 0,
     "genres": [
       "액션",
@@ -451,7 +451,7 @@
     "price_kr_formatted": "₩ 8,600",
     "price_kr_initial_formatted": "₩ 21,500",
     "discount": 60,
-    "positive": 654985,
+    "positive": 655108,
     "negative": 0,
     "genres": [
       "액션"
@@ -484,7 +484,7 @@
     "price_kr_formatted": "₩ 58,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 281231,
+    "positive": 281431,
     "negative": 0,
     "genres": [
       "액션"
@@ -553,7 +553,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 820486,
+    "positive": 820698,
     "negative": 0,
     "genres": [
       "액션"
@@ -586,7 +586,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 30343,
+    "positive": 30894,
     "negative": 0,
     "genres": [
       "액션",
@@ -622,7 +622,7 @@
     "price_kr_formatted": "₩ 21,000",
     "price_kr_initial_formatted": "₩ 42,000",
     "discount": 50,
-    "positive": 1129777,
+    "positive": 1130016,
     "negative": 0,
     "genres": [
       "액션",
@@ -659,7 +659,7 @@
     "price_kr_formatted": "₩ 24,000",
     "price_kr_initial_formatted": "₩ 80,000",
     "discount": 70,
-    "positive": 56914,
+    "positive": 57053,
     "negative": 0,
     "genres": [
       "시뮬레이션",
