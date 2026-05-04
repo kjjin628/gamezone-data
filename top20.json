@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5065797,
+    "positive": 5066676,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759386,
+    "positive": 1759405,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 908084,
+    "positive": 908198,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 150750,
+    "positive": 151321,
     "negative": 0,
     "genres": [
       "인디",
@@ -225,7 +225,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1876940,
+    "positive": 1876997,
     "negative": 0,
     "genres": [
       "액션",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 542081,
+    "positive": 542278,
     "negative": 0,
     "genres": [
       "액션",
@@ -349,7 +349,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1239816,
+    "positive": 1239858,
     "negative": 0,
     "genres": [
       "액션",
@@ -446,12 +446,12 @@
     "desc_kr": "ARC Raiders는 아크라 불리는 미지의 머신들에게 침공당한 위험천만한 미래 지구를 배경으로 하는 멀티플레이어 구출 어드벤처 게임입니다.",
     "release_date": "2025년 10월 30일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/003a29cb908e7e041152a9a7d54bfa502a1a5191/header_alt_assets_4.jpg?t=1776865359",
-    "price_kr": 5890000,
-    "price_kr_initial": 5890000,
-    "price_kr_formatted": "₩ 58,900",
+    "price_kr": 6090000,
+    "price_kr_initial": 6090000,
+    "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 281878,
+    "positive": 282026,
     "negative": 0,
     "genres": [
       "액션"
@@ -484,7 +484,7 @@
     "price_kr_formatted": "₩ 8,600",
     "price_kr_initial_formatted": "₩ 21,500",
     "discount": 60,
-    "positive": 655390,
+    "positive": 655470,
     "negative": 0,
     "genres": [
       "액션"
@@ -553,7 +553,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 32335,
+    "positive": 32861,
     "negative": 0,
     "genres": [
       "액션",
@@ -589,7 +589,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 821125,
+    "positive": 821211,
     "negative": 0,
     "genres": [
       "액션"
@@ -622,7 +622,7 @@
     "price_kr_formatted": "₩ 16,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 860537,
+    "positive": 860654,
     "negative": 0,
     "genres": [
       "인디",
@@ -657,7 +657,7 @@
     "price_kr_formatted": "₩ 21,000",
     "price_kr_initial_formatted": "₩ 42,000",
     "discount": 50,
-    "positive": 1130472,
+    "positive": 1130635,
     "negative": 0,
     "genres": [
       "액션",

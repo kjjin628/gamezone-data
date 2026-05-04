@@ -10,7 +10,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5065797,
+    "positive": 5066676,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg?t=1749053861"
   },
@@ -25,7 +25,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759386,
+    "positive": 1759405,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1775635041"
   },
@@ -55,7 +55,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 908084,
+    "positive": 908198,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1777723277"
   },
@@ -70,7 +70,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 150750,
+    "positive": 151321,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1776735385"
   },
@@ -100,7 +100,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1876940,
+    "positive": 1876997,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725"
   },
@@ -115,7 +115,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 542081,
+    "positive": 542278,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg?t=1775300400"
   },
@@ -160,7 +160,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1239816,
+    "positive": 1239858,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/a424cb67a86be35b8d761784a3bdaa726f29c942/header_alt_assets_20_koreana.jpg?t=1775836354"
   },
@@ -200,12 +200,12 @@
     "name_kr": "ARC Raiders",
     "ccu": 122157,
     "is_free": false,
-    "price_kr": 5890000,
-    "price_kr_initial": 5890000,
-    "price_kr_formatted": "₩ 58,900",
+    "price_kr": 6090000,
+    "price_kr_initial": 6090000,
+    "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 281878,
+    "positive": 282026,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/003a29cb908e7e041152a9a7d54bfa502a1a5191/header_alt_assets_4.jpg?t=1776865359"
   },
@@ -220,7 +220,7 @@
     "price_kr_formatted": "₩ 8,600",
     "price_kr_initial_formatted": "₩ 21,500",
     "discount": 60,
-    "positive": 655390,
+    "positive": 655470,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/0d639f88506b8a695c40898ec22dadaaa6698d3e/header_alt_assets_5.jpg?t=1777584780"
   },
@@ -250,7 +250,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 32335,
+    "positive": 32861,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041230/7e838d87d787735d5d29d72777c5ee55653dfb2b/header.jpg?t=1777529081"
   },
@@ -265,7 +265,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 821125,
+    "positive": 821211,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/c30971376c20594452d25bb1d7d6346961bbeefa/header_koreana.jpg?t=1770747641"
   },
@@ -280,7 +280,7 @@
     "price_kr_formatted": "₩ 16,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 860537,
+    "positive": 860654,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865"
   },
@@ -295,7 +295,7 @@
     "price_kr_formatted": "₩ 21,000",
     "price_kr_initial_formatted": "₩ 42,000",
     "discount": 50,
-    "positive": 1130472,
+    "positive": 1130635,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1776257232"
   },
@@ -310,7 +310,7 @@
     "price_kr_formatted": "₩ 24,000",
     "price_kr_initial_formatted": "₩ 80,000",
     "discount": 70,
-    "positive": 57386,
+    "positive": 57499,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg?t=1777414590"
   },
@@ -342,7 +342,7 @@
     "discount": 0,
     "positive": 2879,
     "negative": 0,
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/60ce7425b864dd3c0dd855bfc66004c6f9ca4844/header.jpg?t=1775661175"
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/60ce7425b864dd3c0dd855bfc66004c6f9ca4844/header.jpg?t=1777906919"
   },
   {
     "appid": 3321460,
@@ -355,7 +355,7 @@
     "price_kr_formatted": "₩ 79,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 98180,
+    "positive": 98355,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/905a27028fe2cb3bfbffb7ae006847e8ee4eec53/header_koreana.jpg?t=1777016399"
   },
@@ -370,7 +370,7 @@
     "price_kr_formatted": "₩ 48,000",
     "price_kr_initial_formatted": "₩ 80,000",
     "discount": 40,
-    "positive": 271175,
+    "positive": 271228,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1777475030"
   },
@@ -380,12 +380,12 @@
     "name_kr": "Grand Theft Auto V 인핸스드",
     "ccu": 74789,
     "is_free": false,
-    "price_kr": 2420000,
-    "price_kr_initial": 5500000,
-    "price_kr_formatted": "₩ 24,200",
-    "price_kr_initial_formatted": "₩ 55,000",
-    "discount": 56,
-    "positive": 167051,
+    "price_kr": 3679000,
+    "price_kr_initial": 3679000,
+    "price_kr_formatted": "₩ 36,790",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 167195,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_koreana.jpg?t=1765479644"
   },
@@ -400,7 +400,7 @@
     "price_kr_formatted": "₩ 7,490",
     "price_kr_initial_formatted": "₩ 10,700",
     "discount": 30,
-    "positive": 305087,
+    "positive": 305234,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1765552338"
   },
@@ -415,7 +415,7 @@
     "price_kr_formatted": "₩ 11,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1211437,
+    "positive": 1211513,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435"
   },
@@ -445,7 +445,7 @@
     "price_kr_formatted": "₩ 24,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 759859,
+    "positive": 759928,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1773641450"
   },
@@ -475,7 +475,7 @@
     "price_kr_formatted": "₩ 11,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 791798,
+    "positive": 791855,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214"
   },
@@ -505,7 +505,7 @@
     "price_kr_formatted": "₩ 16,500",
     "price_kr_initial_formatted": "₩ 55,000",
     "discount": 70,
-    "positive": 273147,
+    "positive": 273212,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1777568442"
   },
@@ -515,12 +515,12 @@
     "name_kr": "Baldur's Gate 3",
     "ccu": 67047,
     "is_free": false,
-    "price_kr": 6600000,
+    "price_kr": 4950000,
     "price_kr_initial": 6600000,
-    "price_kr_formatted": "₩ 66,000",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 736883,
+    "price_kr_formatted": "₩ 49,500",
+    "price_kr_initial_formatted": "₩ 66,000",
+    "discount": 25,
+    "positive": 736940,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040"
   },
@@ -535,7 +535,7 @@
     "price_kr_formatted": "₩ 66,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 847160,
+    "positive": 847300,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/26b96fa9c8af43189cbecbbc329ade29d9c9cf3e/header_koreana.jpg?t=1769690377"
   },
@@ -550,7 +550,7 @@
     "price_kr_formatted": "₩ 17,990",
     "price_kr_initial_formatted": "₩ 19,990",
     "discount": 10,
-    "positive": 13956,
+    "positive": 14822,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/21362a3efa8067bf28d0abf350c2a13cd39e61bc/header_alt_assets_3.jpg?t=1777478432"
   },
@@ -565,9 +565,9 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 366039,
+    "positive": 366066,
     "negative": 0,
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/14496a5926156fbaf8b026f8224ba8c34e9b5096/header_alt_assets_49.jpg?t=1776359433"
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/14496a5926156fbaf8b026f8224ba8c34e9b5096/header_alt_assets_49.jpg?t=1777913126"
   },
   {
     "appid": 284160,
@@ -580,7 +580,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 362317,
+    "positive": 362408,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/17f8af1312bc48e6cd90e5fb639d4981682af260/header.jpg?t=1772048121"
   },
@@ -595,7 +595,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 197634,
+    "positive": 197637,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/d88c88f00b267dd54fa5fbcbb7e5b53245e0011a/header.jpg?t=1775790745"
   },
@@ -610,9 +610,9 @@
     "price_kr_formatted": "₩ 29,920",
     "price_kr_initial_formatted": "₩ 39,900",
     "discount": 25,
-    "positive": 7038,
+    "positive": 7453,
     "negative": 0,
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/1b4d6c4d876197e9806177e9853ccb8a13fb8274/header_koreana.jpg?t=1777884617"
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105440/1b4d6c4d876197e9806177e9853ccb8a13fb8274/header_koreana.jpg?t=1777899549"
   },
   {
     "appid": 4000,
@@ -625,7 +625,7 @@
     "price_kr_formatted": "₩ 5,250",
     "price_kr_initial_formatted": "₩ 10,500",
     "discount": 50,
-    "positive": 1064986,
+    "positive": 1065112,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682"
   },
@@ -640,7 +640,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 408027,
+    "positive": 408030,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/3c66561c9d6f46605a9134b2bb43c0f4424332ac/header_koreana.jpg?t=1776875071"
   },
@@ -655,7 +655,7 @@
     "price_kr_formatted": "₩ 64,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 815154,
+    "positive": 815203,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1767883716"
   },
@@ -670,7 +670,7 @@
     "price_kr_formatted": "₩ 73,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 803635,
+    "positive": 803760,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961"
   },
@@ -685,7 +685,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 435259,
+    "positive": 435269,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/1bcf75584d0c3613b02b2d0a2721a6b411375784/header_alt_assets_15.jpg?t=1773251703"
   },
@@ -700,7 +700,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 82932,
+    "positive": 82934,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg?t=1777389601"
   },
@@ -715,7 +715,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 354645,
+    "positive": 354690,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365"
   },
@@ -730,7 +730,7 @@
     "price_kr_formatted": "₩ 84,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 15893,
+    "positive": 15920,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472040/f7e126add75c3b09779b44cd349be93d31b0a80b/header.jpg?t=1776196566"
   },
@@ -760,7 +760,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 339418,
+    "positive": 339490,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1777298596"
   },
@@ -790,7 +790,7 @@
     "price_kr_formatted": "₩ 6,500",
     "price_kr_initial_formatted": "₩ 65,000",
     "discount": 90,
-    "positive": 271584,
+    "positive": 271600,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg?t=1740607040"
   },
@@ -805,7 +805,7 @@
     "price_kr_formatted": "₩ 5,520",
     "price_kr_initial_formatted": "₩ 8,900",
     "discount": 38,
-    "positive": 1669,
+    "positive": 1887,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1777658920"
   },
@@ -820,7 +820,7 @@
     "price_kr_formatted": "₩ 8,400",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 258036,
+    "positive": 258128,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1775581133"
   },
@@ -835,7 +835,7 @@
     "price_kr_formatted": "₩ 59,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 380343,
+    "positive": 380373,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1769695513"
   },
@@ -850,7 +850,7 @@
     "price_kr_formatted": "₩ 62,400",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 51955,
+    "positive": 52026,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/2953f199b4c075b22c0cf8ff03d88b0b1c267823/header_alt_assets_11.jpg?t=1777501665"
   },
@@ -860,12 +860,12 @@
     "name_kr": "Street Fighter 6",
     "ccu": 33408,
     "is_free": false,
-    "price_kr": 2240000,
+    "price_kr": 4480000,
     "price_kr_initial": 4480000,
-    "price_kr_formatted": "₩ 22,400",
-    "price_kr_initial_formatted": "₩ 44,800",
-    "discount": 50,
-    "positive": 46033,
+    "price_kr_formatted": "₩ 44,800",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 46045,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1776917924"
   },
@@ -875,12 +875,12 @@
     "name_kr": "아세토 코르사 Assetto Corsa",
     "ccu": 17641,
     "is_free": false,
-    "price_kr": 512000,
+    "price_kr": 2050000,
     "price_kr_initial": 2050000,
-    "price_kr_formatted": "₩ 5,120",
-    "price_kr_initial_formatted": "₩ 20,500",
-    "discount": 75,
-    "positive": 131728,
+    "price_kr_formatted": "₩ 20,500",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 131760,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244210/header.jpg?t=1754985171"
   },
@@ -925,7 +925,7 @@
     "price_kr_formatted": "₩ 10,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 38986,
+    "positive": 38993,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366800/22e1a703a4d8f45c900741b53a4f933862798a10/header.jpg?t=1775517226"
   },
@@ -940,7 +940,7 @@
     "price_kr_formatted": "₩ 45,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 209974,
+    "positive": 209993,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778"
   },
@@ -970,7 +970,7 @@
     "price_kr_formatted": "₩ 29,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 34373,
+    "positive": 34393,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1775646645"
   },
@@ -1015,7 +1015,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 667581,
+    "positive": 667623,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1776847215"
   },
@@ -1030,7 +1030,7 @@
     "price_kr_formatted": "₩ 59,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 250322,
+    "positive": 250373,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1746471508"
   },
@@ -1060,7 +1060,7 @@
     "price_kr_formatted": "₩ 53,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 251487,
+    "positive": 251544,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg?t=1775492374"
   },
@@ -1090,7 +1090,7 @@
     "price_kr_formatted": "₩ 4,300",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 11190,
+    "positive": 12523,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128580/b7e0ff7f05df2c97692bc61c5d3ddf751acb3477/header.jpg?t=1776746728"
   },
@@ -1120,7 +1120,7 @@
     "price_kr_formatted": "₩ 60,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 223866,
+    "positive": 223908,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg?t=1764252300"
   },
@@ -1135,7 +1135,7 @@
     "price_kr_formatted": "₩ 69,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 23508,
+    "positive": 23745,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357650/e32e168b25ed68a0cf6264c220c07e96c2abfb56/header.jpg?t=1777351016"
   },
@@ -1150,7 +1150,7 @@
     "price_kr_formatted": "₩ 36,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 154572,
+    "positive": 154584,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1777577197"
   },
@@ -1165,7 +1165,7 @@
     "price_kr_formatted": "₩ 60,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 99845,
+    "positive": 99858,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1776795609"
   },
@@ -1180,7 +1180,7 @@
     "price_kr_formatted": "₩ 6,750",
     "price_kr_initial_formatted": "₩ 27,000",
     "discount": 75,
-    "positive": 186899,
+    "positive": 186942,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/646570/header.jpg?t=1774015376"
   },
@@ -1195,7 +1195,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 270813,
+    "positive": 270876,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1773974661"
   },
@@ -1205,12 +1205,12 @@
     "name_kr": "Crusader Kings III",
     "ccu": 33121,
     "is_free": false,
-    "price_kr": 1650000,
+    "price_kr": 5500000,
     "price_kr_initial": 5500000,
-    "price_kr_formatted": "₩ 16,500",
-    "price_kr_initial_formatted": "₩ 55,000",
-    "discount": 70,
-    "positive": 93568,
+    "price_kr_formatted": "₩ 55,000",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 93585,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/26512f9fd71590fe280dc7172665d88c20b92a7a/header_alt_assets_15_koreana.jpg?t=1777568423"
   },
@@ -1225,7 +1225,7 @@
     "price_kr_formatted": "₩ 49,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 124316,
+    "positive": 124336,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036"
   },
@@ -1240,7 +1240,7 @@
     "price_kr_formatted": "₩ 14,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 341093,
+    "positive": 341120,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg?t=1769161752"
   },
@@ -1255,7 +1255,7 @@
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 451280,
+    "positive": 451313,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243"
   },
@@ -1270,7 +1270,7 @@
     "price_kr_formatted": "₩ 47,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 272090,
+    "positive": 272102,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1776457619"
   },
@@ -1285,7 +1285,7 @@
     "price_kr_formatted": "₩ 37,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 202042,
+    "positive": 202076,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1776194377"
   },
@@ -1300,7 +1300,7 @@
     "price_kr_formatted": "₩ 19,560",
     "price_kr_initial_formatted": "₩ 48,900",
     "discount": 60,
-    "positive": 207912,
+    "positive": 207931,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/28c28099187e199e397f64f6bb879bec236549f9/header_alt_assets_24.jpg?t=1777741775"
   },
@@ -1315,7 +1315,7 @@
     "price_kr_formatted": "₩ 10,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 12576,
+    "positive": 12741,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg?t=1776925935"
   },
@@ -1360,7 +1360,7 @@
     "price_kr_formatted": "₩ 5,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 641016,
+    "positive": 641053,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1757444903"
   },
@@ -1375,7 +1375,7 @@
     "price_kr_formatted": "₩ 49,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 164402,
+    "positive": 164486,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header_koreana.jpg?t=1772502922"
   },
@@ -1390,7 +1390,7 @@
     "price_kr_formatted": "₩ 69,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 18851,
+    "positive": 18861,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3551340/7d28b9aa8dcfcd96593d112736f58b4b1d3cc7a4/header.jpg?t=1775667513"
   },
@@ -1405,7 +1405,7 @@
     "price_kr_formatted": "₩ 2,200",
     "price_kr_initial_formatted": "₩ 44,000",
     "discount": 95,
-    "positive": 191799,
+    "positive": 191861,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238840/header.jpg?t=1777324289"
   },
@@ -1435,7 +1435,7 @@
     "price_kr_formatted": "₩ 34,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 813933,
+    "positive": 813985,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991"
   },
@@ -1465,7 +1465,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 92791,
+    "positive": 92801,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629520/header.jpg?t=1760026851"
   },
@@ -1480,7 +1480,7 @@
     "price_kr_formatted": "₩ 42,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 226232,
+    "positive": 226262,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1749717464"
   },
@@ -1495,7 +1495,7 @@
     "price_kr_formatted": "₩ 61,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 94297,
+    "positive": 94326,
     "negative": 0,
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1766710980"
   }
