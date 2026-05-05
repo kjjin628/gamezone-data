@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5067166,
+    "positive": 5068010,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759414,
+    "positive": 1759433,
     "negative": 0,
     "genres": [
       "액션",
@@ -82,7 +82,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 14371,
+    "positive": 14370,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 908283,
+    "positive": 908374,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 151812,
+    "positive": 152283,
     "negative": 0,
     "genres": [
       "인디",
@@ -184,7 +184,7 @@
     "is_free": true,
     "desc_kr": "Apex 레전드는 Respawn Entertainment에서 제작한 다양한 수상 경력을 자랑하는 무료 플레이 히어로 슈팅 게임입니다. 게임에 계속해서 추가되는 레전드 캐릭터들의 강력한 능력을 마스터하고 깊이 있는 전술적 분대 플레이, 새롭게 진화하는 게임플레이를 지닌 히어로 슈팅과 배틀 로얄의 혁신을 경험하세요.",
     "release_date": "2020년 11월 4일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/5f9cd40d1507568651688af121d378dab35d3d35/header.jpg?t=1770753360",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0bd74245b869287a2dc7f682e6013f7ed08d98e3/header.jpg?t=1778000411",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -199,12 +199,11 @@
     ],
     "metacritic": 88,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d86d5fe798addd4ff7219938f891268affb1ea2d/ss_d86d5fe798addd4ff7219938f891268affb1ea2d.600x338.jpg?t=1770753360",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/f786d0d1e567be0e5a801a62855970f9b6bae6fd/ss_f786d0d1e567be0e5a801a62855970f9b6bae6fd.600x338.jpg?t=1770753360",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/c1f5eb613c365fc96f5d59dd69bd852793929f69/ss_c1f5eb613c365fc96f5d59dd69bd852793929f69.600x338.jpg?t=1770753360",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/3424111e83c2adfc7e6c056573d5089c27fdc711/ss_3424111e83c2adfc7e6c056573d5089c27fdc711.600x338.jpg?t=1770753360",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/339c1a98c4ae3a6d662e2766cad9660c3ca8f8aa/ss_339c1a98c4ae3a6d662e2766cad9660c3ca8f8aa.600x338.jpg?t=1770753360",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/07975408cfe38c64a9dc60885908614488dd7ac0/ss_07975408cfe38c64a9dc60885908614488dd7ac0.600x338.jpg?t=1770753360"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0ae2c002aa75d0b7309955960181fe402327d330/ss_0ae2c002aa75d0b7309955960181fe402327d330.600x338.jpg?t=1778000411",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/c07b405c6272c5dc2f6f25b76591c93ed8711c1d/ss_c07b405c6272c5dc2f6f25b76591c93ed8711c1d.600x338.jpg?t=1778000411",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3/ss_96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3.600x338.jpg?t=1778000411",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/899528308ad54733c8fc1ae825adb57195bface1/ss_899528308ad54733c8fc1ae825adb57195bface1.600x338.jpg?t=1778000411",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88/ss_736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88.600x338.jpg?t=1778000411"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10<br></li><li><strong>프로세서:</strong> AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent<br></li><li><strong>메모리:</strong> 6 GB RAM<br></li><li><strong>그래픽:</strong> AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 75 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> ~3.8GB for 1 localized language</li></ul>",
@@ -225,7 +224,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1877034,
+    "positive": 1877091,
     "negative": 0,
     "genres": [
       "액션",
@@ -279,7 +278,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 542445,
+    "positive": 542676,
     "negative": 0,
     "genres": [
       "액션",
@@ -349,7 +348,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1239901,
+    "positive": 1239947,
     "negative": 0,
     "genres": [
       "액션",
@@ -487,7 +486,7 @@
     "price_kr_formatted": "₩ 8,600",
     "price_kr_initial_formatted": "₩ 21,500",
     "discount": 60,
-    "positive": 655546,
+    "positive": 655654,
     "negative": 0,
     "genres": [
       "액션"
@@ -520,7 +519,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 282170,
+    "positive": 282366,
     "negative": 0,
     "genres": [
       "액션"
@@ -547,7 +546,7 @@
     "is_free": true,
     "desc_kr": "이 스토리 중심의 부분 유료 온라인 액션 게임에서 그 누구도 멈출 수 없는 강력한 전사로 깨어나 동료들과 함께 싸움에 임하세요. 여러 행성에 걸쳐 뻗어나가는 성계 이곳저곳에서 전쟁을 벌이는 세력들과 맞서며, 신비로운 인물, 로터스의 안내에 따르며 워프레임을 레벨업하고, 파괴적인 화력을 가진 무기고를 쌓아올리고, 이 짜릿한, 전혀 새로운 장르의 3인칭 전투 경험 속의 거대한 오픈 월드에서 여러분의 진짜 잠재력을 불러일으키세요.",
     "release_date": "2013년 3월 25일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/60ce7425b864dd3c0dd855bfc66004c6f9ca4844/header.jpg?t=1777906919",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/60ce7425b864dd3c0dd855bfc66004c6f9ca4844/header.jpg?t=1777993769",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -562,12 +561,12 @@
     ],
     "metacritic": 69,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_2e4077f215eccde84171a4b8e0f2bc8a3264c776.600x338.jpg?t=1777906919",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_0a541a8bf59e212870ea8d82260ac1b3ae2d0354.600x338.jpg?t=1777906919",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_ce00a212a29e9a6c1fc37b16dbd802b2844a901d.600x338.jpg?t=1777906919",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_29355e0546599c72002b34b42fe952329df61c2e.600x338.jpg?t=1777906919",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_e1d1bfebe225c85ea284ffecfe279c2695ddf3a5.600x338.jpg?t=1777906919",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_b06620c448c51d2bc5b71144a184da9ba37b703e.600x338.jpg?t=1777906919"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_2e4077f215eccde84171a4b8e0f2bc8a3264c776.600x338.jpg?t=1777993769",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_0a541a8bf59e212870ea8d82260ac1b3ae2d0354.600x338.jpg?t=1777993769",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_ce00a212a29e9a6c1fc37b16dbd802b2844a901d.600x338.jpg?t=1777993769",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_29355e0546599c72002b34b42fe952329df61c2e.600x338.jpg?t=1777993769",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_e1d1bfebe225c85ea284ffecfe279c2695ddf3a5.600x338.jpg?t=1777993769",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/ss_b06620c448c51d2bc5b71144a184da9ba37b703e.600x338.jpg?t=1777993769"
     ],
     "pc_requirements": {
       "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64-Bit (32-bit 미지원)<br></li><li><strong>프로세서:</strong> Intel Core i7 860, Intel Core i5 750 또는 AMD FX-4100 (SSE 4.2 지원 필요)<br></li><li><strong>그래픽:</strong> DirectX 11+ 지원 그래픽 카드<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>저장용량:</strong> 50 GB 이상의 사용 가능한 하드디스크 공간<br></li><li><strong>인터넷:</strong> 광대역 인터넷 연결</li></ul><br>참고: 현재 시점에서 Mac 혹은 Linux에서의 플레이는 지원하지 않고 있습니다.<br><br>DirectX 12를 지원하려면 최소 Windows 10 20H2 (2020년 출시) 또는 Windows 11이 필요합니다",
@@ -620,7 +619,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 821310,
+    "positive": 821427,
     "negative": 0,
     "genres": [
       "액션"
@@ -653,7 +652,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 33216,
+    "positive": 33503,
     "negative": 0,
     "genres": [
       "액션",
