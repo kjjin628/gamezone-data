@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5069760,
+    "positive": 5069951,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759488,
+    "positive": 1759496,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 908561,
+    "positive": 908604,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -189,7 +189,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 154457,
+    "positive": 155393,
     "negative": 0,
     "genres": [
       "인디",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1877186,
+    "positive": 1877198,
     "negative": 0,
     "genres": [
       "액션",
@@ -278,7 +278,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 543179,
+    "positive": 543217,
     "negative": 0,
     "genres": [
       "액션",
@@ -348,7 +348,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1240102,
+    "positive": 1240112,
     "negative": 0,
     "genres": [
       "액션",
@@ -412,7 +412,7 @@
     "is_free": true,
     "desc_kr": "슈퍼 히어로 PVP 팀 슈팅 게임 를 소개합니다. 플레이어는 슈퍼 히어로와 빌런 진영에서 원하는 캐릭터를 골라 올스타팀을 구성할 수 있습니다. 마블 유니버스의 다양한 맵을 활용하고 캐릭터 본연의 능력과 팀업 스킬을 전략적으로 조합하여 전투를 승리로 이끄세요!",
     "release_date": "2024년 12월 5일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/975bfe11c5b6843c866587138aec911964b60c85/header.jpg?t=1776420047",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/975bfe11c5b6843c866587138aec911964b60c85/header.jpg?t=1778133944",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -426,12 +426,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4e3f25e1864028fff9ebe96a92081a5a732bd22d/ss_4e3f25e1864028fff9ebe96a92081a5a732bd22d.600x338.jpg?t=1776420047",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ffa8f90ec0513b98ad417331c1e369ae990097f8/ss_ffa8f90ec0513b98ad417331c1e369ae990097f8.600x338.jpg?t=1776420047",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/c085dbaddb04d70875333400e8ff564ca9778620/ss_c085dbaddb04d70875333400e8ff564ca9778620.600x338.jpg?t=1776420047",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/6b131db0a7190b40f0c1305a05bdc2b6a1daea32/ss_6b131db0a7190b40f0c1305a05bdc2b6a1daea32.600x338.jpg?t=1776420047",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/9c62d5330eab8df3a2c76e68662767bf68d755c2/ss_9c62d5330eab8df3a2c76e68662767bf68d755c2.600x338.jpg?t=1776420047",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f2e75daef3f7177d896409b6dd69b62e4088dc23/ss_f2e75daef3f7177d896409b6dd69b62e4088dc23.600x338.jpg?t=1776420047"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4e3f25e1864028fff9ebe96a92081a5a732bd22d/ss_4e3f25e1864028fff9ebe96a92081a5a732bd22d.600x338.jpg?t=1778133944",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ffa8f90ec0513b98ad417331c1e369ae990097f8/ss_ffa8f90ec0513b98ad417331c1e369ae990097f8.600x338.jpg?t=1778133944",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/c085dbaddb04d70875333400e8ff564ca9778620/ss_c085dbaddb04d70875333400e8ff564ca9778620.600x338.jpg?t=1778133944",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/6b131db0a7190b40f0c1305a05bdc2b6a1daea32/ss_6b131db0a7190b40f0c1305a05bdc2b6a1daea32.600x338.jpg?t=1778133944",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/9c62d5330eab8df3a2c76e68662767bf68d755c2/ss_9c62d5330eab8df3a2c76e68662767bf68d755c2.600x338.jpg?t=1778133944",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/f2e75daef3f7177d896409b6dd69b62e4088dc23/ss_f2e75daef3f7177d896409b6dd69b62e4088dc23.600x338.jpg?t=1778133944"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 64-bit (1909 or newer)<br></li><li><strong>프로세서:</strong> Intel Core i5-6600K or AMD Ryzen 5 1600X<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> We recommend you install the game on SSD drive for better experience.</li></ul>",
@@ -486,7 +486,7 @@
     "price_kr_formatted": "₩ 8,600",
     "price_kr_initial_formatted": "₩ 21,500",
     "discount": 60,
-    "positive": 655934,
+    "positive": 655958,
     "negative": 0,
     "genres": [
       "액션"
@@ -519,7 +519,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 282744,
+    "positive": 282777,
     "negative": 0,
     "genres": [
       "액션"
@@ -619,7 +619,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 821888,
+    "positive": 821974,
     "negative": 0,
     "genres": [
       "액션"
@@ -652,7 +652,7 @@
     "price_kr_formatted": "₩ 24,000",
     "price_kr_initial_formatted": "₩ 80,000",
     "discount": 70,
-    "positive": 57932,
+    "positive": 57954,
     "negative": 0,
     "genres": [
       "시뮬레이션",
