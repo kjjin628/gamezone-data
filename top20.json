@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5075348,
+    "positive": 5075622,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759615,
+    "positive": 1759619,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 909352,
+    "positive": 909387,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -189,7 +189,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 170986,
+    "positive": 171525,
     "negative": 0,
     "genres": [
       "인디",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "₩ 7,490",
     "price_kr_initial_formatted": "₩ 10,700",
     "discount": 30,
-    "positive": 308703,
+    "positive": 308779,
     "negative": 0,
     "genres": [
       "액션",
@@ -257,7 +257,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1877605,
+    "positive": 1877628,
     "negative": 0,
     "genres": [
       "액션",
@@ -291,7 +291,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 545188,
+    "positive": 545249,
     "negative": 0,
     "genres": [
       "액션",
@@ -381,7 +381,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1240481,
+    "positive": 1240478,
     "negative": 0,
     "genres": [
       "액션",
@@ -485,7 +485,7 @@
     "price_kr_formatted": "₩ 21,000",
     "price_kr_initial_formatted": "₩ 42,000",
     "discount": 50,
-    "positive": 1133071,
+    "positive": 1133124,
     "negative": 0,
     "genres": [
       "액션",
@@ -556,7 +556,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 283652,
+    "positive": 283698,
     "negative": 0,
     "genres": [
       "액션"
@@ -589,7 +589,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 656535,
+    "positive": 656559,
     "negative": 0,
     "genres": [
       "액션"
@@ -622,7 +622,7 @@
     "price_kr_formatted": "₩ 16,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 861857,
+    "positive": 861875,
     "negative": 0,
     "genres": [
       "인디",
@@ -657,7 +657,7 @@
     "price_kr_formatted": "₩ 80,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 58863,
+    "positive": 58886,
     "negative": 0,
     "genres": [
       "시뮬레이션",
