@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5088312,
+    "positive": 5088463,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759969,
+    "positive": 1759978,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 911118,
+    "positive": 911158,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 33,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 67858,
+    "positive": 68461,
     "negative": 0,
     "genres": [
       "액션",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 181002,
+    "positive": 181083,
     "negative": 0,
     "genres": [
       "인디",
@@ -347,7 +347,7 @@
     "price_kr_formatted": "₩ 10,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 313292,
+    "positive": 313337,
     "negative": 0,
     "genres": [
       "액션",
@@ -380,7 +380,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 549353,
+    "positive": 549408,
     "negative": 0,
     "genres": [
       "액션",
@@ -414,7 +414,7 @@
     "price_kr_formatted": "₩ 79,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 28539,
+    "positive": 29296,
     "negative": 0,
     "genres": [
       "레이싱",
@@ -449,7 +449,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1241253,
+    "positive": 1241269,
     "negative": 0,
     "genres": [
       "액션",
@@ -553,7 +553,7 @@
     "price_kr_formatted": "₩ 8,000",
     "price_kr_initial_formatted": "₩ 16,000",
     "discount": 50,
-    "positive": 864352,
+    "positive": 864393,
     "negative": 0,
     "genres": [
       "인디",
@@ -582,7 +582,7 @@
     "is_free": true,
     "desc_kr": "차세대 전술 사격 게임의 새로운 기준. 엘리트 오퍼레이터가 되어 전용 무기를 커스터마이징하고, 치열한 익스트랙션과 웅장한 전면전을 넘나들며 극한의 임무를 수행하십시오.",
     "release_date": "2024년 12월 4일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/d622bd2371b24b556cf0184583fc57f9aab3cc68/header_alt_assets_11_koreana.jpg?t=1776894033",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/160ce82f08a45810ead13d171062d868a00af0d3/header_alt_assets_11_koreana.jpg?t=1779265091",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -598,12 +598,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_88d7ff2529260f5782f0fb842ccc78cc09bfba59.600x338.jpg?t=1776894033",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_2a9fffcd74fb94896bd77a199cd4a7b5033eb8a0.600x338.jpg?t=1776894033",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_9bad18d36609072b2b9d50816e75cce81b6e4b0f.600x338.jpg?t=1776894033",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_6921b0b2af4a531ee67ec7c46260da4f572e6934.600x338.jpg?t=1776894033",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_234e46270b0363529a1c695ae0f2637969427000.600x338.jpg?t=1776894033",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_e25ef30c6cdff5c5ff48e4ac0e7856ec4ebbb10e.600x338.jpg?t=1776894033"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_88d7ff2529260f5782f0fb842ccc78cc09bfba59.600x338.jpg?t=1779265091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_2a9fffcd74fb94896bd77a199cd4a7b5033eb8a0.600x338.jpg?t=1779265091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_9bad18d36609072b2b9d50816e75cce81b6e4b0f.600x338.jpg?t=1779265091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_6921b0b2af4a531ee67ec7c46260da4f572e6934.600x338.jpg?t=1779265091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_234e46270b0363529a1c695ae0f2637969427000.600x338.jpg?t=1779265091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/ss_e25ef30c6cdff5c5ff48e4ac0e7856ec4ebbb10e.600x338.jpg?t=1779265091"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 64 bit<br></li><li><strong>프로세서:</strong> Intel Core i3-4150 / AMD FX-6300<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> Nvidia Geforce GTX 660 / AMD HD 7870 / Intel Arc A380<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 88 GB 사용 가능 공간</li></ul>",
@@ -624,7 +624,7 @@
     "price_kr_formatted": "₩ 80,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 273965,
+    "positive": 273974,
     "negative": 0,
     "genres": [
       "액션"
@@ -657,7 +657,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 657812,
+    "positive": 657822,
     "negative": 0,
     "genres": [
       "액션"
