@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5088463,
+    "positive": 5089406,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1759978,
+    "positive": 1760006,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 911158,
+    "positive": 911249,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 33,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 68461,
+    "positive": 71190,
     "negative": 0,
     "genres": [
       "액션",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 181083,
+    "positive": 181420,
     "negative": 0,
     "genres": [
       "인디",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1878427,
+    "positive": 1878473,
     "negative": 0,
     "genres": [
       "액션",
@@ -347,7 +347,7 @@
     "price_kr_formatted": "₩ 10,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 313337,
+    "positive": 313512,
     "negative": 0,
     "genres": [
       "액션",
@@ -380,7 +380,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 549408,
+    "positive": 549649,
     "negative": 0,
     "genres": [
       "액션",
@@ -414,7 +414,7 @@
     "price_kr_formatted": "₩ 79,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 29296,
+    "positive": 31482,
     "negative": 0,
     "genres": [
       "레이싱",
@@ -443,13 +443,13 @@
     "is_free": true,
     "desc_kr": "레인보우식스® 시즈는 뛰어난 전략과 기술이 승부를 좌우하는 전술적인 정예 팀 기반의 슈팅 게임입니다. 다양한 대원들과 함께 빠른 매치, 무계급, Dual Front 게임 모드를 프리 엑세스로 이용하십시오.",
     "release_date": "2015년 12월 1일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/97ce482d2a8ec5d2beb1081e954ac1ec16eea1fb/header_alt_assets_21.jpg?t=1779209046",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/a424cb67a86be35b8d761784a3bdaa726f29c942/header_alt_assets_22_koreana.jpg?t=1779209046",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1241269,
+    "positive": 1241303,
     "negative": 0,
     "genres": [
       "액션",
@@ -553,7 +553,7 @@
     "price_kr_formatted": "₩ 8,000",
     "price_kr_initial_formatted": "₩ 16,000",
     "discount": 50,
-    "positive": 864393,
+    "positive": 864574,
     "negative": 0,
     "genres": [
       "인디",
@@ -624,7 +624,7 @@
     "price_kr_formatted": "₩ 80,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 273974,
+    "positive": 274048,
     "negative": 0,
     "genres": [
       "액션"
@@ -657,7 +657,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 657822,
+    "positive": 657866,
     "negative": 0,
     "genres": [
       "액션"
