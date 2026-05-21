@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5089953,
+    "positive": 5090794,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1760020,
+    "positive": 1760029,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 911334,
+    "positive": 911436,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 33,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 73419,
+    "positive": 75405,
     "negative": 0,
     "genres": [
       "액션",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 181637,
+    "positive": 181895,
     "negative": 0,
     "genres": [
       "인디",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1878514,
+    "positive": 1878558,
     "negative": 0,
     "genres": [
       "액션",
@@ -347,7 +347,7 @@
     "price_kr_formatted": "₩ 10,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 313647,
+    "positive": 313824,
     "negative": 0,
     "genres": [
       "액션",
@@ -380,7 +380,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 549837,
+    "positive": 550075,
     "negative": 0,
     "genres": [
       "액션",
@@ -414,7 +414,7 @@
     "price_kr_formatted": "₩ 79,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 33367,
+    "positive": 34909,
     "negative": 0,
     "genres": [
       "레이싱",
@@ -449,7 +449,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1241373,
+    "positive": 1241425,
     "negative": 0,
     "genres": [
       "액션",
@@ -548,12 +548,12 @@
     "desc_kr": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
     "release_date": "2016년 2월 26일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
-    "price_kr": 800000,
+    "price_kr": 1600000,
     "price_kr_initial": 1600000,
-    "price_kr_formatted": "₩ 8,000",
-    "price_kr_initial_formatted": "₩ 16,000",
-    "discount": 50,
-    "positive": 864717,
+    "price_kr_formatted": "₩ 16,000",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 864879,
     "negative": 0,
     "genres": [
       "인디",
@@ -624,7 +624,7 @@
     "price_kr_formatted": "₩ 80,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 274113,
+    "positive": 274164,
     "negative": 0,
     "genres": [
       "액션"
@@ -657,7 +657,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 657919,
+    "positive": 657961,
     "negative": 0,
     "genres": [
       "액션"
