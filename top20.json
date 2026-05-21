@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5089723,
+    "positive": 5089953,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1760013,
+    "positive": 1760020,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 911300,
+    "positive": 911334,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -149,13 +149,13 @@
     "is_free": false,
     "desc_kr": "서브노티카 2는 언노운 월즈(Unknown Worlds)의 서브노티카 시리즈의 신작으로, 새로운 외계 행성에서 펼쳐지는 수중 생존 어드벤처 게임입니다. 혼자서, 또는 최대 4인 협동 플레이로 기지를 건설하고 도구를 제작하면서 미지의 행성에서 살아남으세요. 바닷속을 탐험하며 그 비밀을 밝혀내세요.",
     "release_date": "2026년 5월 14일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1778777511",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/header.jpg?t=1779360380",
     "price_kr": 3370000,
     "price_kr_initial": 3370000,
     "price_kr_formatted": "₩ 33,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 72754,
+    "positive": 73419,
     "negative": 0,
     "genres": [
       "액션",
@@ -164,12 +164,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/823b102b09530bbf588f5e9752cb52f1681dc992/ss_823b102b09530bbf588f5e9752cb52f1681dc992.600x338.jpg?t=1778777511",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/e631ef3b91faacacb5a2c823d0b979083548d66f/ss_e631ef3b91faacacb5a2c823d0b979083548d66f.600x338.jpg?t=1778777511",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/16b68b0941ed9c5ac1eea74e478fa726d425bebf/ss_16b68b0941ed9c5ac1eea74e478fa726d425bebf.600x338.jpg?t=1778777511",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/56159597a28edfb07c6dd27b4a00f2e06e571048/ss_56159597a28edfb07c6dd27b4a00f2e06e571048.600x338.jpg?t=1778777511",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/eab92bde7378f6532f765001126a8fb8b10ca8f9/ss_eab92bde7378f6532f765001126a8fb8b10ca8f9.600x338.jpg?t=1778777511",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/787e2315a1eb5aaba73c4f75e6f7d7d8835fa260/ss_787e2315a1eb5aaba73c4f75e6f7d7d8835fa260.600x338.jpg?t=1778777511"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/823b102b09530bbf588f5e9752cb52f1681dc992/ss_823b102b09530bbf588f5e9752cb52f1681dc992.600x338.jpg?t=1779360380",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/e631ef3b91faacacb5a2c823d0b979083548d66f/ss_e631ef3b91faacacb5a2c823d0b979083548d66f.600x338.jpg?t=1779360380",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/16b68b0941ed9c5ac1eea74e478fa726d425bebf/ss_16b68b0941ed9c5ac1eea74e478fa726d425bebf.600x338.jpg?t=1779360380",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/56159597a28edfb07c6dd27b4a00f2e06e571048/ss_56159597a28edfb07c6dd27b4a00f2e06e571048.600x338.jpg?t=1779360380",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/eab92bde7378f6532f765001126a8fb8b10ca8f9/ss_eab92bde7378f6532f765001126a8fb8b10ca8f9.600x338.jpg?t=1779360380",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/787e2315a1eb5aaba73c4f75e6f7d7d8835fa260/ss_787e2315a1eb5aaba73c4f75e6f7d7d8835fa260.600x338.jpg?t=1779360380"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10/11<br></li><li><strong>프로세서:</strong> Intel Core i5-8400 / AMD Ryzen 5 2600<br></li><li><strong>메모리:</strong> 12 GB RAM<br></li><li><strong>그래픽:</strong> GeForce GTX 1660 6GB / RX 5500 XT 6GB<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> Requires a 64-bit processor and operating system</li></ul>",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 181559,
+    "positive": 181637,
     "negative": 0,
     "genres": [
       "인디",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1878497,
+    "positive": 1878514,
     "negative": 0,
     "genres": [
       "액션",
@@ -347,7 +347,7 @@
     "price_kr_formatted": "₩ 10,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 313609,
+    "positive": 313647,
     "negative": 0,
     "genres": [
       "액션",
@@ -380,7 +380,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 549794,
+    "positive": 549837,
     "negative": 0,
     "genres": [
       "액션",
@@ -414,7 +414,7 @@
     "price_kr_formatted": "₩ 79,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 32817,
+    "positive": 33367,
     "negative": 0,
     "genres": [
       "레이싱",
@@ -449,7 +449,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1241361,
+    "positive": 1241373,
     "negative": 0,
     "genres": [
       "액션",
@@ -553,7 +553,7 @@
     "price_kr_formatted": "₩ 8,000",
     "price_kr_initial_formatted": "₩ 16,000",
     "discount": 50,
-    "positive": 864661,
+    "positive": 864717,
     "negative": 0,
     "genres": [
       "인디",
@@ -624,7 +624,7 @@
     "price_kr_formatted": "₩ 80,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 274095,
+    "positive": 274113,
     "negative": 0,
     "genres": [
       "액션"
@@ -657,7 +657,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 657900,
+    "positive": 657919,
     "negative": 0,
     "genres": [
       "액션"
