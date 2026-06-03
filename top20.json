@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5109136,
+    "positive": 5109407,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1760353,
+    "positive": 1760355,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 914453,
+    "positive": 914500,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -189,7 +189,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 189032,
+    "positive": 189079,
     "negative": 0,
     "genres": [
       "인디",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "₩ 10,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 318374,
+    "positive": 318433,
     "negative": 0,
     "genres": [
       "액션",
@@ -257,7 +257,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1880171,
+    "positive": 1880177,
     "negative": 0,
     "genres": [
       "액션",
@@ -311,7 +311,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 556633,
+    "positive": 556699,
     "negative": 0,
     "genres": [
       "액션",
@@ -339,7 +339,7 @@
     "is_free": true,
     "desc_kr": "War Thunder는 제 2차 세계대전부터 현대전까지의 항공기, 전차, 함선, 헬리콥터를 플레이 할 수 있는 온라인 게임 역사상 가장 거대한 스케일과 광범위한 크로스 플랫폼 기능을 자랑하는 밀리터리 MMO 게임입니다. 지금 게임에 참여하셔서 War Thunder가 제공하는 지상, 공중, 해상의 거대한 전장 서사시에 직접 참여해보세요.",
     "release_date": "2013년 8월 15일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ceff9434460880755b42a90b8915e87dff4482ad/header.jpg?t=1779186880",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ceff9434460880755b42a90b8915e87dff4482ad/header.jpg?t=1780485515",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -355,12 +355,12 @@
     ],
     "metacritic": 81,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/3ebe1f69263e66ccb0ec46787b6100be140145af/ss_3ebe1f69263e66ccb0ec46787b6100be140145af.600x338.jpg?t=1779186880",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/cbed7b022955a37a55644d56dd8ac72636e03c60/ss_cbed7b022955a37a55644d56dd8ac72636e03c60.600x338.jpg?t=1779186880",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/875a44d0f22aed5f21028da06e76fe7eb54756f0/ss_875a44d0f22aed5f21028da06e76fe7eb54756f0.600x338.jpg?t=1779186880",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/52df38f52c9981fd6b3e4ef2d501a9d8e9bfdad3/ss_52df38f52c9981fd6b3e4ef2d501a9d8e9bfdad3.600x338.jpg?t=1779186880",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/fe3f2ae7e236f70c8280dd1836ea58f23d57a9e6/ss_fe3f2ae7e236f70c8280dd1836ea58f23d57a9e6.600x338.jpg?t=1779186880",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/38d63d92458c950a7d839f1c46f20d55fc60a66f/ss_38d63d92458c950a7d839f1c46f20d55fc60a66f.600x338.jpg?t=1779186880"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/3ebe1f69263e66ccb0ec46787b6100be140145af/ss_3ebe1f69263e66ccb0ec46787b6100be140145af.600x338.jpg?t=1780485515",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/cbed7b022955a37a55644d56dd8ac72636e03c60/ss_cbed7b022955a37a55644d56dd8ac72636e03c60.600x338.jpg?t=1780485515",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/875a44d0f22aed5f21028da06e76fe7eb54756f0/ss_875a44d0f22aed5f21028da06e76fe7eb54756f0.600x338.jpg?t=1780485515",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/52df38f52c9981fd6b3e4ef2d501a9d8e9bfdad3/ss_52df38f52c9981fd6b3e4ef2d501a9d8e9bfdad3.600x338.jpg?t=1780485515",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/fe3f2ae7e236f70c8280dd1836ea58f23d57a9e6/ss_fe3f2ae7e236f70c8280dd1836ea58f23d57a9e6.600x338.jpg?t=1780485515",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/38d63d92458c950a7d839f1c46f20d55fc60a66f/ss_38d63d92458c950a7d839f1c46f20d55fc60a66f.600x338.jpg?t=1780485515"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 (64bit)<br></li><li><strong>프로세서:</strong> Dual-Core 2.2 GHz<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>VR 지원:</strong> SteamVR. Keyboard or gamepad required</li></ul>",
@@ -381,7 +381,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1242829,
+    "positive": 1242843,
     "negative": 0,
     "genres": [
       "액션",
@@ -415,7 +415,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 287944,
+    "positive": 287956,
     "negative": 0,
     "genres": [
       "액션"
@@ -552,7 +552,7 @@
     "price_kr_formatted": "₩ 42,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1139470,
+    "positive": 1139517,
     "negative": 0,
     "genres": [
       "액션",
@@ -589,7 +589,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 660124,
+    "positive": 660159,
     "negative": 0,
     "genres": [
       "액션"
