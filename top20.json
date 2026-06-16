@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5129882,
+    "positive": 5130520,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1760652,
+    "positive": 1760649,
     "negative": 0,
     "genres": [
       "액션",
@@ -82,7 +82,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 14374,
+    "positive": 14375,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 918697,
+    "positive": 918812,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -189,7 +189,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 192753,
+    "positive": 192856,
     "negative": 0,
     "genres": [
       "인디",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "₩ 7,490",
     "price_kr_initial_formatted": "₩ 10,700",
     "discount": 30,
-    "positive": 322363,
+    "positive": 322543,
     "negative": 0,
     "genres": [
       "액션",
@@ -257,7 +257,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1881900,
+    "positive": 1881948,
     "negative": 0,
     "genres": [
       "액션",
@@ -311,7 +311,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 562514,
+    "positive": 562727,
     "negative": 0,
     "genres": [
       "액션",
@@ -345,7 +345,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1976,
+    "positive": 1975,
     "negative": 0,
     "genres": [
       "액션",
@@ -381,7 +381,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1244584,
+    "positive": 1244625,
     "negative": 0,
     "genres": [
       "액션",
@@ -415,7 +415,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 290021,
+    "positive": 290151,
     "negative": 0,
     "genres": [
       "액션"
@@ -478,7 +478,7 @@
     "is_free": true,
     "desc_kr": "오버워치™, 쟁취할 가치가 있는 미래! 오버워치™는 희망적인 미래를 배경으로 펼쳐지며, 언제든지 열려 있고 끊임없이 진화하는 팀 기반 액션 무료 플레이 게임입니다. 플레이어는 5대5 또는 6대6 전장에서 난투를 벌이게 됩니다.",
     "release_date": "2023년 8월 10일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/488fe820b06dcc6cf867a5c481f5bb130ec7dac9/header_alt_assets_20_koreana.jpg?t=1778610036",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/217c51ee328bb2f97c66776bb92b1ddb3d8333fe/header_alt_assets_21.jpg?t=1781633091",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -492,12 +492,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/2830b5babd473e7e76fa522d4c1858386d3acfb1/ss_2830b5babd473e7e76fa522d4c1858386d3acfb1.600x338.jpg?t=1778610036",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/b17b61def60cb8b3f693cb3a6b80152f7963b04e/ss_b17b61def60cb8b3f693cb3a6b80152f7963b04e.600x338.jpg?t=1778610036",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/78e99c6da684734a84fcd69aff1baa7b5fe996f6/ss_78e99c6da684734a84fcd69aff1baa7b5fe996f6.600x338.jpg?t=1778610036",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/ec6de0364a1014e97ab05a7cad9f187be0bd494e/ss_ec6de0364a1014e97ab05a7cad9f187be0bd494e.600x338.jpg?t=1778610036",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/fced44634f014d9f240c20191993d17608845a98/ss_fced44634f014d9f240c20191993d17608845a98.600x338.jpg?t=1778610036",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/5bf1bef7045a75815f6dfc36f016c7cdf5e1fafd/ss_5bf1bef7045a75815f6dfc36f016c7cdf5e1fafd.600x338.jpg?t=1778610036"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/2830b5babd473e7e76fa522d4c1858386d3acfb1/ss_2830b5babd473e7e76fa522d4c1858386d3acfb1.600x338.jpg?t=1781633091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/b17b61def60cb8b3f693cb3a6b80152f7963b04e/ss_b17b61def60cb8b3f693cb3a6b80152f7963b04e.600x338.jpg?t=1781633091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/78e99c6da684734a84fcd69aff1baa7b5fe996f6/ss_78e99c6da684734a84fcd69aff1baa7b5fe996f6.600x338.jpg?t=1781633091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/ec6de0364a1014e97ab05a7cad9f187be0bd494e/ss_ec6de0364a1014e97ab05a7cad9f187be0bd494e.600x338.jpg?t=1781633091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/fced44634f014d9f240c20191993d17608845a98/ss_fced44634f014d9f240c20191993d17608845a98.600x338.jpg?t=1781633091",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/5bf1bef7045a75815f6dfc36f016c7cdf5e1fafd/ss_5bf1bef7045a75815f6dfc36f016c7cdf5e1fafd.600x338.jpg?t=1781633091"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 윈도우® 10 64-bit (최신 서비스팩) 32비트 운영체제는 지원하지 않습니다<br></li><li><strong>프로세서:</strong> Intel® Core™ i3 또는 AMD Phenom™ X3 8650<br></li><li><strong>메모리:</strong> 6 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA® GeForce® GTX 600 시리즈, AMD Radeon™ HD 7000 시리즈<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간</li></ul>",
@@ -552,7 +552,7 @@
     "price_kr_formatted": "₩ 21,000",
     "price_kr_initial_formatted": "₩ 42,000",
     "discount": 50,
-    "positive": 1143783,
+    "positive": 1143935,
     "negative": 0,
     "genres": [
       "액션",
@@ -583,25 +583,25 @@
     "is_free": false,
     "desc_kr": "10년의 호러. 10년간 돌발적으로 급습한 공포와 아슬아슬한 순간들. 10년의 잔혹한 희생과 짜릿한 탈출. 죽음조차도 피할 수 없는 섬뜩한 악의 영역에 영원히 갇힌 네 명의 생존자는 신경과 재치를 시험하는 잔혹한 게임에서 피에 굶주린 살인마에 맞서 싸워야 합니다. 어느 편에 설지 선택하고 공포 게임 최고의 비대칭 멀티플레이어에서 긴장감과 공포의 세계로 들어가보세요.",
     "release_date": "2016년 6월 14일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/8512297f0f02ec3e592f45b21779f61624941964/header_alt_assets_6.jpg?t=1778880603",
-    "price_kr": 2150000,
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1781638389",
+    "price_kr": 860000,
     "price_kr_initial": 2150000,
-    "price_kr_formatted": "₩ 21,500",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 662287,
+    "price_kr_formatted": "₩ 8,600",
+    "price_kr_initial_formatted": "₩ 21,500",
+    "discount": 60,
+    "positive": 662686,
     "negative": 0,
     "genres": [
       "액션"
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1778880603",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1778880603",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1778880603",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.600x338.jpg?t=1778880603",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.600x338.jpg?t=1778880603",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/7a898338890f6e0aabf1c8c424a4f33c56c4e1e1/ss_7a898338890f6e0aabf1c8c424a4f33c56c4e1e1.600x338.jpg?t=1778880603"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1781638389",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1781638389",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1781638389",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.600x338.jpg?t=1781638389",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.600x338.jpg?t=1781638389",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/7a898338890f6e0aabf1c8c424a4f33c56c4e1e1/ss_7a898338890f6e0aabf1c8c424a4f33c56c4e1e1.600x338.jpg?t=1781638389"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 64-bit Operating System<br></li><li><strong>프로세서:</strong> Intel Core i3-4170 or AMD FX-8120<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> DX11 Compatible GeForce GTX 460 1GB or AMD HD 6850 1GB<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DX11 compatible<br></li><li><strong>추가 사항:</strong> With these requirements, it is recommended that the game is played on Low quality settings.</li></ul>",
