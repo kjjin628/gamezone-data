@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5170447,
+    "positive": 5170617,
     "negative": 0,
     "genres": [
       "액션",
@@ -32,42 +32,6 @@
       "recommended": ""
     },
     "ccu": 1275982
-  },
-  {
-    "appid": 578080,
-    "name": "PUBG: BATTLEGROUNDS",
-    "name_kr": "PUBG: BATTLEGROUNDS",
-    "is_free": true,
-    "desc_kr": "배틀로얄 유행의 시작이자, 그 정수를 보여준 PUBG: 배틀그라운드를 지금 무료로 플레이하세요! 다양한 맵에 낙하하여 무기와 보급품을 확보하고, 점점 줄어드는 블루존 속에서 끝까지 살아남아 승리를 쟁취하세요.",
-    "release_date": "2017년 12월 21일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1781659328",
-    "price_kr": 0,
-    "price_kr_initial": 0,
-    "price_kr_formatted": "",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 1761685,
-    "negative": 0,
-    "genres": [
-      "액션",
-      "어드벤처",
-      "대규모 멀티플레이어",
-      "무료 플레이"
-    ],
-    "metacritic": 0,
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.600x338.jpg?t=1781659328",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/aa1c51a9b45c88e770b443d8d3cd28f3024b0760/ss_aa1c51a9b45c88e770b443d8d3cd28f3024b0760.600x338.jpg?t=1781659328",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/bf9b3de5896d4ec7ef9531938b26946cded81fdf/ss_bf9b3de5896d4ec7ef9531938b26946cded81fdf.600x338.jpg?t=1781659328",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/faa4f9f6caa9613f07fd1193a143f66e0fac489c/ss_faa4f9f6caa9613f07fd1193a143f66e0fac489c.600x338.jpg?t=1781659328",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/3ae78fac4c07e9a2e2955286014355d6b7f3c8c7/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.600x338.jpg?t=1781659328",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/eb19c1ce924ff4689105242257b6d377ffe2e264/ss_eb19c1ce924ff4689105242257b6d377ffe2e264.600x338.jpg?t=1781659328"
-    ],
-    "pc_requirements": {
-      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10<br></li><li><strong>프로세서:</strong> Intel Core i5-4430 / AMD FX-6300<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 40 GB 사용 가능 공간</li></ul>",
-      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10<br></li><li><strong>프로세서:</strong> Intel Core i5-6600K / AMD Ryzen 5 1600<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간</li></ul>"
-    },
-    "ccu": 732248
   },
   {
     "appid": 570,
@@ -117,7 +81,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 930628,
+    "positive": 930677,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -189,7 +153,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 199637,
+    "positive": 199673,
     "negative": 0,
     "genres": [
       "인디",
@@ -224,7 +188,7 @@
     "price_kr_formatted": "₩ 10,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 329521,
+    "positive": 329547,
     "negative": 0,
     "genres": [
       "액션",
@@ -257,7 +221,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1886551,
+    "positive": 1886580,
     "negative": 0,
     "genres": [
       "액션",
@@ -311,7 +275,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 575104,
+    "positive": 575165,
     "negative": 0,
     "genres": [
       "액션",
@@ -381,7 +345,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1246850,
+    "positive": 1246855,
     "negative": 0,
     "genres": [
       "액션",
@@ -415,7 +379,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 294062,
+    "positive": 294076,
     "negative": 0,
     "genres": [
       "액션"
@@ -506,40 +470,6 @@
     "ccu": 60429
   },
   {
-    "appid": 2767030,
-    "name": "마블 라이벌즈",
-    "name_kr": "마블 라이벌즈",
-    "is_free": true,
-    "desc_kr": "슈퍼 히어로 PVP 팀 슈팅 게임 를 소개합니다. 플레이어는 슈퍼 히어로와 빌런 진영에서 원하는 캐릭터를 골라 올스타팀을 구성할 수 있습니다. 마블 유니버스의 다양한 맵을 활용하고 캐릭터 본연의 능력과 팀업 스킬을 전략적으로 조합하여 전투를 승리로 이끄세요!",
-    "release_date": "2024년 12월 5일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/2ae230297a1b7f64ea759e3943b68a9a41070d67/header_alt_assets_9.jpg?t=1783674088",
-    "price_kr": 0,
-    "price_kr_initial": 0,
-    "price_kr_formatted": "",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 0,
-    "negative": 0,
-    "genres": [
-      "액션",
-      "무료 플레이"
-    ],
-    "metacritic": 0,
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/077320bd2d44dc04703ea9bbb50af30cd06297a0/ss_077320bd2d44dc04703ea9bbb50af30cd06297a0.600x338.jpg?t=1783674088",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/08d01a49716e1808fc6cc21b623c41ea04235793/ss_08d01a49716e1808fc6cc21b623c41ea04235793.600x338.jpg?t=1783674088",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/1c1c765a7655599e3cf15c8934217ff60a1410ed/ss_1c1c765a7655599e3cf15c8934217ff60a1410ed.600x338.jpg?t=1783674088",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/a2dd685d83dbcc0779bf3db013aef99679abb944/ss_a2dd685d83dbcc0779bf3db013aef99679abb944.600x338.jpg?t=1783674088",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/212718a69989b3ffe5b7647c53bb827b7ed2329e/ss_212718a69989b3ffe5b7647c53bb827b7ed2329e.600x338.jpg?t=1783674088",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4aa8355a56a75f44f365db8a6cbff0eec5a7265a/ss_4aa8355a56a75f44f365db8a6cbff0eec5a7265a.600x338.jpg?t=1783674088"
-    ],
-    "pc_requirements": {
-      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 64-bit (1909 or newer)<br></li><li><strong>프로세서:</strong> Intel Core i5-6600K or AMD Ryzen 5 1600X<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> We recommend you install the game on SSD drive for better experience.</li></ul>",
-      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 64-bit (1909 or newer)<br></li><li><strong>프로세서:</strong> Intel Core i5-10400 or AMD Ryzen 5 5600X<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce RTX 2060 (Super) / AMD RX 5700-XT / Intel Arc A750<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> We recommend you install the game on SSD drive for better experience.</li></ul>"
-    },
-    "ccu": 79929
-  },
-  {
     "appid": 252490,
     "name": "Rust",
     "name_kr": "Rust",
@@ -552,7 +482,7 @@
     "price_kr_formatted": "₩ 42,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1152767,
+    "positive": 1152803,
     "negative": 0,
     "genres": [
       "액션",
@@ -589,7 +519,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 673409,
+    "positive": 673443,
     "negative": 0,
     "genres": [
       "액션"
