@@ -263,6 +263,9 @@
                 "id": "1298"
               },
               {
+                "id": "16979"
+              },
+              {
                 "id": "19847"
               },
               {
@@ -294,30 +297,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 20400,
+                "discountPrice": 4080,
                 "originalPrice": 20400,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 16320,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩20,400",
-                  "discountPrice": "₩20,400",
-                  "intermediatePrice": "₩20,400"
+                  "discountPrice": "₩4,080",
+                  "intermediatePrice": "₩4,080"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "99581c784c174e278a6ef9e796fab5c7",
+                      "endDate": "2026-07-30T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -330,7 +340,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -406,7 +417,16 @@
                 "id": "21122"
               },
               {
+                "id": "21129"
+              },
+              {
+                "id": "9547"
+              },
+              {
                 "id": "21138"
+              },
+              {
+                "id": "16979"
               },
               {
                 "id": "21139"
@@ -421,13 +441,7 @@
                 "id": "21141"
               },
               {
-                "id": "21129"
-              },
-              {
                 "id": "1370"
-              },
-              {
-                "id": "9547"
               },
               {
                 "id": "1117"
@@ -447,30 +461,37 @@
             "offerMappings": [],
             "price": {
               "totalPrice": {
-                "discountPrice": 40900,
+                "discountPrice": 8180,
                 "originalPrice": 40900,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 32720,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩40,900",
-                  "discountPrice": "₩40,900",
-                  "intermediatePrice": "₩40,900"
+                  "discountPrice": "₩8,180",
+                  "intermediatePrice": "₩8,180"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "8d5bdce606a0404ca35659227ba9c79e",
+                      "endDate": "2026-07-30T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -483,7 +504,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -589,6 +611,9 @@
                 "id": "21138"
               },
               {
+                "id": "16979"
+              },
+              {
                 "id": "21139"
               },
               {
@@ -626,30 +651,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 22600,
+                "discountPrice": 9040,
                 "originalPrice": 22600,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 13560,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩22,600",
-                  "discountPrice": "₩22,600",
-                  "intermediatePrice": "₩22,600"
+                  "discountPrice": "₩9,040",
+                  "intermediatePrice": "₩9,040"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "62f15286852049bcb6efea29c458a8f0",
+                      "endDate": "2026-07-30T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -662,7 +694,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -832,234 +865,6 @@
             "promotions": null
           },
           {
-            "title": "Tattoo Tycoon",
-            "id": "f247e0af293645bda266fa9957d82d62",
-            "namespace": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d",
-            "description": "타투 아티스트가 되어 나만의 타투 시술소를 운영하세요. 별난 손님들에게 딱 맞는 디자인을 찾고, 모호한 아이디어를 경이로운 보디 아트 작품으로 완성하세요. 소박한 개인 스튜디오를 타투가 베이의 다채로운 구역 곳곳에 분점을 운영하는 대규모 사업체로 성장시켜 보세요.",
-            "effectiveDate": "2025-10-24T13:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2025-10-17T07:08:15.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-10uee.jpg"
-              },
-              {
-                "type": "heroCarouselVideo",
-                "url": "com.epicgames.video://2555a373-8b19-4a3f-a925-1110696f73d3?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F0b68dfc82a014fe2ac9971f13e0e3ce5%2Ftattoo-tycoon-video-13xuj.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-7os7d.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1i8ag.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-13vbp.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1uqyr.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-xtzgt.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-132lu.jpg"
-              },
-              {
-                "type": "GalleryImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-in6xn.jpg"
-              },
-              {
-                "type": "GalleryImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1sokb.jpg"
-              },
-              {
-                "type": "GalleryImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-u9z7h.jpg"
-              },
-              {
-                "type": "GalleryImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1jtf6.jpg"
-              },
-              {
-                "type": "GalleryImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-1tls4.jpg"
-              },
-              {
-                "type": "OgImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-ajaa4.jpg"
-              }
-            ],
-            "seller": {
-              "id": "o-ekk92wx8mesnmsvbseequvnt38mzu6",
-              "name": "Handy Games"
-            },
-            "productSlug": null,
-            "urlSlug": "tattoo-tycoon",
-            "url": null,
-            "items": [
-              {
-                "id": "969cad29ec65453995ef8f641e552261",
-                "namespace": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isPromotionalContentUsed",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "true"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1393"
-              },
-              {
-                "id": "21894"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "1115"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "21149"
-              },
-              {
-                "id": "1263"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "tattoo-tycoon-b4352c",
-                  "pageType": "productHome"
-                }
-              ]
-            },
-            "offerMappings": [
-              {
-                "pageSlug": "tattoo-tycoon-b4352c",
-                "pageType": "productHome"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 32000,
-                "voucherDiscount": 0,
-                "discount": 32000,
-                "currencyCode": "KRW",
-                "currencyInfo": {
-                  "decimals": 0
-                },
-                "fmtPrice": {
-                  "originalPrice": "₩32,000",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                },
-                "dualPrice": null
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
-                    {
-                      "id": "9868464a211d4af8a8320f03017b61f9",
-                      "endDate": "2026-07-16T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-07-09T15:00:00.000Z",
-                      "endDate": "2026-07-16T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-09-24T15:00:00.000Z",
-                      "endDate": "2026-10-08T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 80
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          {
             "title": "Echo Generation: Midnight Edition",
             "id": "371545146a944478ad5a87f9b581ac29",
             "namespace": "2c198b4055e64df698944727dbb561ea",
@@ -1208,30 +1013,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 25600,
+                "discountPrice": 0,
                 "originalPrice": 25600,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 25600,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩25,600",
-                  "discountPrice": "₩25,600",
-                  "intermediatePrice": "₩25,600"
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "ee89aaa96e38439b81013418cbdea1fe",
+                      "endDate": "2026-07-23T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -1244,13 +1056,14 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           }
         ],
         "paging": {
           "count": 40,
-          "total": 7
+          "total": 6
         }
       }
     }
