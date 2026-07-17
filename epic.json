@@ -505,7 +505,20 @@
                   ]
                 }
               ],
-              "upcomingPromotionalOffers": []
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-09-10T17:00:00.000Z",
+                      "endDate": "2026-09-24T17:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 20
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           },
           {
