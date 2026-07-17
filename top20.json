@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5175630,
+    "positive": 5175828,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1761814,
+    "positive": 1761824,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 931322,
+    "positive": 931381,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -189,7 +189,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 200202,
+    "positive": 200308,
     "negative": 0,
     "genres": [
       "인디",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "₩ 10,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 330083,
+    "positive": 330104,
     "negative": 0,
     "genres": [
       "액션",
@@ -257,7 +257,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1887344,
+    "positive": 1887382,
     "negative": 0,
     "genres": [
       "액션",
@@ -311,7 +311,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 576355,
+    "positive": 576389,
     "negative": 0,
     "genres": [
       "액션",
@@ -381,7 +381,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1247122,
+    "positive": 1247129,
     "negative": 0,
     "genres": [
       "액션",
@@ -415,7 +415,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 294383,
+    "positive": 294396,
     "negative": 0,
     "genres": [
       "액션"
@@ -512,7 +512,7 @@
     "is_free": true,
     "desc_kr": "슈퍼 히어로 PVP 팀 슈팅 게임 를 소개합니다. 플레이어는 슈퍼 히어로와 빌런 진영에서 원하는 캐릭터를 골라 올스타팀을 구성할 수 있습니다. 마블 유니버스의 다양한 맵을 활용하고 캐릭터 본연의 능력과 팀업 스킬을 전략적으로 조합하여 전투를 승리로 이끄세요!",
     "release_date": "2024년 12월 5일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/2ae230297a1b7f64ea759e3943b68a9a41070d67/header_alt_assets_9.jpg?t=1783674088",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/86f180fb2b17adae577bd1d175ca8096c9f91769/header.jpg?t=1783674088",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -552,7 +552,7 @@
     "price_kr_formatted": "₩ 42,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1153403,
+    "positive": 1153438,
     "negative": 0,
     "genres": [
       "액션",
@@ -589,7 +589,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 674124,
+    "positive": 674162,
     "negative": 0,
     "genres": [
       "액션"
