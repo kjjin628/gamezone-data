@@ -6,13 +6,13 @@
     "is_free": true,
     "desc_kr": "Counter-Strike는 20년이 넘는 시간 동안 전 세계 수백만 명의 플레이어가 모여 수준 높은 경쟁을 펼칠 수 있는 플랫폼을 제공해 왔습니다. 그리고 이제 곧 Counter-Strike 2와 함께 새로운 CS 시대의 막이 열립니다.",
     "release_date": "2012년 8월 21일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1780435263",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1784564069",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5179793,
+    "positive": 5180561,
     "negative": 0,
     "genres": [
       "액션",
@@ -20,12 +20,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_796601d9d67faf53486eeb26d0724347cea67ddc.600x338.jpg?t=1780435263",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_d830cfd0550fbb64d80e803e93c929c3abb02056.600x338.jpg?t=1780435263",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg?t=1780435263",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg?t=1780435263",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg?t=1780435263",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.600x338.jpg?t=1780435263"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_796601d9d67faf53486eeb26d0724347cea67ddc.600x338.jpg?t=1784564069",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_d830cfd0550fbb64d80e803e93c929c3abb02056.600x338.jpg?t=1784564069",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg?t=1784564069",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg?t=1784564069",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg?t=1784564069",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.600x338.jpg?t=1784564069"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows® 10<br></li><li><strong>프로세서:</strong> 쿼드 코어/스레드 4개 - Intel® Core™ i5 750 이상<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> 비디오 카드는 1GB 이상이어야 하며 셰이더 모델 5.0을 지원하는 DirectX 11과 호환되어야 합니다.<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>저장 공간:</strong> 85 GB 사용 가능 공간</li></ul>",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1761930,
+    "positive": 1761942,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 932111,
+    "positive": 932226,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -149,7 +149,7 @@
     "is_free": true,
     "desc_kr": "Apex 레전드는 Respawn Entertainment에서 제작한 다양한 수상 경력을 자랑하는 무료 플레이 히어로 슈팅 게임입니다. 게임에 계속해서 추가되는 레전드 캐릭터들의 강력한 능력을 마스터하고 깊이 있는 전술적 분대 플레이, 새롭게 진화하는 게임플레이를 지닌 히어로 슈팅과 배틀 로얄의 혁신을 경험하세요.",
     "release_date": "2020년 11월 4일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0bd74245b869287a2dc7f682e6013f7ed08d98e3/header.jpg?t=1778502442",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d526c56eae3339c03aa8dd45f4b06026d2c2c08c/header.jpg?t=1784581218",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -164,11 +164,11 @@
     ],
     "metacritic": 88,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0ae2c002aa75d0b7309955960181fe402327d330/ss_0ae2c002aa75d0b7309955960181fe402327d330.600x338.jpg?t=1778502442",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/c07b405c6272c5dc2f6f25b76591c93ed8711c1d/ss_c07b405c6272c5dc2f6f25b76591c93ed8711c1d.600x338.jpg?t=1778502442",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3/ss_96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3.600x338.jpg?t=1778502442",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/899528308ad54733c8fc1ae825adb57195bface1/ss_899528308ad54733c8fc1ae825adb57195bface1.600x338.jpg?t=1778502442",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88/ss_736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88.600x338.jpg?t=1778502442"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0ae2c002aa75d0b7309955960181fe402327d330/ss_0ae2c002aa75d0b7309955960181fe402327d330.600x338.jpg?t=1784581218",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/c07b405c6272c5dc2f6f25b76591c93ed8711c1d/ss_c07b405c6272c5dc2f6f25b76591c93ed8711c1d.600x338.jpg?t=1784581218",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3/ss_96cb3e1aaf5b7f3f0130a4924e5357cca565e1b3.600x338.jpg?t=1784581218",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/899528308ad54733c8fc1ae825adb57195bface1/ss_899528308ad54733c8fc1ae825adb57195bface1.600x338.jpg?t=1784581218",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88/ss_736fa8d77979bc7ee7ea049682f9bcfc1bb3ac88.600x338.jpg?t=1784581218"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10<br></li><li><strong>프로세서:</strong> AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent<br></li><li><strong>메모리:</strong> 6 GB RAM<br></li><li><strong>그래픽:</strong> AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 75 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> ~3.8GB for 1 localized language</li></ul>",
@@ -189,7 +189,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 201033,
+    "positive": 201124,
     "negative": 0,
     "genres": [
       "인디",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "₩ 10,700",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 330585,
+    "positive": 330712,
     "negative": 0,
     "genres": [
       "액션",
@@ -257,7 +257,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1887979,
+    "positive": 1888081,
     "negative": 0,
     "genres": [
       "액션",
@@ -311,7 +311,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 577521,
+    "positive": 577734,
     "negative": 0,
     "genres": [
       "액션",
@@ -381,7 +381,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1247335,
+    "positive": 1247357,
     "negative": 0,
     "genres": [
       "액션",
@@ -415,7 +415,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 294651,
+    "positive": 294689,
     "negative": 0,
     "genres": [
       "액션"
@@ -552,7 +552,7 @@
     "price_kr_formatted": "₩ 42,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1154090,
+    "positive": 1154203,
     "negative": 0,
     "genres": [
       "액션",
@@ -589,7 +589,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 674788,
+    "positive": 674871,
     "negative": 0,
     "genres": [
       "액션"
