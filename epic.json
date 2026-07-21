@@ -458,7 +458,12 @@
                 }
               ]
             },
-            "offerMappings": [],
+            "offerMappings": [
+              {
+                "pageSlug": "ghostrunner-2",
+                "pageType": "productHome"
+              }
+            ],
             "price": {
               "totalPrice": {
                 "discountPrice": 8180,
