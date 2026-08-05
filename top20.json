@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5205834,
+    "positive": 5206841,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1762366,
+    "positive": 1762379,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 935605,
+    "positive": 935723,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -190,7 +190,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 203661,
+    "positive": 203744,
     "negative": 0,
     "genres": [
       "인디",
@@ -225,7 +225,7 @@
     "price_kr_formatted": "₩ 6,950",
     "price_kr_initial_formatted": "₩ 10,700",
     "discount": 35,
-    "positive": 333617,
+    "positive": 333750,
     "negative": 0,
     "genres": [
       "액션",
@@ -258,7 +258,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1890334,
+    "positive": 1890393,
     "negative": 0,
     "genres": [
       "액션",
@@ -312,7 +312,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 583073,
+    "positive": 583281,
     "negative": 0,
     "genres": [
       "액션",
@@ -376,13 +376,13 @@
     "is_free": true,
     "desc_kr": "톰 클랜시의 레인보우식스 시즈는 탁월한 계획과 기술이 승부를 좌우하는 전술적인 정예 팀 기반 슈팅 게임입니다.",
     "release_date": "2015년 12월 1일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/159d232dac26cee77cf57e32ec0545ac91c09dbc/header_alt_assets_24.jpg?t=1784137517",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/bb763894462b681780ebfe02c5e36b42fce254cd/header_koreana.jpg?t=1784137517",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1248787,
+    "positive": 1248817,
     "negative": 0,
     "genres": [
       "액션",
@@ -416,7 +416,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 295971,
+    "positive": 296022,
     "negative": 0,
     "genres": [
       "액션"
@@ -553,7 +553,7 @@
     "price_kr_formatted": "₩ 21,000",
     "price_kr_initial_formatted": "₩ 42,000",
     "discount": 50,
-    "positive": 1158167,
+    "positive": 1158325,
     "negative": 0,
     "genres": [
       "액션",
@@ -590,7 +590,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 677991,
+    "positive": 678069,
     "negative": 0,
     "genres": [
       "액션"
@@ -655,7 +655,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 2881,
+    "positive": 2882,
     "negative": 0,
     "genres": [
       "액션",
