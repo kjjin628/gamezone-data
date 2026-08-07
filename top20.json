@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5208856,
+    "positive": 5209660,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1762404,
+    "positive": 1762419,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 936024,
+    "positive": 936137,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -190,7 +190,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 203935,
+    "positive": 204029,
     "negative": 0,
     "genres": [
       "인디",
@@ -219,13 +219,13 @@
     "is_free": false,
     "desc_kr": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
     "release_date": "2025년 2월 26일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
-    "price_kr": 695000,
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1778158882",
+    "price_kr": 1070000,
     "price_kr_initial": 1070000,
-    "price_kr_formatted": "₩ 6,950",
-    "price_kr_initial_formatted": "₩ 10,700",
-    "discount": 35,
-    "positive": 334046,
+    "price_kr_formatted": "₩ 10,700",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 334179,
     "negative": 0,
     "genres": [
       "액션",
@@ -258,7 +258,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1890546,
+    "positive": 1890637,
     "negative": 0,
     "genres": [
       "액션",
@@ -312,7 +312,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 583699,
+    "positive": 583887,
     "negative": 0,
     "genres": [
       "액션",
@@ -346,7 +346,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1989,
+    "positive": 1990,
     "negative": 0,
     "genres": [
       "액션",
@@ -376,13 +376,13 @@
     "is_free": true,
     "desc_kr": "톰 클랜시의 레인보우식스 시즈는 탁월한 계획과 기술이 승부를 좌우하는 전술적인 정예 팀 기반 슈팅 게임입니다.",
     "release_date": "2015년 12월 1일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/bb763894462b681780ebfe02c5e36b42fce254cd/header_koreana.jpg?t=1784137517",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/dbd0c4a94a49fa7a1a2ee3b1426592334c195f88/header_alt_assets_24.jpg?t=1786117431",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1248956,
+    "positive": 1248994,
     "negative": 0,
     "genres": [
       "액션",
@@ -390,12 +390,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/ef9bc694ff724b3d64ac37968f35f9a6ec4c766a/ss_ef9bc694ff724b3d64ac37968f35f9a6ec4c766a.600x338.jpg?t=1784137517",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/195233dcf0318762d848cceaf953318905da725e/ss_195233dcf0318762d848cceaf953318905da725e.600x338.jpg?t=1784137517",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/66ed10cd105bff48135fa25aeaacf1201c46a552/ss_66ed10cd105bff48135fa25aeaacf1201c46a552.600x338.jpg?t=1784137517",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/8363519296edec1c056176f25e20767da3e6e853/ss_8363519296edec1c056176f25e20767da3e6e853.600x338.jpg?t=1784137517",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/5467c59d8651c801aab376432cb96f7a49803d7a/ss_5467c59d8651c801aab376432cb96f7a49803d7a.600x338.jpg?t=1784137517",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/1ee529c1c835164b7a2949a8b52ce79016d45690/ss_1ee529c1c835164b7a2949a8b52ce79016d45690.600x338.jpg?t=1784137517"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/ef9bc694ff724b3d64ac37968f35f9a6ec4c766a/ss_ef9bc694ff724b3d64ac37968f35f9a6ec4c766a.600x338.jpg?t=1786117431",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/195233dcf0318762d848cceaf953318905da725e/ss_195233dcf0318762d848cceaf953318905da725e.600x338.jpg?t=1786117431",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/66ed10cd105bff48135fa25aeaacf1201c46a552/ss_66ed10cd105bff48135fa25aeaacf1201c46a552.600x338.jpg?t=1786117431",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/8363519296edec1c056176f25e20767da3e6e853/ss_8363519296edec1c056176f25e20767da3e6e853.600x338.jpg?t=1786117431",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/5467c59d8651c801aab376432cb96f7a49803d7a/ss_5467c59d8651c801aab376432cb96f7a49803d7a.600x338.jpg?t=1786117431",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/1ee529c1c835164b7a2949a8b52ce79016d45690/ss_1ee529c1c835164b7a2949a8b52ce79016d45690.600x338.jpg?t=1786117431"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10, Windows 11 (64-bit versions)<br></li><li><strong>프로세서:</strong> AMD Ryzen 3 3100 / Intel i3-8100<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A380 6GB<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 65 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX® 9.0c compatible sound card with latest drivers<br></li><li><strong>추가 사항:</strong> For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.</li></ul>",
@@ -416,7 +416,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 296150,
+    "positive": 296204,
     "negative": 0,
     "genres": [
       "액션"
@@ -553,7 +553,7 @@
     "price_kr_formatted": "₩ 21,000",
     "price_kr_initial_formatted": "₩ 42,000",
     "discount": 50,
-    "positive": 1159068,
+    "positive": 1159348,
     "negative": 0,
     "genres": [
       "액션",
@@ -590,7 +590,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 678332,
+    "positive": 678407,
     "negative": 0,
     "genres": [
       "액션"
