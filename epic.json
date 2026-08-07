@@ -1158,235 +1158,16 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 13300,
+                "discountPrice": 0,
                 "originalPrice": 13300,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 13300,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩13,300",
-                  "discountPrice": "₩13,300",
-                  "intermediatePrice": "₩13,300"
-                },
-                "dualPrice": null
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": []
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-08-06T15:00:00.000Z",
-                      "endDate": "2026-08-13T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          {
-            "title": "Sol Cesto",
-            "id": "c71375f1ac9444fcae1ca584a53ba6f0",
-            "namespace": "ce5d3cf74f36450cb7136952dc5b520f",
-            "description": "Sol Cesto는 운을 지배해야 하는 정신없는 전술적 로그라이트 게임입니다. 영웅을 선택하고 무작위 던전 최하층에 도달해 보세요. 이 음울한 세계에서는 모든 행동에 결과가 따릅니다…",
-            "effectiveDate": "2026-07-30T15:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2026-07-22T21:03:17.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-g83am.png"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-g83am.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-a7x54.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ya91.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1b2jb.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-147rq.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-15x7c.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-11xx1.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1oukj.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-d2f5s.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-mpjgr.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-o4kgq.jpg"
-              }
-            ],
-            "seller": {
-              "id": "o-7jby5x5ez3xmyf5qhgur72hlye379e",
-              "name": "Goblinz Studio SAS"
-            },
-            "productSlug": null,
-            "urlSlug": "sol-cesto",
-            "url": null,
-            "items": [
-              {
-                "id": "4d4d1d2857e94c7ab29a513b6eaf60db",
-                "namespace": "ce5d3cf74f36450cb7136952dc5b520f"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isPromotionalContentUsed",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "true"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "21122"
-              },
-              {
-                "id": "1188"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "21129"
-              },
-              {
-                "id": "1386"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "1265"
-              },
-              {
-                "id": "21137"
-              },
-              {
-                "id": "21138"
-              },
-              {
-                "id": "21139"
-              },
-              {
-                "id": "21140"
-              },
-              {
-                "id": "21141"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "1083"
-              },
-              {
-                "id": "21149"
-              },
-              {
-                "id": "21119"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "sol-cesto-e9b803",
-                  "pageType": "productHome"
-                }
-              ]
-            },
-            "offerMappings": [
-              {
-                "pageSlug": "sol-cesto-e9b803",
-                "pageType": "productHome"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 15500,
-                "voucherDiscount": 0,
-                "discount": 15500,
-                "currencyCode": "KRW",
-                "currencyInfo": {
-                  "decimals": 0
-                },
-                "fmtPrice": {
-                  "originalPrice": "₩15,500",
                   "discountPrice": "0",
                   "intermediatePrice": "0"
                 },
@@ -1396,8 +1177,8 @@
                 {
                   "appliedRules": [
                     {
-                      "id": "8efcd78277b24a55943f73b9fdefd1a6",
-                      "endDate": "2026-08-06T15:00:00.000Z",
+                      "id": "87f3323889c84bc18efc328b7aa6b0cc",
+                      "endDate": "2026-08-13T15:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE"
                       }
@@ -1411,8 +1192,8 @@
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-07-30T15:00:00.000Z",
-                      "endDate": "2026-08-06T15:00:00.000Z",
+                      "startDate": "2026-08-06T15:00:00.000Z",
+                      "endDate": "2026-08-13T15:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
@@ -1427,7 +1208,7 @@
         ],
         "paging": {
           "count": 40,
-          "total": 8
+          "total": 7
         }
       }
     }
