@@ -4,6 +4,151 @@
       "searchStore": {
         "elements": [
           {
+            "title": "Cardpocalypse Standard Edition",
+            "id": "b467b7d3570e44c0b84e59475f4a5636",
+            "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+            "description": "10살 소녀 Jess 때문에 Dudsdale Elementary 전교생이 즐겨하던 트레이딩 카드 게임이 교내에서 금지되었습니다. 그것도 Jess가 처음으로 이 학교에 등교한 날에 말이죠! 바로 그 때, 게임 카드 속에 있던 뮤턴트들이 현실 세계로 넘어와 버렸습니다. 이제 Jess와 친구들이 괴물들을 막아야 합니다. Mega Mutant Power Pets 마스터가 되어 학교를 구해야 합니다... 어쩌면 세계를 구해야 할지도 모르죠.",
+            "effectiveDate": "2019-09-13T06:00:00.000Z",
+            "offerType": "BASE_GAME",
+            "expiryDate": null,
+            "viewableDate": null,
+            "status": "ACTIVE",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+              {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5"
+              },
+              {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df"
+              },
+              {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/cards2_1200x1600-2e006bcbe82d7cf71d5102fc3566b7e5"
+              }
+            ],
+            "seller": {
+              "id": "o-u6n5zct3hl838grbqva2ahvlu5muh8",
+              "name": "Gambrinous"
+            },
+            "productSlug": "cardpocalypse/home",
+            "urlSlug": "cardpocalypsegeneralaudience",
+            "url": null,
+            "items": [
+              {
+                "id": "820c7dbae0954470a8d28aa1c80eef03",
+                "namespace": "2bfd5ca43ef443739ada168e017e1b78"
+              }
+            ],
+            "customAttributes": [
+              {
+                "key": "com.epicgames.app.blacklist",
+                "value": "{}"
+              },
+              {
+                "key": "publisherName",
+                "value": "Versus Evil"
+              },
+              {
+                "key": "developerName",
+                "value": "Gambrinous"
+              },
+              {
+                "key": "com.epicgames.app.productSlug",
+                "value": "cardpocalypse/home"
+              }
+            ],
+            "categories": [
+              {
+                "path": "freegames"
+              },
+              {
+                "path": "games"
+              },
+              {
+                "path": "games/edition"
+              },
+              {
+                "path": "games/edition/base"
+              },
+              {
+                "path": "applications"
+              }
+            ],
+            "tags": [
+              {
+                "id": "1367"
+              },
+              {
+                "id": "1370"
+              },
+              {
+                "id": "9547"
+              },
+              {
+                "id": "1181"
+              },
+              {
+                "id": "1263"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "cardpocalypse",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "offerMappings": [
+              {
+                "pageSlug": "cardpocalypse",
+                "pageType": "productHome"
+              }
+            ],
+            "price": {
+              "totalPrice": {
+                "discountPrice": 30000,
+                "originalPrice": 30000,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "KRW",
+                "currencyInfo": {
+                  "decimals": 0
+                },
+                "fmtPrice": {
+                  "originalPrice": "₩30,000",
+                  "discountPrice": "₩30,000",
+                  "intermediatePrice": "₩30,000"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": []
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-08-20T15:00:00.000Z",
+                      "endDate": "2026-08-27T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 0
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
             "title": "Them's Fightin' Herds",
             "id": "1f723b00df58467998c4984ca39915ad",
             "namespace": "a567c32599bf4d4fb609e424f3691b39",
@@ -1208,7 +1353,7 @@
         ],
         "paging": {
           "count": 40,
-          "total": 7
+          "total": 8
         }
       }
     }
