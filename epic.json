@@ -733,30 +733,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 32000,
+                "discountPrice": 0,
                 "originalPrice": 32000,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 32000,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩32,000",
-                  "discountPrice": "₩32,000",
-                  "intermediatePrice": "₩32,000"
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "6f963d01472d4df7980ead43dfcfe91b",
+                      "endDate": "2026-08-20T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -769,7 +776,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -1118,108 +1126,52 @@
             }
           },
           {
-            "title": "We Were Here Together",
-            "id": "231e8f6d250a453f9c44c0adf3a34656",
-            "namespace": "c5f6069e7dd644dab009294f0fddc7a7",
-            "description": "얼어붙은 땅을 탐험하는 중에 다시 한 번 불운이 찾아왔습니다. 맹렬한 눈보라를 뚫고 비상용 신호탄이 하늘을 밝힌 뒤 무전을 통해 도움을 구하는 울부짖는 소리가 들립니다. 무전이 끊깁니다... 누구도 그들을 구하러 갈 수 없습니다. 하지만 함께라면 할 수 있지 않을까요?",
-            "effectiveDate": "2025-12-04T09:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2025-12-04T09:00:00.000Z",
+            "title": "에픽 메이지 번들",
+            "id": "a802acab90af4a07952a07a9fa677f2f",
+            "namespace": "72520902fc594621b6daa5a6217b4ee7",
+            "description": "$55 이상의 가치가 있는 마법 같은 무료 선물을 받아가세요! 마법이 깃든 명품 아이템, 두 가지 특별한 탈것 스킨, 그리고 성장에 필요한 풍성한 보상으로 알비온에서의 여정을 더욱 특별하게 만들어 보세요",
+            "effectiveDate": "2026-08-20T15:00:00.000Z",
+            "offerType": "ADD_ON",
+            "expiryDate": "2026-08-27T15:00:00.000Z",
+            "viewableDate": "2026-08-13T15:00:00.000Z",
             "status": "ACTIVE",
             "isCodeRedemptionOnly": false,
             "keyImages": [
               {
                 "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-v5q98.png"
               },
               {
                 "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-12ukl.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-18emd.png"
               },
               {
                 "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-12ukl.png"
-              },
-              {
-                "type": "heroCarouselVideo",
-                "url": "com.epicgames.video://0bb8b097-5283-4b66-8b6d-301afe65f55c?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Ff24f7e149dc64df18f14dfab4f6dae4d%2Fwe-were-here-together-video-1jvcq.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-18emd.png"
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-15na5.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1oog3.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-8db2h.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-6p4ig.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-ddaro.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-o7xkz.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-m1hjg.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1jbj8.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-eifyx.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1sotk.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-7ojx7.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-dlgte.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-t24wn.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1h9fm.jpg"
-              },
-              {
-                "type": "OgImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1n67b.jpg"
+                "url": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-gwlyq.png"
               }
             ],
             "seller": {
-              "id": "o-ew34wzn79c34kcdbd3l6br8rju7c8m",
-              "name": "TMG Studios B.V."
+              "id": "o-bqgxsskl6psb955j4pwt52muzt69yz",
+              "name": "Sandbox Interactive GmbH"
             },
             "productSlug": null,
-            "urlSlug": "a4bed38482a44c3d89029b0dbba42087",
+            "urlSlug": "epic-mage-bundle",
             "url": null,
             "items": [
               {
-                "id": "7aeff6d52bad42a4960995a170e20b61",
-                "namespace": "c5f6069e7dd644dab009294f0fddc7a7"
+                "id": "acec73c5170c4051a7645129b41eac70",
+                "namespace": "72520902fc594621b6daa5a6217b4ee7"
               }
             ],
             "customAttributes": [
+              {
+                "key": "isManuallySetRefundableType",
+                "value": "true"
+              },
               {
                 "key": "autoGeneratedPrice",
                 "value": "false"
@@ -1234,7 +1186,7 @@
               },
               {
                 "key": "isManuallySetPCReleaseDate",
-                "value": "true"
+                "value": "false"
               },
               {
                 "key": "isBlockchainUsed",
@@ -1243,30 +1195,27 @@
             ],
             "categories": [
               {
+                "path": "addons"
+              },
+              {
                 "path": "freegames"
               },
               {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
+                "path": "addons/durable"
               }
             ],
             "tags": [
               {
-                "id": "1264"
-              },
-              {
                 "id": "29088"
               },
               {
-                "id": "1298"
+                "id": "1287"
               },
               {
-                "id": "39940"
+                "id": "1367"
+              },
+              {
+                "id": "22775"
               },
               {
                 "id": "22776"
@@ -1281,38 +1230,35 @@
                 "id": "9549"
               },
               {
-                "id": "21150"
-              },
-              {
-                "id": "1263"
+                "id": "10719"
               }
             ],
             "catalogNs": {
               "mappings": [
                 {
-                  "pageSlug": "we-were-here-together-6a6d66",
+                  "pageSlug": "albion-online-7eb24d",
                   "pageType": "productHome"
                 }
               ]
             },
             "offerMappings": [
               {
-                "pageSlug": "we-were-here-together-6a6d66",
-                "pageType": "productHome"
+                "pageSlug": "albion-online-epic-mage-bundle-2ceb19",
+                "pageType": "offer"
               }
             ],
             "price": {
               "totalPrice": {
                 "discountPrice": 0,
-                "originalPrice": 13300,
+                "originalPrice": 0,
                 "voucherDiscount": 0,
-                "discount": 13300,
+                "discount": 0,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
-                  "originalPrice": "₩13,300",
+                  "originalPrice": "0",
                   "discountPrice": "0",
                   "intermediatePrice": "0"
                 },
@@ -1320,25 +1266,18 @@
               },
               "lineOffers": [
                 {
-                  "appliedRules": [
-                    {
-                      "id": "87f3323889c84bc18efc328b7aa6b0cc",
-                      "endDate": "2026-08-13T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
+                  "appliedRules": []
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-08-06T15:00:00.000Z",
-                      "endDate": "2026-08-13T15:00:00.000Z",
+                      "startDate": "2026-08-20T15:00:00.000Z",
+                      "endDate": "2026-08-27T15:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
@@ -1346,8 +1285,7 @@
                     }
                   ]
                 }
-              ],
-              "upcomingPromotionalOffers": []
+              ]
             }
           }
         ],
