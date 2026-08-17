@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5223709,
+    "positive": 5224627,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1762751,
+    "positive": 1762766,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 938271,
+    "positive": 938415,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -190,7 +190,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 402519,
+    "positive": 402724,
     "negative": 0,
     "genres": [
       "액션",
@@ -226,7 +226,7 @@
     "price_kr_formatted": "₩ 4,200",
     "price_kr_initial_formatted": "₩ 8,400",
     "discount": 50,
-    "positive": 286534,
+    "positive": 287108,
     "negative": 0,
     "genres": [
       "액션",
@@ -256,12 +256,12 @@
     "desc_kr": "은하계 최고의 공격 부대. 빠르고, 정신없고, 격렬한 3인칭 슈팅 게임에서 헬다이버가 되어 적대적인 은하계 전역을 누비며 자유를 위해 싸우세요.",
     "release_date": "2024년 2월 8일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/2a58d0a6c901e61cc6ad5a7cb488048a1e9f4809/header_koreana.jpg?t=1786525389",
-    "price_kr": 3360000,
+    "price_kr": 4480000,
     "price_kr_initial": 4480000,
-    "price_kr_formatted": "₩ 33,600",
-    "price_kr_initial_formatted": "₩ 44,800",
-    "discount": 25,
-    "positive": 834430,
+    "price_kr_formatted": "₩ 44,800",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 834583,
     "negative": 0,
     "genres": [
       "액션"
@@ -328,7 +328,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 405587,
+    "positive": 405781,
     "negative": 0,
     "genres": [
       "액션"
@@ -361,7 +361,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1891639,
+    "positive": 1891701,
     "negative": 0,
     "genres": [
       "액션",
@@ -395,7 +395,7 @@
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 95023,
+    "positive": 95111,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -429,7 +429,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 205617,
+    "positive": 205696,
     "negative": 0,
     "genres": [
       "인디",
@@ -484,7 +484,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1250092,
+    "positive": 1250124,
     "negative": 0,
     "genres": [
       "액션",
@@ -518,7 +518,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 679913,
+    "positive": 679976,
     "negative": 0,
     "genres": [
       "액션"
@@ -551,7 +551,7 @@
     "price_kr_formatted": "₩ 26,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 357891,
+    "positive": 358022,
     "negative": 0,
     "genres": [
       "인디",
@@ -623,7 +623,7 @@
     "price_kr_formatted": "₩ 80,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 290066,
+    "positive": 290202,
     "negative": 0,
     "genres": [
       "액션"
