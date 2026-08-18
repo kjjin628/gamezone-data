@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5225800,
+    "positive": 5227470,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 14378,
+    "positive": 14377,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1762770,
+    "positive": 1762790,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 938531,
+    "positive": 938653,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -190,7 +190,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 402910,
+    "positive": 403101,
     "negative": 0,
     "genres": [
       "액션",
@@ -221,12 +221,12 @@
     "desc_kr": "PEAK는 작은 실수 하나가 치명적인 결과를 초래할 수 있는 협동 등반 게임입니다. 혼자서든, 길 잃은 자연 스카우트와 함께든, 신비한 섬에서 구조될 유일한 희망은 중앙에 우뚝 솟은 산을 오르는 것뿐입니다. 당신은 과연 정상에 오를 수 있을까요?",
     "release_date": "2025년 6월 16일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
-    "price_kr": 420000,
+    "price_kr": 840000,
     "price_kr_initial": 840000,
-    "price_kr_formatted": "₩ 4,200",
-    "price_kr_initial_formatted": "₩ 8,400",
-    "discount": 50,
-    "positive": 287481,
+    "price_kr_formatted": "₩ 8,400",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 288188,
     "negative": 0,
     "genres": [
       "액션",
@@ -261,7 +261,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 834736,
+    "positive": 834832,
     "negative": 0,
     "genres": [
       "액션"
@@ -328,7 +328,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 405986,
+    "positive": 406198,
     "negative": 0,
     "genres": [
       "액션"
@@ -361,7 +361,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1891744,
+    "positive": 1891801,
     "negative": 0,
     "genres": [
       "액션",
@@ -395,7 +395,7 @@
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 95197,
+    "positive": 95293,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -429,7 +429,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 205771,
+    "positive": 205854,
     "negative": 0,
     "genres": [
       "인디",
@@ -484,7 +484,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1250196,
+    "positive": 1250239,
     "negative": 0,
     "genres": [
       "액션",
@@ -518,7 +518,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 680059,
+    "positive": 680125,
     "negative": 0,
     "genres": [
       "액션"
@@ -587,7 +587,7 @@
     "price_kr_formatted": "₩ 26,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 358171,
+    "positive": 358283,
     "negative": 0,
     "genres": [
       "인디",
@@ -623,7 +623,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 587276,
+    "positive": 587474,
     "negative": 0,
     "genres": [
       "액션",
