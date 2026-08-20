@@ -4,6 +4,194 @@
       "searchStore": {
         "elements": [
           {
+            "title": "Breathedge",
+            "id": "8401414902e84f2cb9afa9142f051d32",
+            "namespace": "08ae29e4f70a4b62aa055e383381aa82",
+            "description": "우주 공간에서 살아남으세요! 당신의 불멸의 닭과 함께 당신의 우주선이 왜 갑작스럽게 충돌했는지 알아보세요. 도구를 만들고, 자동차를 운전하고, 우주 정거장을 통제하여 생존하고 파괴 잔해를 뒤져보세요.",
+            "effectiveDate": "2021-02-25T18:00:00.000Z",
+            "offerType": "BASE_GAME",
+            "expiryDate": null,
+            "viewableDate": "2021-02-09T17:00:00.000Z",
+            "status": "ACTIVE",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+              {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg"
+              },
+              {
+                "type": "DieselStoreFrontWide",
+                "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg"
+              },
+              {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
+              },
+              {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
+              },
+              {
+                "type": "CodeRedemption_340x440",
+                "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
+              },
+              {
+                "type": "DieselStoreFrontTall",
+                "url": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg"
+              }
+            ],
+            "seller": {
+              "id": "o-p9883lvrpllhyd7sad6tgxv53mdyh5",
+              "name": "Hypetrain Digital"
+            },
+            "productSlug": "breathedge",
+            "urlSlug": "osmiumgeneralaudience",
+            "url": null,
+            "items": [
+              {
+                "id": "a07c7f65867e435dac277e0284e19a5a",
+                "namespace": "08ae29e4f70a4b62aa055e383381aa82"
+              }
+            ],
+            "customAttributes": [
+              {
+                "key": "publisherName",
+                "value": "HypeTrain Digital"
+              },
+              {
+                "key": "developerName",
+                "value": "RedRuins Softworks"
+              },
+              {
+                "key": "com.epicgames.app.productSlug",
+                "value": "breathedge"
+              }
+            ],
+            "categories": [
+              {
+                "path": "freegames"
+              },
+              {
+                "path": "games"
+              },
+              {
+                "path": "games/edition"
+              },
+              {
+                "path": "games/edition/base"
+              },
+              {
+                "path": "applications"
+              }
+            ],
+            "tags": [
+              {
+                "id": "1216"
+              },
+              {
+                "id": "1281"
+              },
+              {
+                "id": "1188"
+              },
+              {
+                "id": "21894"
+              },
+              {
+                "id": "9547"
+              },
+              {
+                "id": "9549"
+              },
+              {
+                "id": "21138"
+              },
+              {
+                "id": "21139"
+              },
+              {
+                "id": "21140"
+              },
+              {
+                "id": "21141"
+              },
+              {
+                "id": "1080"
+              },
+              {
+                "id": "1370"
+              },
+              {
+                "id": "21149"
+              },
+              {
+                "id": "21119"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "breathedge",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "offerMappings": [
+              {
+                "pageSlug": "breathedge",
+                "pageType": "productHome"
+              }
+            ],
+            "price": {
+              "totalPrice": {
+                "discountPrice": 27000,
+                "originalPrice": 27000,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "KRW",
+                "currencyInfo": {
+                  "decimals": 0
+                },
+                "fmtPrice": {
+                  "originalPrice": "₩27,000",
+                  "discountPrice": "₩27,000",
+                  "intermediatePrice": "₩27,000"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": []
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-09-03T15:00:00.000Z",
+                      "endDate": "2026-09-17T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 25
+                      }
+                    },
+                    {
+                      "startDate": "2026-08-27T15:00:00.000Z",
+                      "endDate": "2026-09-03T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 0
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
             "title": "Them's Fightin' Herds",
             "id": "1f723b00df58467998c4984ca39915ad",
             "namespace": "a567c32599bf4d4fb609e424f3691b39",
@@ -473,169 +661,6 @@
                   ]
                 }
               ]
-            }
-          },
-          {
-            "title": "Caravan SandWitch",
-            "id": "0e44600a079e419abbb291ccf5af9ee7",
-            "namespace": "45b137b2ecd14e01a54b52e575f1632d",
-            "description": "매혹적인 서사 중심의 탐험 어드벤처, Caravan SandWitch에서 광대한 풍경을 가로지르는 여정을 떠납니다.",
-            "effectiveDate": "2024-09-12T15:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2024-09-05T12:08:00.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-fku42.jpg"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-fku42.jpg"
-              }
-            ],
-            "seller": {
-              "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
-              "name": "Plug In Digital SAS"
-            },
-            "productSlug": null,
-            "urlSlug": "70e9a8a90305449a88a38b708399e605",
-            "url": null,
-            "items": [
-              {
-                "id": "be9a594fea474479b14c09d61c2f08bd",
-                "namespace": "45b137b2ecd14e01a54b52e575f1632d"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isPromotionalContentUsed",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "false"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1296"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "1117"
-              },
-              {
-                "id": "9549"
-              },
-              {
-                "id": "1263"
-              },
-              {
-                "id": "21119"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "caravan-sandwitch-05ff58",
-                  "pageType": "productHome"
-                }
-              ]
-            },
-            "offerMappings": [
-              {
-                "pageSlug": "caravan-sandwitch-05ff58",
-                "pageType": "productHome"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 32000,
-                "voucherDiscount": 0,
-                "discount": 32000,
-                "currencyCode": "KRW",
-                "currencyInfo": {
-                  "decimals": 0
-                },
-                "fmtPrice": {
-                  "originalPrice": "₩32,000",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                },
-                "dualPrice": null
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
-                    {
-                      "id": "6f963d01472d4df7980ead43dfcfe91b",
-                      "endDate": "2026-08-20T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-08-13T15:00:00.000Z",
-                      "endDate": "2026-08-20T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -1145,8 +1170,7 @@
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -1159,7 +1183,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           }
         ],
