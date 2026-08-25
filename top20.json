@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5237629,
+    "positive": 5238634,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1762939,
+    "positive": 1762950,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 940071,
+    "positive": 940187,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 5,210",
     "price_kr_initial_formatted": "₩ 8,400",
     "discount": 38,
-    "positive": 16301,
+    "positive": 18686,
     "negative": 0,
     "genres": [
       "액션",
@@ -221,12 +221,12 @@
     "desc_kr": "드넓은 세계에 서식하는 신비한 생물 &quot;팰&quot;을 수집하여 전투, 건축, 농업에 투입하거나 공장에서 일을 시키는 등, 전에 없던 새로운 체험을 선사하는 멀티 지원 오픈월드 서바이벌 크래프트 게임입니다.",
     "release_date": "2026년 7월 9일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
-    "price_kr": 3200000,
+    "price_kr": 2240000,
     "price_kr_initial": 3200000,
-    "price_kr_formatted": "₩ 32,000",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 405186,
+    "price_kr_formatted": "₩ 22,400",
+    "price_kr_initial_formatted": "₩ 32,000",
+    "discount": 30,
+    "positive": 405338,
     "negative": 0,
     "genres": [
       "액션",
@@ -262,7 +262,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 835969,
+    "positive": 836087,
     "negative": 0,
     "genres": [
       "액션"
@@ -295,7 +295,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1892401,
+    "positive": 1892449,
     "negative": 0,
     "genres": [
       "액션",
@@ -329,7 +329,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 408493,
+    "positive": 408691,
     "negative": 0,
     "genres": [
       "액션"
@@ -396,7 +396,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 206740,
+    "positive": 206804,
     "negative": 0,
     "genres": [
       "인디",
@@ -445,13 +445,13 @@
     "is_free": false,
     "desc_kr": "EA SPORTS FC™ 26에서 이전과는 다른 방식으로 The World's Game을 경험하세요. 48개 팀 국제 토너먼트 모드에서 영광을 향해 도전하고, 테마별 감독 라이브 챌린지에 도전하고, 새로운 국가대표 아이콘 및 영웅과 함께 선수 커리어를 시작하세요.",
     "release_date": "2025년 9월 25일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg?t=1785772769",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg?t=1787676422",
     "price_kr": 2200000,
     "price_kr_initial": 2200000,
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 96366,
+    "positive": 96429,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -459,12 +459,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea/ss_1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea.600x338.jpg?t=1785772769",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b61caa1b54537a4e5ba6ca186ed661a0d03debee/ss_b61caa1b54537a4e5ba6ca186ed661a0d03debee.600x338.jpg?t=1785772769",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/5038fb5ee65b4469793f2f477a91d3c4f9af144b/ss_5038fb5ee65b4469793f2f477a91d3c4f9af144b.600x338.jpg?t=1785772769",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/725a1067d83dba8514b5ecae4f39d59b4bd73bb2/ss_725a1067d83dba8514b5ecae4f39d59b4bd73bb2.600x338.jpg?t=1785772769",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc/ss_d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc.600x338.jpg?t=1785772769",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b2bcda2e36966161937db451509f9922901b6145/ss_b2bcda2e36966161937db451509f9922901b6145.600x338.jpg?t=1785772769"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea/ss_1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea.600x338.jpg?t=1787676422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b61caa1b54537a4e5ba6ca186ed661a0d03debee/ss_b61caa1b54537a4e5ba6ca186ed661a0d03debee.600x338.jpg?t=1787676422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/5038fb5ee65b4469793f2f477a91d3c4f9af144b/ss_5038fb5ee65b4469793f2f477a91d3c4f9af144b.600x338.jpg?t=1787676422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/725a1067d83dba8514b5ecae4f39d59b4bd73bb2/ss_725a1067d83dba8514b5ecae4f39d59b4bd73bb2.600x338.jpg?t=1787676422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc/ss_d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc.600x338.jpg?t=1787676422",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b2bcda2e36966161937db451509f9922901b6145/ss_b2bcda2e36966161937db451509f9922901b6145.600x338.jpg?t=1787676422"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10/11 - 64-Bit (Latest Update).<br></li><li><strong>프로세서:</strong> AMD Ryzen 5 1600 or Intel Core i5 6600k<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> AMD RX 570 or Nvidia GTX 1050 Ti<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 100 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX: 12 Compatible video card or equivalent (feature level 12_0)</li></ul>",
@@ -485,7 +485,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1250914,
+    "positive": 1250942,
     "negative": 0,
     "genres": [
       "액션",
@@ -519,7 +519,7 @@
     "price_kr_formatted": "₩ 11,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1234590,
+    "positive": 1234721,
     "negative": 0,
     "genres": [
       "액션",
@@ -555,7 +555,7 @@
     "price_kr_formatted": "₩ 8,400",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 292877,
+    "positive": 293218,
     "negative": 0,
     "genres": [
       "액션",
@@ -620,25 +620,25 @@
     "is_free": false,
     "desc_kr": "최고의 전면전을 경험하세요. 전차, 전투기, 거대한 병기로 가득한 전쟁에서 가장 치명적인 무기는 여러분의 분대입니다.",
     "release_date": "2025년 10월 10일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1787065389",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1787669881",
     "price_kr": 8000000,
     "price_kr_initial": 8000000,
     "price_kr_formatted": "₩ 80,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 291868,
+    "positive": 291951,
     "negative": 0,
     "genres": [
       "액션"
     ],
     "metacritic": 82,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/3b878faa48fcf3546cb51e44da4a41153279324a/ss_3b878faa48fcf3546cb51e44da4a41153279324a.600x338.jpg?t=1787065389",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/08e582f190922ff4129dbee79c4f045d20663fb9/ss_08e582f190922ff4129dbee79c4f045d20663fb9.600x338.jpg?t=1787065389",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/17c645cb7edd1ae67957deed74ae56d7c479e7cb/ss_17c645cb7edd1ae67957deed74ae56d7c479e7cb.600x338.jpg?t=1787065389",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/ec06bb043db07d79b0aec3bca43ccf44f7c361c4/ss_ec06bb043db07d79b0aec3bca43ccf44f7c361c4.600x338.jpg?t=1787065389",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/e945f266a2e2f7082ba940ca893ca28100b27e55/ss_e945f266a2e2f7082ba940ca893ca28100b27e55.600x338.jpg?t=1787065389",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/3e6c45643098e6c49da5e3c031dee7129e39bd3a/ss_3e6c45643098e6c49da5e3c031dee7129e39bd3a.600x338.jpg?t=1787065389"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/3b878faa48fcf3546cb51e44da4a41153279324a/ss_3b878faa48fcf3546cb51e44da4a41153279324a.600x338.jpg?t=1787669881",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/08e582f190922ff4129dbee79c4f045d20663fb9/ss_08e582f190922ff4129dbee79c4f045d20663fb9.600x338.jpg?t=1787669881",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/17c645cb7edd1ae67957deed74ae56d7c479e7cb/ss_17c645cb7edd1ae67957deed74ae56d7c479e7cb.600x338.jpg?t=1787669881",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/ec06bb043db07d79b0aec3bca43ccf44f7c361c4/ss_ec06bb043db07d79b0aec3bca43ccf44f7c361c4.600x338.jpg?t=1787669881",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/e945f266a2e2f7082ba940ca893ca28100b27e55/ss_e945f266a2e2f7082ba940ca893ca28100b27e55.600x338.jpg?t=1787669881",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/3e6c45643098e6c49da5e3c031dee7129e39bd3a/ss_3e6c45643098e6c49da5e3c031dee7129e39bd3a.600x338.jpg?t=1787669881"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10<br></li><li><strong>프로세서:</strong> Intel Core i5-8400, AMD Ryzen 5 2600<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> Nvidia RTX 2060, AMD Radeon RX 5600 XT 6GB, Intel Arc A380<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 55 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> No Recommendation<br></li><li><strong>VR 지원:</strong> Not Supported<br></li><li><strong>추가 사항:</strong> TPM 2.0 Enabled UEFI SECURE BOOT Enabled HVCI Capable VBS Capable</li></ul>",
