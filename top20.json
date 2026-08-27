@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5241452,
+    "positive": 5241940,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1763016,
+    "positive": 1763024,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 940541,
+    "positive": 940647,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -150,12 +150,12 @@
     "desc_kr": "1~4인용 물리 기반 낚시 시뮬레이터입니다. 당신은 술을 마시고 보트를 타고 놀다가 갑자기 작은 섬을 들이받았습니다. 집으로 돌아가려면 낚시하는 법을 배워야 하죠.",
     "release_date": "2026년 8월 20일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
-    "price_kr": 521000,
+    "price_kr": 840000,
     "price_kr_initial": 840000,
-    "price_kr_formatted": "₩ 5,210",
-    "price_kr_initial_formatted": "₩ 8,400",
-    "discount": 38,
-    "positive": 24804,
+    "price_kr_formatted": "₩ 8,400",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 26336,
     "negative": 0,
     "genres": [
       "액션",
@@ -226,7 +226,7 @@
     "price_kr_formatted": "₩ 22,400",
     "price_kr_initial_formatted": "₩ 32,000",
     "discount": 30,
-    "positive": 405783,
+    "positive": 405854,
     "negative": 0,
     "genres": [
       "액션",
@@ -262,7 +262,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1892599,
+    "positive": 1892666,
     "negative": 0,
     "genres": [
       "액션",
@@ -296,7 +296,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 409196,
+    "positive": 409287,
     "negative": 0,
     "genres": [
       "액션"
@@ -329,7 +329,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 836333,
+    "positive": 836365,
     "negative": 0,
     "genres": [
       "액션"
@@ -362,7 +362,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 207011,
+    "positive": 207051,
     "negative": 0,
     "genres": [
       "인디",
@@ -451,7 +451,7 @@
     "price_kr_formatted": "₩ 8,600",
     "price_kr_initial_formatted": "₩ 21,500",
     "discount": 60,
-    "positive": 681774,
+    "positive": 681851,
     "negative": 0,
     "genres": [
       "액션"
@@ -484,7 +484,7 @@
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 96849,
+    "positive": 96897,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -518,7 +518,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1251122,
+    "positive": 1251144,
     "negative": 0,
     "genres": [
       "액션",
@@ -552,7 +552,7 @@
     "price_kr_formatted": "₩ 11,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1235146,
+    "positive": 1235216,
     "negative": 0,
     "genres": [
       "액션",
@@ -624,7 +624,7 @@
     "price_kr_formatted": "₩ 80,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 292249,
+    "positive": 292298,
     "negative": 0,
     "genres": [
       "액션"
