@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5247632,
+    "positive": 5248229,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1763092,
+    "positive": 1763096,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 941560,
+    "positive": 941594,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 8,400",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 38838,
+    "positive": 39643,
     "negative": 0,
     "genres": [
       "액션",
@@ -226,7 +226,7 @@
     "price_kr_formatted": "₩ 22,400",
     "price_kr_initial_formatted": "₩ 32,000",
     "discount": 30,
-    "positive": 407141,
+    "positive": 407262,
     "negative": 0,
     "genres": [
       "액션",
@@ -262,7 +262,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1893228,
+    "positive": 1893294,
     "negative": 0,
     "genres": [
       "액션",
@@ -296,7 +296,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 207549,
+    "positive": 207586,
     "negative": 0,
     "genres": [
       "인디",
@@ -331,7 +331,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 410578,
+    "positive": 410673,
     "negative": 0,
     "genres": [
       "액션"
@@ -364,7 +364,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5320,
+    "positive": 5411,
     "negative": 0,
     "genres": [
       "액션"
@@ -397,7 +397,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 836949,
+    "positive": 837010,
     "negative": 0,
     "genres": [
       "액션"
@@ -484,7 +484,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1251546,
+    "positive": 1251581,
     "negative": 0,
     "genres": [
       "액션",
@@ -518,7 +518,7 @@
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 97459,
+    "positive": 97527,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -552,7 +552,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 682801,
+    "positive": 682860,
     "negative": 0,
     "genres": [
       "액션"
@@ -585,7 +585,7 @@
     "price_kr_formatted": "₩ 24,200",
     "price_kr_initial_formatted": "₩ 55,000",
     "discount": 56,
-    "positive": 205669,
+    "positive": 205791,
     "negative": 0,
     "genres": [
       "액션",
@@ -615,12 +615,12 @@
     "desc_kr": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
     "release_date": "2011년 5월 16일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
-    "price_kr": 1100000,
+    "price_kr": 550000,
     "price_kr_initial": 1100000,
-    "price_kr_formatted": "₩ 11,000",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 1236250,
+    "price_kr_formatted": "₩ 5,500",
+    "price_kr_initial_formatted": "₩ 11,000",
+    "discount": 50,
+    "positive": 1236338,
     "negative": 0,
     "genres": [
       "액션",
