@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5257070,
+    "positive": 5257353,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1763263,
+    "positive": 1763281,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 942918,
+    "positive": 942966,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -190,7 +190,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1060,
+    "positive": 1074,
     "negative": 0,
     "genres": [],
     "metacritic": 0,
@@ -214,7 +214,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1894147,
+    "positive": 1894177,
     "negative": 0,
     "genres": [
       "액션",
@@ -242,13 +242,13 @@
     "is_free": false,
     "desc_kr": "1~4인용 물리 기반 낚시 시뮬레이터입니다. 당신은 술을 마시고 보트를 타고 놀다가 갑자기 작은 섬을 들이받았습니다. 집으로 돌아가려면 낚시하는 법을 배워야 하죠.",
     "release_date": "2026년 8월 20일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788160834",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
     "price_kr": 840000,
     "price_kr_initial": 840000,
     "price_kr_formatted": "₩ 8,400",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 49436,
+    "positive": 49637,
     "negative": 0,
     "genres": [
       "액션",
@@ -258,12 +258,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/48f6817fe466a7c9666605527558bf1fac48d0d2/ss_48f6817fe466a7c9666605527558bf1fac48d0d2.600x338.jpg?t=1788160834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48/ss_5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48.600x338.jpg?t=1788160834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/2a912cdbf746286400cece1ca607ac077c11a1dc/ss_2a912cdbf746286400cece1ca607ac077c11a1dc.600x338.jpg?t=1788160834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2/ss_e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2.600x338.jpg?t=1788160834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/65be87272efaa4bac87e16dc764a9535165effd2/ss_65be87272efaa4bac87e16dc764a9535165effd2.600x338.jpg?t=1788160834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/3c10ad99000bdcf9cd99509de59d2a1351496690/ss_3c10ad99000bdcf9cd99509de59d2a1351496690.600x338.jpg?t=1788160834"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/48f6817fe466a7c9666605527558bf1fac48d0d2/ss_48f6817fe466a7c9666605527558bf1fac48d0d2.600x338.jpg?t=1788788717",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48/ss_5f867d8c9b03c63867cc95b7bfaa4a3d2193ea48.600x338.jpg?t=1788788717",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/2a912cdbf746286400cece1ca607ac077c11a1dc/ss_2a912cdbf746286400cece1ca607ac077c11a1dc.600x338.jpg?t=1788788717",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2/ss_e15ab15c09cd3f6ec06d4ffacdf07f6c2b679db2.600x338.jpg?t=1788788717",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/65be87272efaa4bac87e16dc764a9535165effd2/ss_65be87272efaa4bac87e16dc764a9535165effd2.600x338.jpg?t=1788788717",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/3c10ad99000bdcf9cd99509de59d2a1351496690/ss_3c10ad99000bdcf9cd99509de59d2a1351496690.600x338.jpg?t=1788788717"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10+<br></li><li><strong>프로세서:</strong> Intel Core i5-5257U, AMD Ryzen 3 1200 or equivalent<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> GeForce GTX 1050, AMD RX 460 or equivalent<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 1 GB 사용 가능 공간</li></ul>",
@@ -284,7 +284,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 208472,
+    "positive": 208509,
     "negative": 0,
     "genres": [
       "인디",
@@ -319,7 +319,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1252574,
+    "positive": 1252598,
     "negative": 0,
     "genres": [
       "액션",
@@ -353,7 +353,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 412513,
+    "positive": 412587,
     "negative": 0,
     "genres": [
       "액션"
@@ -406,7 +406,7 @@
     "price_kr_formatted": "₩ 22,400",
     "price_kr_initial_formatted": "₩ 32,000",
     "discount": 30,
-    "positive": 409271,
+    "positive": 409435,
     "negative": 0,
     "genres": [
       "액션",
@@ -442,7 +442,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 837806,
+    "positive": 837836,
     "negative": 0,
     "genres": [
       "액션"
@@ -509,7 +509,7 @@
     "price_kr_formatted": "₩ 5,500",
     "price_kr_initial_formatted": "₩ 11,000",
     "discount": 50,
-    "positive": 1238163,
+    "positive": 1238228,
     "negative": 0,
     "genres": [
       "액션",
@@ -545,7 +545,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1990,
+    "positive": 1991,
     "negative": 0,
     "genres": [
       "액션",
@@ -581,7 +581,7 @@
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 98507,
+    "positive": 98534,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -615,7 +615,7 @@
     "price_kr_formatted": "₩ 24,200",
     "price_kr_initial_formatted": "₩ 55,000",
     "discount": 56,
-    "positive": 207849,
+    "positive": 207942,
     "negative": 0,
     "genres": [
       "액션",
