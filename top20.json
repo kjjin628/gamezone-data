@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5257353,
+    "positive": 5258075,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1763281,
+    "positive": 1763282,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 942966,
+    "positive": 943050,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -190,7 +190,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1074,
+    "positive": 1097,
     "negative": 0,
     "genres": [],
     "metacritic": 0,
@@ -214,7 +214,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1894177,
+    "positive": 1894221,
     "negative": 0,
     "genres": [
       "액션",
@@ -248,7 +248,7 @@
     "price_kr_formatted": "₩ 8,400",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 49637,
+    "positive": 50227,
     "negative": 0,
     "genres": [
       "액션",
@@ -284,7 +284,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 208509,
+    "positive": 208555,
     "negative": 0,
     "genres": [
       "인디",
@@ -319,7 +319,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1252598,
+    "positive": 1252667,
     "negative": 0,
     "genres": [
       "액션",
@@ -353,7 +353,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 412587,
+    "positive": 412732,
     "negative": 0,
     "genres": [
       "액션"
@@ -406,7 +406,7 @@
     "price_kr_formatted": "₩ 22,400",
     "price_kr_initial_formatted": "₩ 32,000",
     "discount": 30,
-    "positive": 409435,
+    "positive": 409756,
     "negative": 0,
     "genres": [
       "액션",
@@ -442,7 +442,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 837836,
+    "positive": 837901,
     "negative": 0,
     "genres": [
       "액션"
@@ -504,12 +504,12 @@
     "desc_kr": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
     "release_date": "2011년 5월 16일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
-    "price_kr": 550000,
+    "price_kr": 1100000,
     "price_kr_initial": 1100000,
-    "price_kr_formatted": "₩ 5,500",
-    "price_kr_initial_formatted": "₩ 11,000",
-    "discount": 50,
-    "positive": 1238228,
+    "price_kr_formatted": "₩ 11,000",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 1238368,
     "negative": 0,
     "genres": [
       "액션",
@@ -581,7 +581,7 @@
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 98534,
+    "positive": 98590,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -610,12 +610,12 @@
     "desc_kr": "엔터테인먼트 블록버스터인 Grand Theft Auto V와 Grand Theft Auto 온라인을 경험해 보십시오. 이제 환상적인 비주얼과 더욱 빠른 로딩, 3D 오디오 등과 함께 차세대 수준으로 업그레이드되었으며, GTA 온라인 플레이어를 위한 특별 콘텐츠 또한 마련되어 있습니다.",
     "release_date": "2025년 3월 4일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_koreana.jpg?t=1781187782",
-    "price_kr": 2420000,
-    "price_kr_initial": 5500000,
-    "price_kr_formatted": "₩ 24,200",
-    "price_kr_initial_formatted": "₩ 55,000",
-    "discount": 56,
-    "positive": 207942,
+    "price_kr": 1839000,
+    "price_kr_initial": 3679000,
+    "price_kr_formatted": "₩ 18,390",
+    "price_kr_initial_formatted": "₩ 36,790",
+    "discount": 50,
+    "positive": 208059,
     "negative": 0,
     "genres": [
       "액션",
