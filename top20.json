@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5258550,
+    "positive": 5259386,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1763278,
+    "positive": 1763288,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 943169,
+    "positive": 943245,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -190,7 +190,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1894269,
+    "positive": 1894318,
     "negative": 0,
     "genres": [
       "액션",
@@ -224,7 +224,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1252716,
+    "positive": 1252767,
     "negative": 0,
     "genres": [
       "액션",
@@ -258,7 +258,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 208632,
+    "positive": 208702,
     "negative": 0,
     "genres": [
       "인디",
@@ -313,7 +313,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 412821,
+    "positive": 412943,
     "negative": 0,
     "genres": [
       "액션"
@@ -346,7 +346,7 @@
     "price_kr_formatted": "₩ 8,400",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 50670,
+    "positive": 51168,
     "negative": 0,
     "genres": [
       "액션",
@@ -416,7 +416,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 837971,
+    "positive": 838009,
     "negative": 0,
     "genres": [
       "액션"
@@ -444,12 +444,12 @@
     "desc_kr": "드넓은 세계에 서식하는 신비한 생물 &quot;팰&quot;을 수집하여 전투, 건축, 농업에 투입하거나 공장에서 일을 시키는 등, 전에 없던 새로운 체험을 선사하는 멀티 지원 오픈월드 서바이벌 크래프트 게임입니다.",
     "release_date": "2026년 7월 9일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1784714419",
-    "price_kr": 2240000,
+    "price_kr": 3200000,
     "price_kr_initial": 3200000,
-    "price_kr_formatted": "₩ 22,400",
-    "price_kr_initial_formatted": "₩ 32,000",
-    "discount": 30,
-    "positive": 409940,
+    "price_kr_formatted": "₩ 32,000",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 410079,
     "negative": 0,
     "genres": [
       "액션",
@@ -521,7 +521,7 @@
     "price_kr_formatted": "₩ 11,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1238472,
+    "positive": 1238597,
     "negative": 0,
     "genres": [
       "액션",
@@ -557,7 +557,7 @@
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 98652,
+    "positive": 98701,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -591,7 +591,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 684220,
+    "positive": 684345,
     "negative": 0,
     "genres": [
       "액션"
@@ -624,7 +624,7 @@
     "price_kr_formatted": "₩ 18,390",
     "price_kr_initial_formatted": "₩ 36,790",
     "discount": 50,
-    "positive": 208172,
+    "positive": 208314,
     "negative": 0,
     "genres": [
       "액션",
