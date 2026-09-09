@@ -1275,6 +1275,10 @@
                 "url": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-15n1j.jpg"
               },
               {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video.qs://d1b2ed77-c37b-4118-bf9d-deda8a5de4da?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F974c8a587d714d8d9e0c3b0fefe61a35%2Fastral-ascent-video-1xga9.png"
+              },
+              {
                 "type": "featuredMedia",
                 "url": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-wdgyc.png"
               },
@@ -1426,8 +1430,8 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 25600,
-                "originalPrice": 25600,
+                "discountPrice": 26000,
+                "originalPrice": 26000,
                 "voucherDiscount": 0,
                 "discount": 0,
                 "currencyCode": "KRW",
@@ -1435,9 +1439,9 @@
                   "decimals": 0
                 },
                 "fmtPrice": {
-                  "originalPrice": "₩25,600",
-                  "discountPrice": "₩25,600",
-                  "intermediatePrice": "₩25,600"
+                  "originalPrice": "₩26,000",
+                  "discountPrice": "₩26,000",
+                  "intermediatePrice": "₩26,000"
                 },
                 "dualPrice": null
               },

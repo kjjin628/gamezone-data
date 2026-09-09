@@ -6,13 +6,13 @@
     "is_free": true,
     "desc_kr": "Counter-Strike는 20년이 넘는 시간 동안 전 세계 수백만 명의 플레이어가 모여 수준 높은 경쟁을 펼칠 수 있는 플랫폼을 제공해 왔습니다. 그리고 이제 곧 Counter-Strike 2와 함께 새로운 CS 시대의 막이 열립니다.",
     "release_date": "2012년 8월 21일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1784564069",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1788970121",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5259864,
+    "positive": 5260701,
     "negative": 0,
     "genres": [
       "액션",
@@ -20,12 +20,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_796601d9d67faf53486eeb26d0724347cea67ddc.600x338.jpg?t=1784564069",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_d830cfd0550fbb64d80e803e93c929c3abb02056.600x338.jpg?t=1784564069",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg?t=1784564069",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg?t=1784564069",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg?t=1784564069",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.600x338.jpg?t=1784564069"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_796601d9d67faf53486eeb26d0724347cea67ddc.600x338.jpg?t=1788970121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_d830cfd0550fbb64d80e803e93c929c3abb02056.600x338.jpg?t=1788970121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg?t=1788970121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg?t=1788970121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg?t=1788970121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.600x338.jpg?t=1788970121"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows® 10<br></li><li><strong>프로세서:</strong> 쿼드 코어/스레드 4개 - Intel® Core™ i5 750 이상<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> 비디오 카드는 1GB 이상이어야 하며 셰이더 모델 5.0을 지원하는 DirectX 11과 호환되어야 합니다.<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>저장 공간:</strong> 85 GB 사용 가능 공간</li></ul>",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1763303,
+    "positive": 1763318,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 943329,
+    "positive": 943418,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -190,7 +190,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1894372,
+    "positive": 1894439,
     "negative": 0,
     "genres": [
       "액션",
@@ -244,7 +244,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 208772,
+    "positive": 208834,
     "negative": 0,
     "genres": [
       "인디",
@@ -279,7 +279,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1252817,
+    "positive": 1252871,
     "negative": 0,
     "genres": [
       "액션",
@@ -313,7 +313,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 413056,
+    "positive": 413205,
     "negative": 0,
     "genres": [
       "액션"
@@ -380,7 +380,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 838071,
+    "positive": 838125,
     "negative": 0,
     "genres": [
       "액션"
@@ -413,7 +413,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 410210,
+    "positive": 410320,
     "negative": 0,
     "genres": [
       "액션",
@@ -449,7 +449,7 @@
     "price_kr_formatted": "₩ 8,400",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 51571,
+    "positive": 52026,
     "negative": 0,
     "genres": [
       "액션",
@@ -521,7 +521,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 684458,
+    "positive": 684526,
     "negative": 0,
     "genres": [
       "액션"
@@ -554,7 +554,7 @@
     "price_kr_formatted": "₩ 11,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1238727,
+    "positive": 1238831,
     "negative": 0,
     "genres": [
       "액션",
@@ -584,13 +584,13 @@
     "is_free": false,
     "desc_kr": "EA SPORTS FC™ 26에서 이전과는 다른 방식으로 The World's Game을 경험하세요. 48개 팀 국제 토너먼트 모드에서 영광을 향해 도전하고, 테마별 감독 라이브 챌린지에 도전하고, 새로운 국가대표 아이콘 및 영웅과 함께 선수 커리어를 시작하세요.",
     "release_date": "2025년 9월 25일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg?t=1787676422",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg?t=1788973171",
     "price_kr": 2200000,
     "price_kr_initial": 2200000,
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 98738,
+    "positive": 98801,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -598,12 +598,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea/ss_1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea.600x338.jpg?t=1787676422",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b61caa1b54537a4e5ba6ca186ed661a0d03debee/ss_b61caa1b54537a4e5ba6ca186ed661a0d03debee.600x338.jpg?t=1787676422",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/5038fb5ee65b4469793f2f477a91d3c4f9af144b/ss_5038fb5ee65b4469793f2f477a91d3c4f9af144b.600x338.jpg?t=1787676422",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/725a1067d83dba8514b5ecae4f39d59b4bd73bb2/ss_725a1067d83dba8514b5ecae4f39d59b4bd73bb2.600x338.jpg?t=1787676422",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc/ss_d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc.600x338.jpg?t=1787676422",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b2bcda2e36966161937db451509f9922901b6145/ss_b2bcda2e36966161937db451509f9922901b6145.600x338.jpg?t=1787676422"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea/ss_1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea.600x338.jpg?t=1788973171",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b61caa1b54537a4e5ba6ca186ed661a0d03debee/ss_b61caa1b54537a4e5ba6ca186ed661a0d03debee.600x338.jpg?t=1788973171",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/5038fb5ee65b4469793f2f477a91d3c4f9af144b/ss_5038fb5ee65b4469793f2f477a91d3c4f9af144b.600x338.jpg?t=1788973171",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/725a1067d83dba8514b5ecae4f39d59b4bd73bb2/ss_725a1067d83dba8514b5ecae4f39d59b4bd73bb2.600x338.jpg?t=1788973171",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc/ss_d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc.600x338.jpg?t=1788973171",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b2bcda2e36966161937db451509f9922901b6145/ss_b2bcda2e36966161937db451509f9922901b6145.600x338.jpg?t=1788973171"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10/11 - 64-Bit (Latest Update).<br></li><li><strong>프로세서:</strong> AMD Ryzen 5 1600 or Intel Core i5 6600k<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> AMD RX 570 or Nvidia GTX 1050 Ti<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 100 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX: 12 Compatible video card or equivalent (feature level 12_0)</li></ul>",
@@ -624,7 +624,7 @@
     "price_kr_formatted": "₩ 18,390",
     "price_kr_initial_formatted": "₩ 36,790",
     "discount": 50,
-    "positive": 208450,
+    "positive": 208596,
     "negative": 0,
     "genres": [
       "액션",
