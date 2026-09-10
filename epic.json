@@ -439,30 +439,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 40900,
+                "discountPrice": 8180,
                 "originalPrice": 40900,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 32720,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩40,900",
-                  "discountPrice": "₩40,900",
-                  "intermediatePrice": "₩40,900"
+                  "discountPrice": "₩8,180",
+                  "intermediatePrice": "₩8,180"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "558dd060234f46c2983cbdcb6996c7e2",
+                      "endDate": "2026-09-24T17:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -475,7 +482,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -862,232 +870,24 @@
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-10-19T15:00:00.000Z",
-                      "endDate": "2026-11-02T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 35
-                      }
-                    },
-                    {
                       "startDate": "2026-12-10T16:00:00.000Z",
                       "endDate": "2027-01-07T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35
                       }
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          {
-            "title": "Alone With You",
-            "id": "b8cc76ce7d6645f0a282b843a072cc78",
-            "namespace": "cb87ac984c3c4c19b0a4e3e89048f187",
-            "description": "ALONE WITH YOU is a sci-fi point-and-click adventure game that tells a rich story about relationships. You're the last survivor of a doomed space colony, trying to escape a planet before it implodes around you.",
-            "effectiveDate": "2026-09-03T15:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2026-08-27T15:00:00.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-ven8l.png"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-ven8l.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-11zwt.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-13fzv.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-b7w4r.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-itk1n.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-iahcr.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-1nfe7.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-58pv7.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-1ac9g.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-1kw8j.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-qiyky.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-k43v3.png"
-              },
-              {
-                "type": "OgImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-r94qs.jpg"
-              }
-            ],
-            "seller": {
-              "id": "o-83e82fecwnr2s4jzm3gw3dd428lhnn",
-              "name": "BancyCo"
-            },
-            "productSlug": null,
-            "urlSlug": "68a0e4e0a68d42ffba405593a89c55ba",
-            "url": null,
-            "items": [
-              {
-                "id": "e365d46233454542a98ebbaee6be5310",
-                "namespace": "cb87ac984c3c4c19b0a4e3e89048f187"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isPromotionalContentUsed",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "true"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1121"
-              },
-              {
-                "id": "1381"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "1117"
-              },
-              {
-                "id": "9549"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "alone-with-you-028a15",
-                  "pageType": "productHome"
-                }
-              ]
-            },
-            "offerMappings": [
-              {
-                "pageSlug": "alone-with-you-028a15",
-                "pageType": "productHome"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 10200,
-                "voucherDiscount": 0,
-                "discount": 10200,
-                "currencyCode": "KRW",
-                "currencyInfo": {
-                  "decimals": 0
-                },
-                "fmtPrice": {
-                  "originalPrice": "₩10,200",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                },
-                "dualPrice": null
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
+                    },
                     {
-                      "id": "1c812588fbe746218dfc43da343392f9",
-                      "endDate": "2026-09-10T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-09-03T15:00:00.000Z",
-                      "endDate": "2026-09-10T15:00:00.000Z",
+                      "startDate": "2026-10-19T15:00:00.000Z",
+                      "endDate": "2026-11-02T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
+                        "discountPercentage": 35
                       }
                     }
                   ]
                 }
-              ],
-              "upcomingPromotionalOffers": []
+              ]
             }
           },
           {
@@ -1211,30 +1011,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 10200,
+                "discountPrice": 0,
                 "originalPrice": 10200,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 10200,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩10,200",
-                  "discountPrice": "₩10,200",
-                  "intermediatePrice": "₩10,200"
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "52ace834bc724ce6a193df1302d2f219",
+                      "endDate": "2026-09-17T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -1247,7 +1054,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -1396,6 +1204,9 @@
                 "id": "33639"
               },
               {
+                "id": "19847"
+              },
+              {
                 "id": "1370"
               },
               {
@@ -1430,8 +1241,195 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 26000,
+                "discountPrice": 0,
                 "originalPrice": 26000,
+                "voucherDiscount": 0,
+                "discount": 26000,
+                "currencyCode": "KRW",
+                "currencyInfo": {
+                  "decimals": 0
+                },
+                "fmtPrice": {
+                  "originalPrice": "₩26,000",
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": [
+                    {
+                      "id": "570d9c212bb3457a9434b81aa8d29df9",
+                      "endDate": "2026-09-17T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-09-10T15:00:00.000Z",
+                      "endDate": "2026-09-17T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 0
+                      }
+                    }
+                  ]
+                }
+              ],
+              "upcomingPromotionalOffers": []
+            }
+          },
+          {
+            "title": "마인드캅",
+            "id": "8a20c6c8d5b5417e800c687e9d72013e",
+            "namespace": "f20a4eda0f2d486ea73cab8af1224e31",
+            "description": "마인드캅은 깊은 스토리와 실시간 3 매치 퍼즐을 결합한 퍼즐 어드벤처 속에서 \"후더닛(누가 했는가)\"을 밝혀내는 비선형적 사건 수사 게임입니다. 악명 높은 마인드캅이 되어 용의자들의 마음속에 침투하고 거짓을 간파하며, 그들이 숨기고 싶어 하는 비밀들을 밝혀내세요.",
+            "effectiveDate": "2026-09-17T15:00:00.000Z",
+            "offerType": "BASE_GAME",
+            "expiryDate": null,
+            "viewableDate": "2026-09-10T15:00:00.000Z",
+            "status": "ACTIVE",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+              {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg"
+              },
+              {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg"
+              },
+              {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ikqt.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ire0.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-10lsx.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-8h2i5.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-ryrj1.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-tnxza.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-169na.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-iyl4n.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-s3zmc.jpg"
+              }
+            ],
+            "seller": {
+              "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+              "name": "Plug In Digital SAS"
+            },
+            "productSlug": null,
+            "urlSlug": "1513de80f23f42e584540be749826057",
+            "url": null,
+            "items": [
+              {
+                "id": "7f196be5a78845ab98345f412833925b",
+                "namespace": "f20a4eda0f2d486ea73cab8af1224e31"
+              }
+            ],
+            "customAttributes": [
+              {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+              },
+              {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+              },
+              {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+              },
+              {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "true"
+              },
+              {
+                "key": "isBlockchainUsed",
+                "value": "false"
+              }
+            ],
+            "categories": [
+              {
+                "path": "freegames"
+              },
+              {
+                "path": "games"
+              },
+              {
+                "path": "games/edition"
+              },
+              {
+                "path": "games/edition/base"
+              }
+            ],
+            "tags": [
+              {
+                "id": "1370"
+              },
+              {
+                "id": "9547"
+              },
+              {
+                "id": "1117"
+              },
+              {
+                "id": "1263"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "mindcop-78e6c1",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "offerMappings": [
+              {
+                "pageSlug": "mindcop-78e6c1",
+                "pageType": "productHome"
+              }
+            ],
+            "price": {
+              "totalPrice": {
+                "discountPrice": 19000,
+                "originalPrice": 19000,
                 "voucherDiscount": 0,
                 "discount": 0,
                 "currencyCode": "KRW",
@@ -1439,9 +1437,9 @@
                   "decimals": 0
                 },
                 "fmtPrice": {
-                  "originalPrice": "₩26,000",
-                  "discountPrice": "₩26,000",
-                  "intermediatePrice": "₩26,000"
+                  "originalPrice": "₩19,000",
+                  "discountPrice": "₩19,000",
+                  "intermediatePrice": "₩19,000"
                 },
                 "dualPrice": null
               },
@@ -1457,8 +1455,186 @@
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-09-10T15:00:00.000Z",
-                      "endDate": "2026-09-17T15:00:00.000Z",
+                      "startDate": "2026-09-17T15:00:00.000Z",
+                      "endDate": "2026-09-24T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 0
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "title": "Shogun Showdown",
+            "id": "b9ff3f98367a45cdac289dff6683a2bc",
+            "namespace": "59ff4d481277487d8c073166ba7612d3",
+            "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
+            "effectiveDate": "2026-09-17T15:00:00.000Z",
+            "offerType": "BASE_GAME",
+            "expiryDate": null,
+            "viewableDate": "2026-09-09T16:22:45.000Z",
+            "status": "ACTIVE",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+              {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg"
+              },
+              {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-6ynli.jpg"
+              },
+              {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-6ynli.jpg"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video.qs://8905e774-2bd2-46ca-9037-670f3e407114?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F450bcfdb9c00453394d7ccc2948ba5db%2Fshogun-showdown-video-1si8z.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1n1qu.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1oh34.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-bv1ui.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1wvmr.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1dymj.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1gq3k.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-168ez.jpg"
+              }
+            ],
+            "seller": {
+              "id": "o-7jby5x5ez3xmyf5qhgur72hlye379e",
+              "name": "Goblinz Studio SAS"
+            },
+            "productSlug": null,
+            "urlSlug": "shogun-showdown",
+            "url": null,
+            "items": [
+              {
+                "id": "1cc9b18afb7b40b1847852ef828293dc",
+                "namespace": "59ff4d481277487d8c073166ba7612d3"
+              }
+            ],
+            "customAttributes": [
+              {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+              },
+              {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+              },
+              {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+              },
+              {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "true"
+              },
+              {
+                "key": "isBlockchainUsed",
+                "value": "false"
+              }
+            ],
+            "categories": [
+              {
+                "path": "freegames"
+              },
+              {
+                "path": "games"
+              },
+              {
+                "path": "games/edition"
+              },
+              {
+                "path": "games/edition/base"
+              }
+            ],
+            "tags": [
+              {
+                "id": "1370"
+              },
+              {
+                "id": "1386"
+              },
+              {
+                "id": "1083"
+              },
+              {
+                "id": "1115"
+              },
+              {
+                "id": "9547"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "shogun-showdown-61832d",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "offerMappings": [
+              {
+                "pageSlug": "shogun-showdown-61832d",
+                "pageType": "productHome"
+              }
+            ],
+            "price": {
+              "totalPrice": {
+                "discountPrice": 15300,
+                "originalPrice": 15300,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "KRW",
+                "currencyInfo": {
+                  "decimals": 0
+                },
+                "fmtPrice": {
+                  "originalPrice": "₩15,300",
+                  "discountPrice": "₩15,300",
+                  "intermediatePrice": "₩15,300"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": []
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-09-17T15:00:00.000Z",
+                      "endDate": "2026-09-24T15:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
@@ -1472,7 +1648,7 @@
         ],
         "paging": {
           "count": 40,
-          "total": 8
+          "total": 9
         }
       }
     }
