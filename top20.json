@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5262653,
+    "positive": 5262942,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1763467,
+    "positive": 1763485,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 943648,
+    "positive": 943692,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -184,13 +184,13 @@
     "is_free": false,
     "desc_kr": "바이킹 문화를 기반으로 한 자동 생성 사후 세계를 배경으로 하는 1~10인 협동 탐험 및 생존 게임입니다. 전투하고, 건설하고, 정복하며 오딘의 가호 아래 전설을 만들어가세요!",
     "release_date": "2026년 9월 9일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789098147",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789121975",
     "price_kr": 3200000,
     "price_kr_initial": 3200000,
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 461551,
+    "positive": 461668,
     "negative": 0,
     "genres": [
       "액션",
@@ -200,12 +200,12 @@
     ],
     "metacritic": 89,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/5a31353178f635b67f0c8720ebb8a1a95b637276/ss_5a31353178f635b67f0c8720ebb8a1a95b637276.600x338.jpg?t=1789098147",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/bc7c361dab1780543a3ceca50c8fba831e5bc8db/ss_bc7c361dab1780543a3ceca50c8fba831e5bc8db.600x338.jpg?t=1789098147",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_a600a7d4ca954543e22f571a9629521a13f82143.600x338.jpg?t=1789098147",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8/ss_f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8.600x338.jpg?t=1789098147",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_cd0262c5abf8a90ee5e1059acafc5a92b6be0e73.600x338.jpg?t=1789098147",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_3db385fc1223914dadb199ac8682683a8c59454e.600x338.jpg?t=1789098147"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/5a31353178f635b67f0c8720ebb8a1a95b637276/ss_5a31353178f635b67f0c8720ebb8a1a95b637276.600x338.jpg?t=1789121975",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/bc7c361dab1780543a3ceca50c8fba831e5bc8db/ss_bc7c361dab1780543a3ceca50c8fba831e5bc8db.600x338.jpg?t=1789121975",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_a600a7d4ca954543e22f571a9629521a13f82143.600x338.jpg?t=1789121975",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8/ss_f7a47b4bd150ce1a2c6ec88f7d79fd57e7c538c8.600x338.jpg?t=1789121975",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_cd0262c5abf8a90ee5e1059acafc5a92b6be0e73.600x338.jpg?t=1789121975",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/ss_3db385fc1223914dadb199ac8682683a8c59454e.600x338.jpg?t=1789121975"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 or later<br></li><li><strong>프로세서:</strong> 2.6 GHz Quad Core or similar<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> GeForce GTX 950 or Radeon HD 7970<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>저장 공간:</strong> 1 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> The following languages have been partially translated by the community: Svenska, Italiano, Romanian, български, македонски, Suomi, Dansk, íslenska, Lietuvių kalba, čeština, Magyar nyelv, Português europeu, 한국어 (불완전한), Norsk, ภาษาไทย, ქართული ენა, Abenaki, Slovenčina</li></ul>",
@@ -226,7 +226,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1894579,
+    "positive": 1894612,
     "negative": 0,
     "genres": [
       "액션",
@@ -260,7 +260,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 22635,
+    "positive": 25048,
     "negative": 0,
     "genres": [
       "액션",
@@ -311,7 +311,7 @@
     "is_free": true,
     "desc_kr": "슈퍼 히어로 PVP 팀 슈팅 게임 를 소개합니다. 플레이어는 슈퍼 히어로와 빌런 진영에서 원하는 캐릭터를 골라 올스타팀을 구성할 수 있습니다. 마블 유니버스의 다양한 맵을 활용하고 캐릭터 본연의 능력과 팀업 스킬을 전략적으로 조합하여 전투를 승리로 이끄세요!",
     "release_date": "2024년 12월 5일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/44ca658ecf9b75216cb652f709ced7ccde96d915/header.jpg?t=1786093208",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/088fc787d8513a6f9782d03968e5ac1a01840087/header.jpg?t=1789119923",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -321,16 +321,22 @@
     "negative": 0,
     "genres": [
       "액션",
+      "어드벤처",
+      "캐주얼",
+      "대규모 멀티플레이어",
+      "레이싱",
+      "RPG",
+      "전략",
       "무료 플레이"
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/92d27ba53c9d9f4619797d60fb3a41e912bdfe4f/ss_92d27ba53c9d9f4619797d60fb3a41e912bdfe4f.600x338.jpg?t=1786093208",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/cd74d016a06fa6590a07b0e86f68e5e24061e45c/ss_cd74d016a06fa6590a07b0e86f68e5e24061e45c.600x338.jpg?t=1786093208",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ef496eb74de9be2d31aa6ed7091b0dd383b84774/ss_ef496eb74de9be2d31aa6ed7091b0dd383b84774.600x338.jpg?t=1786093208",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/077320bd2d44dc04703ea9bbb50af30cd06297a0/ss_077320bd2d44dc04703ea9bbb50af30cd06297a0.600x338.jpg?t=1786093208",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/08d01a49716e1808fc6cc21b623c41ea04235793/ss_08d01a49716e1808fc6cc21b623c41ea04235793.600x338.jpg?t=1786093208",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/1c1c765a7655599e3cf15c8934217ff60a1410ed/ss_1c1c765a7655599e3cf15c8934217ff60a1410ed.600x338.jpg?t=1786093208"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/05c3266777dfa88b7b13742c72088a6431eea474/ss_05c3266777dfa88b7b13742c72088a6431eea474.600x338.jpg?t=1789119923",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/0b7cb73d511f327e3552750b76baf08daf0b5542/ss_0b7cb73d511f327e3552750b76baf08daf0b5542.600x338.jpg?t=1789119923",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/df4df5542db4d8d89bcf7588a5cc5d2f383d420b/ss_df4df5542db4d8d89bcf7588a5cc5d2f383d420b.600x338.jpg?t=1789119923",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/ef496eb74de9be2d31aa6ed7091b0dd383b84774/ss_ef496eb74de9be2d31aa6ed7091b0dd383b84774.600x338.jpg?t=1789119923",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/08d01a49716e1808fc6cc21b623c41ea04235793/ss_08d01a49716e1808fc6cc21b623c41ea04235793.600x338.jpg?t=1789119923",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/1c1c765a7655599e3cf15c8934217ff60a1410ed/ss_1c1c765a7655599e3cf15c8934217ff60a1410ed.600x338.jpg?t=1789119923"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 64-bit (1909 or newer)<br></li><li><strong>프로세서:</strong> Intel Core i5-6600K or AMD Ryzen 5 1600X<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> We recommend you install the game on SSD drive for better experience.</li></ul>",
@@ -351,7 +357,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 209005,
+    "positive": 209032,
     "negative": 0,
     "genres": [
       "인디",
@@ -386,7 +392,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 413522,
+    "positive": 413579,
     "negative": 0,
     "genres": [
       "액션"
@@ -419,7 +425,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1253002,
+    "positive": 1253018,
     "negative": 0,
     "genres": [
       "액션",
@@ -453,7 +459,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 684706,
+    "positive": 684723,
     "negative": 0,
     "genres": [
       "액션"
@@ -486,7 +492,7 @@
     "price_kr_formatted": "₩ 22,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 98961,
+    "positive": 98982,
     "negative": 0,
     "genres": [
       "시뮬레이션",
@@ -556,7 +562,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 838253,
+    "positive": 838259,
     "negative": 0,
     "genres": [
       "액션"
@@ -589,7 +595,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 410585,
+    "positive": 410629,
     "negative": 0,
     "genres": [
       "액션",
@@ -625,7 +631,7 @@
     "price_kr_formatted": "₩ 11,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1239131,
+    "positive": 1239175,
     "negative": 0,
     "genres": [
       "액션",
