@@ -330,16 +330,84 @@
             "isCodeRedemptionOnly": false,
             "keyImages": [
               {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S2_1200x1600-12ae7597b946ad94ac75680eb735be07"
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://0f7cf270-5d4b-42de-a19e-6582bb97f30a?cover=https%3A%2F%2Fmedia-cdn.epicgames.com%2F67a5feb82a4e4afc9ded58edf3427937%2F67a5feb82a4e4afc9ded58edf3427937-00001-thumb.png"
               },
               {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba"
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://7d3ed1e3-69c5-4f37-8b18-adec672354fa?cover=https%3A%2F%2Fmedia-cdn.epicgames.com%2Fd71ef33417bc4ff0b7c4b00dc6fc7c35%2Fd71ef33417bc4ff0b7c4b00dc6fc7c35-00001-thumb.png"
               },
               {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S2_1200x1600-12ae7597b946ad94ac75680eb735be07"
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://d7919a5b-43a5-4a6d-8aba-777e4f66f1f8?cover=https%3A%2F%2Fcdn2.unrealengine.com%2Fegs-ghostrunner2prepurchase-onemorelevel-g1c-00-1920x1080-27d0ae2ab71f.jpg"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://7d0e9495-d22f-46ac-b04b-a409fa945afe?cover=https%3A%2F%2Fmedia-cdn.epicgames.com%2Facac9cc55e3f472a98f19ec0c40d3aba%2Facac9cc55e3f472a98f19ec0c40d3aba-00001-thumb.png"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://c0f3dd5d-bb12-428e-a0cd-eb38541e2e7c?cover=https%3A%2F%2Fcdn2.unrealengine.com%2Fegs-ghostrunner2-onemorelevel-g1c-00-1920x1080-f0f56a309aa5.jpg"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://3cdb73b3-8cd3-4732-ad64-74c69ad3ab00?cover=https%3A%2F%2Fmedia-cdn.epicgames.com%2Fd5fab13dcb0e49229707e93803306b21%2Fd5fab13dcb0e49229707e93803306b21-00001-thumb.png"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://003b3b8a-0e8f-4f4f-9d17-b41559310e46?cover=https%3A%2F%2Fcdn2.unrealengine.com%2Fegs-ghostrunner2-onemorelevel-g1c-05-1920x1080-1ae969aee0d7.jpg"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://752ca339-9f48-48f6-b73a-f5f92f0a7107?cover=https%3A%2F%2Fmedia-cdn.epicgames.com%2F894ceb0383a04272ae8fdc52ead4ae56%2F894ceb0383a04272ae8fdc52ead4ae56-00001-thumb.png"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://213de9d7-da26-4ada-8c3e-53696e3709b2?cover=https%3A%2F%2Fmedia-cdn.epicgames.com%2F88caf01ada2742c6a821cb0ecb79726d%2F88caf01ada2742c6a821cb0ecb79726d-00001-thumb.png"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://cb4d7ca3-5c54-4d4d-8231-6dbeaba10273?cover=https%3A%2F%2Fcdn2.unrealengine.com%2Fgr2-ice-pack-thumbnail-1-1920x1080-64b14fe58c68.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-01-1920x1080-5493b66ead01.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-02-1920x1080-74cc50010c67.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-03-1920x1080-421cfd9a0d09.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-04-1920x1080-fb4dbd6081c2.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-05-1920x1080-55d93565053e.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-06-1920x1080-d0dfefe76936.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-07-1920x1080-d458f703bf23.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-08-1920x1080-63073919f374.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-17-1920x1080-4dfed8a31a75.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-ghostrunner2-onemorelevel-g1a-18-1920x1080-56a05ae8720b.jpg"
               }
             ],
             "seller": {
@@ -870,16 +938,16 @@
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-12-10T16:00:00.000Z",
-                      "endDate": "2027-01-07T16:00:00.000Z",
+                      "startDate": "2026-10-19T15:00:00.000Z",
+                      "endDate": "2026-11-02T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35
                       }
                     },
                     {
-                      "startDate": "2026-10-19T15:00:00.000Z",
-                      "endDate": "2026-11-02T16:00:00.000Z",
+                      "startDate": "2026-12-10T16:00:00.000Z",
+                      "endDate": "2027-01-07T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35
