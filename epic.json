@@ -324,50 +324,29 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 12800,
+                "discountPrice": 25600,
                 "originalPrice": 25600,
                 "voucherDiscount": 0,
-                "discount": 12800,
+                "discount": 0,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩25,600",
-                  "discountPrice": "₩12,800",
-                  "intermediatePrice": "₩12,800"
+                  "discountPrice": "₩25,600",
+                  "intermediatePrice": "₩25,600"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": [
-                    {
-                      "id": "87ee621ffd7945fb98a030faeb984f96",
-                      "endDate": "2026-09-17T23:59:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
+                  "appliedRules": []
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-09-03T00:00:00.000Z",
-                      "endDate": "2026-09-17T23:59:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 50
-                      }
-                    }
-                  ]
-                }
-              ],
+              "promotionalOffers": [],
               "upcomingPromotionalOffers": [
                 {
                   "promotionalOffers": [
@@ -1095,16 +1074,16 @@
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-10-19T15:00:00.000Z",
-                      "endDate": "2026-11-02T16:00:00.000Z",
+                      "startDate": "2026-12-10T16:00:00.000Z",
+                      "endDate": "2027-01-07T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35
                       }
                     },
                     {
-                      "startDate": "2026-12-10T16:00:00.000Z",
-                      "endDate": "2027-01-07T16:00:00.000Z",
+                      "startDate": "2026-10-19T15:00:00.000Z",
+                      "endDate": "2026-11-02T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35

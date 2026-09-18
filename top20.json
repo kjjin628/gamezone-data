@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5271980,
+    "positive": 5272138,
     "negative": 0,
     "genres": [
       "액션",
@@ -31,7 +31,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows® 10<br></li><li><strong>프로세서:</strong> 쿼드 코어/스레드 4개 - Intel® Core™ i5 750 이상<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> 비디오 카드는 1GB 이상이어야 하며 셰이더 모델 5.0을 지원하는 DirectX 11과 호환되어야 합니다.<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>저장 공간:</strong> 85 GB 사용 가능 공간</li></ul>",
       "recommended": ""
     },
-    "ccu": 1282791
+    "ccu": 1262392
   },
   {
     "appid": 570,
@@ -66,7 +66,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제 *:</strong> Windows 7 이상<br></li><li><strong>프로세서:</strong> Intel 또는 AMD 2.8GHz 듀얼 코어 프로세서<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 60 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX 호환</li></ul>",
       "recommended": ""
     },
-    "ccu": 785015
+    "ccu": 815230
   },
   {
     "appid": 578080,
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1763775,
+    "positive": 1763778,
     "negative": 0,
     "genres": [
       "액션",
@@ -102,7 +102,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10<br></li><li><strong>프로세서:</strong> Intel Core i5-4430 / AMD FX-6300<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 40 GB 사용 가능 공간</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10<br></li><li><strong>프로세서:</strong> Intel Core i5-6600K / AMD Ryzen 5 1600<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간</li></ul>"
     },
-    "ccu": 754003
+    "ccu": 753819
   },
   {
     "appid": 431960,
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 944938,
+    "positive": 944996,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -140,7 +140,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10, Windows 11<br></li><li><strong>프로세서:</strong> 1.66 GHz Intel i5 or equivalent<br></li><li><strong>메모리:</strong> 1024 MB RAM<br></li><li><strong>그래픽:</strong> HD Graphics 4000 or above<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>저장 공간:</strong> 512 MB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> Windows N 버전에는 Microsoft의 'Media Feature Pack'이 필요합니다.</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10, Windows 11<br></li><li><strong>프로세서:</strong> 2.0 GHz Intel i7 or equivalent<br></li><li><strong>메모리:</strong> 2048 MB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 660, AMD HD7870, 2 GB VRAM or above<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>저장 공간:</strong> 1024 MB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> 모바일 앱은 Android 10 또는 이후 버전이 필요합니다</li></ul>"
     },
-    "ccu": 99689
+    "ccu": 101103
   },
   {
     "appid": 1867240,
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 59297,
+    "positive": 60088,
     "negative": 0,
     "genres": [
       "액션",
@@ -177,7 +177,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10<br></li><li><strong>프로세서:</strong> Intel® Core i5 8600, AMD Ryzen 5 3500<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong>  Nvidia GTX 1660, Radeon RX 590<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> 1080p Low @ 60fps (Upscaled)</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 11<br></li><li><strong>프로세서:</strong> Intel® Core i7 12700k, AMD Ryzen 7 5700x<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> Nvidia RTX 3070, AMD Radeon RX 6700 XT<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> 1440p Medium @ 70fps+ (Native) or 4k Medium @ 60fps+ (Upscaled)</li></ul>"
     },
-    "ccu": 326850
+    "ccu": 319587
   },
   {
     "appid": 1172470,
@@ -192,7 +192,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1582,
+    "positive": 1583,
     "negative": 0,
     "genres": [
       "액션",
@@ -212,7 +212,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10<br></li><li><strong>프로세서:</strong> AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent<br></li><li><strong>메모리:</strong> 6 GB RAM<br></li><li><strong>그래픽:</strong> AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 75 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> ~3.8GB for 1 localized language</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10<br></li><li><strong>프로세서:</strong> Ryzen 5 CPU or Equivalent<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 75 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> ~3.8GB for 1 localized language</li></ul>"
     },
-    "ccu": 258846
+    "ccu": 258296
   },
   {
     "appid": 892970,
@@ -227,7 +227,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 465209,
+    "positive": 465362,
     "negative": 0,
     "genres": [
       "액션",
@@ -248,46 +248,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 or later<br></li><li><strong>프로세서:</strong> 2.6 GHz Quad Core or similar<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> GeForce GTX 950 or Radeon HD 7970<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>저장 공간:</strong> 1 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> The following languages have been partially translated by the community: Svenska, Italiano, Romanian, български, македонски, Suomi, Dansk, íslenska, Lietuvių kalba, čeština, Magyar nyelv, Português europeu, 한국어 (불완전한), Norsk, ภาษาไทย, ქართული ენა, Abenaki, Slovenčina</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 or later<br></li><li><strong>프로세서:</strong> i5 3GHz or Ryzen 5 3GHz<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> GeForce GTX 1060 or Radeon RX 580<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 1 GB 사용 가능 공간</li></ul>"
     },
-    "ccu": 223270
-  },
-  {
-    "appid": 4126040,
-    "name": "애니모",
-    "name_kr": "애니모",
-    "is_free": true,
-    "desc_kr": "&lt;애니모&gt;는 멀티플레이 오픈월드 몬스터 포획 RPG입니다. 애니모와 트와인하여 새로운 시각과 능력으로 아름다운 월드를 탐험할 수 있습니다. 만남, 전투, 그리고 미지로의 도전―― 상상을 초월하는 모험의 세계로!",
-    "release_date": "2026년 9월 15일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/43b430b83e739f056c7878bf11a6d8a3c1b8bb59/header_koreana.jpg?t=1789651507",
-    "price_kr": 0,
-    "price_kr_initial": 0,
-    "price_kr_formatted": "",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 0,
-    "negative": 0,
-    "genres": [
-      "액션",
-      "어드벤처",
-      "대규모 멀티플레이어",
-      "RPG",
-      "시뮬레이션",
-      "전략",
-      "무료 플레이"
-    ],
-    "metacritic": 0,
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/c6c6dfe1260dd953b538e83298e257c4ca3c2e9a/ss_c6c6dfe1260dd953b538e83298e257c4ca3c2e9a.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/25c0c7e6c5c5fd530c056ee032b7ba366fb81c0c/ss_25c0c7e6c5c5fd530c056ee032b7ba366fb81c0c.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/a2c7b9293be7978b904bb672d49ede44d5bb52f7/ss_a2c7b9293be7978b904bb672d49ede44d5bb52f7.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/4b7934615abc485253f56e14d4bef1aa636dcd18/ss_4b7934615abc485253f56e14d4bef1aa636dcd18.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/519a496bd09ac75d726ac45baa9c9ac44f480acf/ss_519a496bd09ac75d726ac45baa9c9ac44f480acf.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/48555a45adb748849eea04efc29349211398ce38/ss_48555a45adb748849eea04efc29349211398ce38.600x338.jpg?t=1789651507"
-    ],
-    "pc_requirements": {
-      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10 이상<br></li><li><strong>프로세서:</strong> Intel Core i7-4770 / AMD Ryzen 7 2700<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 970 / AMD Radeon RX 5600<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 40 GB 사용 가능 공간</li></ul>",
-      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10 이상<br></li><li><strong>프로세서:</strong> Intel Core i7-10700 / AMD Ryzen 5 5600 이상<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce RTX 3060 / AMD Radeon RX 6700 이상<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 40 GB 사용 가능 공간</li></ul>"
-    },
-    "ccu": 127914
+    "ccu": 214899
   },
   {
     "appid": 2767030,
@@ -327,7 +288,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 64-bit (1909 or newer)<br></li><li><strong>프로세서:</strong> Intel Core i5-6600K or AMD Ryzen 5 1600X<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 1060 / AMD RX 580 / Intel Arc A380<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> We recommend you install the game on SSD drive for better experience.</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 64-bit (1909 or newer)<br></li><li><strong>프로세서:</strong> Intel Core i5-10400 or AMD Ryzen 5 5600X<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce RTX 2060 (Super) / AMD RX 5700-XT / Intel Arc A750<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> We recommend you install the game on SSD drive for better experience.</li></ul>"
     },
-    "ccu": 102948
+    "ccu": 100187
   },
   {
     "appid": 271590,
@@ -342,7 +303,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1895337,
+    "positive": 1895360,
     "negative": 0,
     "genres": [
       "액션",
@@ -361,7 +322,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 64비트<br></li><li><strong>프로세서:</strong> 인텔 코어 2 쿼드 CPU Q6600 @ 2.40GHz (4 CPU) / AMD Phenom 9850 쿼드코어 프로세서(4 CPU) @ 2.5GHz<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)<br></li><li><strong>저장 공간:</strong> 125 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX 10 100% 호환<br></li><li><strong>추가 사항:</strong> 이후의 다운로드 가능 콘텐츠와 프로그래밍 변경 사항으로 이 게임의 시스템 요구 사양이 변경될 수 있습니다. 현재 호환 정보를 확인하려면 사용자의 하드웨어 제조업체와  참조하십시오. 모바일 칩셋, 통합, AGP 그래픽 카드 같은 일부 시스템 구성 요소는 호환되지 않을 수 있습니다. 목록에 없는 사양은 발매사에 따라 지원되지 않을 수 있습니다.  기타 요구 사항: 설치 및 온라인 플레이를 하려면 Rockstar Games Social Club(13세 이상) 네트워크에 로그인해야 합니다. 활성화, 온라인 플레이, 주기적인 권리 인증 등을 하려면 인터넷 연결이 필요합니다. 소프트웨어를 설치하려면 Rockstar Games Social Club 플랫폼, DirectX, Chromium, Microsoft Visual C++ 2008 sp1 재배포 가능 패키지 등을 포함해야 하며, 권리, 디지털 저작권 관리, 시스템, 기타 지원 목적의 특정 하드웨어 속성을 인식하는 인증 소프트웨어가 필요합니다.  인터넷을 통해 1회용 시리얼 코드를 등록해야 합니다. 등록은 시리얼 코드 하나당 하나의 ROCKSTAR GAMES SOCIAL CLUB 계정(13세 이상)에 한정됩니다. 언제나 SOCIAL CLUB 계정 하나당 한 대의 PC에서만 로그인할 수 있습니다. 사용한 시리얼 코드는 양도할 수 없습니다. SOCIAL CLUB 계정은 양도할 수 없습니다.  파트너 요구 사항: 이 소프트웨어를 구입하기 전에 이 사이트의 서비스 약관을 확인하십시오.</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 64비트<br></li><li><strong>프로세서:</strong> 인텔 코어 i5 3470 @ 3.2GHZ (4 CPU) / AMD X8 FX-8350 @ 4GHZ (8 CPU)<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GTX 660 2GB / AMD HD7870 2GB<br></li><li><strong>저장 공간:</strong> 125 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX 10 100% 호환</li></ul>"
     },
-    "ccu": 67350
+    "ccu": 67026
   },
   {
     "appid": 2676230,
@@ -381,7 +342,46 @@
     "genres": [],
     "metacritic": 0,
     "screenshots": [],
-    "ccu": 182904
+    "ccu": 183512
+  },
+  {
+    "appid": 4126040,
+    "name": "애니모",
+    "name_kr": "애니모",
+    "is_free": true,
+    "desc_kr": "&lt;애니모&gt;는 멀티플레이 오픈월드 몬스터 포획 RPG입니다. 애니모와 트와인하여 새로운 시각과 능력으로 아름다운 월드를 탐험할 수 있습니다. 만남, 전투, 그리고 미지로의 도전―― 상상을 초월하는 모험의 세계로!",
+    "release_date": "2026년 9월 15일",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/43b430b83e739f056c7878bf11a6d8a3c1b8bb59/header_koreana.jpg?t=1789651507",
+    "price_kr": 0,
+    "price_kr_initial": 0,
+    "price_kr_formatted": "",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 0,
+    "negative": 0,
+    "genres": [
+      "액션",
+      "어드벤처",
+      "대규모 멀티플레이어",
+      "RPG",
+      "시뮬레이션",
+      "전략",
+      "무료 플레이"
+    ],
+    "metacritic": 0,
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/c6c6dfe1260dd953b538e83298e257c4ca3c2e9a/ss_c6c6dfe1260dd953b538e83298e257c4ca3c2e9a.600x338.jpg?t=1789651507",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/25c0c7e6c5c5fd530c056ee032b7ba366fb81c0c/ss_25c0c7e6c5c5fd530c056ee032b7ba366fb81c0c.600x338.jpg?t=1789651507",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/a2c7b9293be7978b904bb672d49ede44d5bb52f7/ss_a2c7b9293be7978b904bb672d49ede44d5bb52f7.600x338.jpg?t=1789651507",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/4b7934615abc485253f56e14d4bef1aa636dcd18/ss_4b7934615abc485253f56e14d4bef1aa636dcd18.600x338.jpg?t=1789651507",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/519a496bd09ac75d726ac45baa9c9ac44f480acf/ss_519a496bd09ac75d726ac45baa9c9ac44f480acf.600x338.jpg?t=1789651507",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/48555a45adb748849eea04efc29349211398ce38/ss_48555a45adb748849eea04efc29349211398ce38.600x338.jpg?t=1789651507"
+    ],
+    "pc_requirements": {
+      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10 이상<br></li><li><strong>프로세서:</strong> Intel Core i7-4770 / AMD Ryzen 7 2700<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 970 / AMD Radeon RX 5600<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 40 GB 사용 가능 공간</li></ul>",
+      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10 이상<br></li><li><strong>프로세서:</strong> Intel Core i7-10700 / AMD Ryzen 5 5600 이상<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce RTX 3060 / AMD Radeon RX 6700 이상<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 40 GB 사용 가능 공간</li></ul>"
+    },
+    "ccu": 124677
   },
   {
     "appid": 2868840,
@@ -396,7 +396,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 209796,
+    "positive": 209838,
     "negative": 0,
     "genres": [
       "인디",
@@ -416,40 +416,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 (64-bit)<br></li><li><strong>프로세서:</strong> Dual-core 2.0 GHz<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> DirectX 12 or Vulkan compatible, 1 GB VRAM<br></li><li><strong>저장 공간:</strong> 4 GB 사용 가능 공간</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 (64-bit)<br></li><li><strong>프로세서:</strong> Quad-core 3.0 GHz<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> DirectX 12 or Vulkan compatible, 2 GB VRAM<br></li><li><strong>저장 공간:</strong> 4 GB 사용 가능 공간</li></ul>"
     },
-    "ccu": 90606
-  },
-  {
-    "appid": 250900,
-    "name": "The Binding of Isaac: Rebirth",
-    "name_kr": "The Binding of Isaac: Rebirth",
-    "is_free": false,
-    "desc_kr": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
-    "release_date": "2014년 11월 4일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
-    "price_kr": 1550000,
-    "price_kr_initial": 1550000,
-    "price_kr_formatted": "₩ 15,500",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 415288,
-    "negative": 0,
-    "genres": [
-      "액션"
-    ],
-    "metacritic": 0,
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_25a4a446a433218d41a7e87e35b60c297e68e7a4.600x338.jpg?t=1731977365",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_19ef624e8d97136ba6f928d389b85f7b8130c37a.600x338.jpg?t=1731977365",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_9fa4199fa93cb8b1edd8780fa6ce9e80d2bfb503.600x338.jpg?t=1731977365",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_008a76bd0ab314c8140dd1a7ec61090c122d1779.600x338.jpg?t=1731977365",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_b146a76ac5348e1cf958c3d01834e13b33c4e561.600x338.jpg?t=1731977365",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_89aa019b678e96fd13367a5fda6145ed0bc79fce.600x338.jpg?t=1731977365"
-    ],
-    "pc_requirements": {
-      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> XP<br></li><li><strong>프로세서:</strong> Core 2 Duo<br></li><li><strong>메모리:</strong> 2 GB RAM<br></li><li><strong>그래픽:</strong> Discreet video card<br></li><li><strong>저장 공간:</strong> 449 MB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> Yes</li></ul>",
-      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제 *:</strong> Windows 8 / 7 / Vista / XP<br></li><li><strong>프로세서:</strong> 2.4 GHz Quad Core 2.0 (or higher)<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up<br></li><li><strong>저장 공간:</strong> 449 MB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> Yes</li></ul>"
-    },
-    "ccu": 78213
+    "ccu": 89988
   },
   {
     "appid": 359550,
@@ -464,7 +431,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1253591,
+    "positive": 1253624,
     "negative": 0,
     "genres": [
       "액션",
@@ -483,7 +450,72 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10, Windows 11 (64-bit versions)<br></li><li><strong>프로세서:</strong> AMD Ryzen 3 3100 / Intel i3-8100<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A380 6GB<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 65 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX® 9.0c compatible sound card with latest drivers<br></li><li><strong>추가 사항:</strong> For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 11 (64-bit versions)<br></li><li><strong>프로세서:</strong> AMD Ryzen5 3600 / Intel i5-10400<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA RTX 2060 6GB / AMD RX 6600 8GB<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 65 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX® 9.0c compatible sound card 5.1 with latest drivers<br></li><li><strong>추가 사항:</strong> For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.</li></ul>"
     },
-    "ccu": 83346
+    "ccu": 81263
+  },
+  {
+    "appid": 250900,
+    "name": "The Binding of Isaac: Rebirth",
+    "name_kr": "The Binding of Isaac: Rebirth",
+    "is_free": false,
+    "desc_kr": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+    "release_date": "2014년 11월 4일",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+    "price_kr": 1550000,
+    "price_kr_initial": 1550000,
+    "price_kr_formatted": "₩ 15,500",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 415354,
+    "negative": 0,
+    "genres": [
+      "액션"
+    ],
+    "metacritic": 0,
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_25a4a446a433218d41a7e87e35b60c297e68e7a4.600x338.jpg?t=1731977365",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_19ef624e8d97136ba6f928d389b85f7b8130c37a.600x338.jpg?t=1731977365",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_9fa4199fa93cb8b1edd8780fa6ce9e80d2bfb503.600x338.jpg?t=1731977365",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_008a76bd0ab314c8140dd1a7ec61090c122d1779.600x338.jpg?t=1731977365",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_b146a76ac5348e1cf958c3d01834e13b33c4e561.600x338.jpg?t=1731977365",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_89aa019b678e96fd13367a5fda6145ed0bc79fce.600x338.jpg?t=1731977365"
+    ],
+    "pc_requirements": {
+      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> XP<br></li><li><strong>프로세서:</strong> Core 2 Duo<br></li><li><strong>메모리:</strong> 2 GB RAM<br></li><li><strong>그래픽:</strong> Discreet video card<br></li><li><strong>저장 공간:</strong> 449 MB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> Yes</li></ul>",
+      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제 *:</strong> Windows 8 / 7 / Vista / XP<br></li><li><strong>프로세서:</strong> 2.4 GHz Quad Core 2.0 (or higher)<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up<br></li><li><strong>저장 공간:</strong> 449 MB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> Yes</li></ul>"
+    },
+    "ccu": 78261
+  },
+  {
+    "appid": 1973530,
+    "name": "Limbus Company",
+    "name_kr": "Limbus Company",
+    "is_free": true,
+    "desc_kr": "림버스 컴퍼니의 관리자가 되어 12명의 수감자를 이끌고, 폐쇄된 로보토미 코퍼레이션 지부로 들어가 황금가지를 탈환하세요.",
+    "release_date": "2023년 2월 26일",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg?t=1789123764",
+    "price_kr": 0,
+    "price_kr_initial": 0,
+    "price_kr_formatted": "",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 0,
+    "negative": 0,
+    "genres": [
+      "무료 플레이"
+    ],
+    "metacritic": 0,
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/2a692ea70cc4226c1b8015c6d29baca30a3fb6b0/ss_2a692ea70cc4226c1b8015c6d29baca30a3fb6b0.600x338.jpg?t=1789123764",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/609232637733e0fe1a875a2583decfb438c03ddf/ss_609232637733e0fe1a875a2583decfb438c03ddf.600x338.jpg?t=1789123764",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/a805c5a206ab90a89eb24879997248394fbf2d02/ss_a805c5a206ab90a89eb24879997248394fbf2d02.600x338.jpg?t=1789123764",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/f109b332dfb973cd3da7520a716fd3c3660f3c0f/ss_f109b332dfb973cd3da7520a716fd3c3660f3c0f.600x338.jpg?t=1789123764",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/ss_13d20ed38e2b51bad61e079624a01d2516a0f147.600x338.jpg?t=1789123764"
+    ],
+    "pc_requirements": {
+      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10<br></li><li><strong>프로세서:</strong> Intel Core i5<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> GeForce GT 1030<br></li><li><strong>DirectX:</strong> 버전 10<br></li><li><strong>저장 공간:</strong> 10 GB 사용 가능 공간</li></ul>",
+      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10<br></li><li><strong>프로세서:</strong> Intel Core i5<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> GeForce GT 1030<br></li><li><strong>DirectX:</strong> 버전 10<br></li><li><strong>저장 공간:</strong> 10 GB 사용 가능 공간</li></ul>"
+    },
+    "ccu": 135640
   },
   {
     "appid": 236390,
@@ -519,40 +551,7 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 (64bit)<br></li><li><strong>프로세서:</strong> Dual-Core 2.2 GHz<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>VR 지원:</strong> SteamVR. Keyboard or gamepad required</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10/11 (64bit)<br></li><li><strong>프로세서:</strong> Intel Core i5 or Ryzen 5 3600 or better<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> DirectX 11 level video card or higher and drivers: Nvidia GeForce 1060 and higher, Radeon RX 570 and higher<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 95 GB 사용 가능 공간</li></ul>"
     },
-    "ccu": 84213
-  },
-  {
-    "appid": 381210,
-    "name": "Dead by Daylight",
-    "name_kr": "Dead by Daylight",
-    "is_free": false,
-    "desc_kr": "10년의 호러. 10년간 돌발적으로 급습한 공포와 아슬아슬한 순간들. 10년의 잔혹한 희생과 짜릿한 탈출. 죽음조차도 피할 수 없는 섬뜩한 악의 영역에 영원히 갇힌 네 명의 생존자는 신경과 재치를 시험하는 잔혹한 게임에서 피에 굶주린 살인마에 맞서 싸워야 합니다. 어느 편에 설지 선택하고 공포 게임 최고의 비대칭 멀티플레이어에서 긴장감과 공포의 세계로 들어가보세요.",
-    "release_date": "2016년 6월 14일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1787769494",
-    "price_kr": 2150000,
-    "price_kr_initial": 2150000,
-    "price_kr_formatted": "₩ 21,500",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 685459,
-    "negative": 0,
-    "genres": [
-      "액션"
-    ],
-    "metacritic": 0,
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1787769494",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1787769494",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1787769494",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.600x338.jpg?t=1787769494",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.600x338.jpg?t=1787769494",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/7a898338890f6e0aabf1c8c424a4f33c56c4e1e1/ss_7a898338890f6e0aabf1c8c424a4f33c56c4e1e1.600x338.jpg?t=1787769494"
-    ],
-    "pc_requirements": {
-      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 64-bit Operating System<br></li><li><strong>프로세서:</strong> Intel Core i3-4170 or AMD FX-8120<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> DX11 Compatible GeForce GTX 460 1GB or AMD HD 6850 1GB<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DX11 compatible<br></li><li><strong>추가 사항:</strong> With these requirements, it is recommended that the game is played on Low quality settings.</li></ul>",
-      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 64-bit Operating System<br></li><li><strong>프로세서:</strong> Intel Core i3-4170 or AMD FX-8300 or higher<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> DX11 Compatible GeForce 760 or AMD HD 8800 or higher with 4GB of RAM<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DX11 compatible</li></ul>"
-    },
-    "ccu": 62912
+    "ccu": 90460
   },
   {
     "appid": 553850,
@@ -567,7 +566,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 838921,
+    "positive": 838960,
     "negative": 0,
     "genres": [
       "액션"
@@ -585,7 +584,40 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10<br></li><li><strong>프로세서:</strong> Intel Core i7-4790K or AMD Ryzen 5 1500X<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 470<br></li><li><strong>저장 공간:</strong> 135 GB 사용 가능 공간</li></ul>",
       "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10<br></li><li><strong>프로세서:</strong> Intel Core i7-9700K or AMD Ryzen 7 3700X<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce RTX 2060 or AMD Radeon RX 6600XT<br></li><li><strong>저장 공간:</strong> 40 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> SSD Recommended</li></ul>"
     },
-    "ccu": 46449
+    "ccu": 45048
+  },
+  {
+    "appid": 381210,
+    "name": "Dead by Daylight",
+    "name_kr": "Dead by Daylight",
+    "is_free": false,
+    "desc_kr": "10년의 호러. 10년간 돌발적으로 급습한 공포와 아슬아슬한 순간들. 10년의 잔혹한 희생과 짜릿한 탈출. 죽음조차도 피할 수 없는 섬뜩한 악의 영역에 영원히 갇힌 네 명의 생존자는 신경과 재치를 시험하는 잔혹한 게임에서 피에 굶주린 살인마에 맞서 싸워야 합니다. 어느 편에 설지 선택하고 공포 게임 최고의 비대칭 멀티플레이어에서 긴장감과 공포의 세계로 들어가보세요.",
+    "release_date": "2016년 6월 14일",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1787769494",
+    "price_kr": 2150000,
+    "price_kr_initial": 2150000,
+    "price_kr_formatted": "₩ 21,500",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 685480,
+    "negative": 0,
+    "genres": [
+      "액션"
+    ],
+    "metacritic": 0,
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/5355ac410e985cac27f04b877280a984be4d28a6/ss_5355ac410e985cac27f04b877280a984be4d28a6.600x338.jpg?t=1787769494",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/76776660827b2b6b73afc4a506c1267462cc70ff/ss_76776660827b2b6b73afc4a506c1267462cc70ff.600x338.jpg?t=1787769494",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/141a099b39afb31b864e8eda9570c344ad0c70f5/ss_141a099b39afb31b864e8eda9570c344ad0c70f5.600x338.jpg?t=1787769494",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/30fa7d276001c8b33a60dc1cd8683c6aae5c20b6/ss_30fa7d276001c8b33a60dc1cd8683c6aae5c20b6.600x338.jpg?t=1787769494",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/49c6658339950517b19f36fb49e6922cfaec8ef0/ss_49c6658339950517b19f36fb49e6922cfaec8ef0.600x338.jpg?t=1787769494",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/7a898338890f6e0aabf1c8c424a4f33c56c4e1e1/ss_7a898338890f6e0aabf1c8c424a4f33c56c4e1e1.600x338.jpg?t=1787769494"
+    ],
+    "pc_requirements": {
+      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 64-bit Operating System<br></li><li><strong>프로세서:</strong> Intel Core i3-4170 or AMD FX-8120<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> DX11 Compatible GeForce GTX 460 1GB or AMD HD 6850 1GB<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DX11 compatible<br></li><li><strong>추가 사항:</strong> With these requirements, it is recommended that the game is played on Low quality settings.</li></ul>",
+      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 64-bit Operating System<br></li><li><strong>프로세서:</strong> Intel Core i3-4170 or AMD FX-8300 or higher<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> DX11 Compatible GeForce 760 or AMD HD 8800 or higher with 4GB of RAM<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DX11 compatible</li></ul>"
+    },
+    "ccu": 61030
   },
   {
     "appid": 322170,
@@ -600,7 +632,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 595850,
+    "positive": 595921,
     "negative": 0,
     "genres": [
       "액션",
@@ -619,40 +651,6 @@
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제 *:</strong> Windows XP<br></li><li><strong>프로세서:</strong> 2.0+ GHz<br></li><li><strong>메모리:</strong> 512 MB RAM<br></li><li><strong>그래픽:</strong> OpenGL 2.0 support<br></li><li><strong>저장 공간:</strong> 100 MB 사용 가능 공간</li></ul>",
       "recommended": ""
     },
-    "ccu": 48730
-  },
-  {
-    "appid": 3405690,
-    "name": "EA SPORTS FC™ 26",
-    "name_kr": "EA SPORTS FC™ 26",
-    "is_free": false,
-    "desc_kr": "EA SPORTS FC™ 26에서 이전과는 다른 방식으로 The World's Game을 경험하세요. 48개 팀 국제 토너먼트 모드에서 영광을 향해 도전하고, 테마별 감독 라이브 챌린지에 도전하고, 새로운 국가대표 아이콘 및 영웅과 함께 선수 커리어를 시작하세요.",
-    "release_date": "2025년 9월 25일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg?t=1789664398",
-    "price_kr": 2200000,
-    "price_kr_initial": 2200000,
-    "price_kr_formatted": "₩ 22,000",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 99856,
-    "negative": 0,
-    "genres": [
-      "시뮬레이션",
-      "스포츠"
-    ],
-    "metacritic": 0,
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea/ss_1d3064a6f7b0f8e1c00fa8a70307a67e95c090ea.600x338.jpg?t=1789664398",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b61caa1b54537a4e5ba6ca186ed661a0d03debee/ss_b61caa1b54537a4e5ba6ca186ed661a0d03debee.600x338.jpg?t=1789664398",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/5038fb5ee65b4469793f2f477a91d3c4f9af144b/ss_5038fb5ee65b4469793f2f477a91d3c4f9af144b.600x338.jpg?t=1789664398",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/725a1067d83dba8514b5ecae4f39d59b4bd73bb2/ss_725a1067d83dba8514b5ecae4f39d59b4bd73bb2.600x338.jpg?t=1789664398",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc/ss_d01fbbd32769bd7cd70215dedd22e4ffb7bc42bc.600x338.jpg?t=1789664398",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/b2bcda2e36966161937db451509f9922901b6145/ss_b2bcda2e36966161937db451509f9922901b6145.600x338.jpg?t=1789664398"
-    ],
-    "pc_requirements": {
-      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10/11 - 64-Bit (Latest Update).<br></li><li><strong>프로세서:</strong> AMD Ryzen 5 1600 or Intel Core i5 6600k<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> AMD RX 570 or Nvidia GTX 1050 Ti<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 100 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX: 12 Compatible video card or equivalent (feature level 12_0)</li></ul>",
-      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10/11 - 64-Bit (Latest Update).<br></li><li><strong>프로세서:</strong> AMD Ryzen 7 2700X or Intel Core i7 6700<br></li><li><strong>메모리:</strong> 12 GB RAM<br></li><li><strong>그래픽:</strong> AMD RX 5600 XT or Nvidia GTX 1660<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 100 GB 사용 가능 공간<br></li><li><strong>사운드카드:</strong> DirectX: 12 Compatible video card or equivalent (feature level 12_0)</li></ul>"
-    },
-    "ccu": 53171
+    "ccu": 48845
   }
 ]
