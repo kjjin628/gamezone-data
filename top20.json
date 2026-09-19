@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5273529,
+    "positive": 5273834,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1763834,
+    "positive": 1763868,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 945195,
+    "positive": 945244,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 62662,
+    "positive": 63101,
     "negative": 0,
     "genres": [
       "액션",
@@ -227,7 +227,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 465802,
+    "positive": 465879,
     "negative": 0,
     "genres": [
       "액션",
@@ -263,7 +263,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1895488,
+    "positive": 1895525,
     "negative": 0,
     "genres": [
       "액션",
@@ -337,7 +337,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 209958,
+    "positive": 209972,
     "negative": 0,
     "genres": [
       "인디",
@@ -392,7 +392,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1253729,
+    "positive": 1253736,
     "negative": 0,
     "genres": [
       "액션",
@@ -426,7 +426,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 415579,
+    "positive": 415623,
     "negative": 0,
     "genres": [
       "액션"
@@ -453,7 +453,7 @@
     "is_free": true,
     "desc_kr": "&lt;애니모&gt;는 멀티플레이 오픈월드 몬스터 포획 RPG입니다. 애니모와 트와인하여 새로운 시각과 능력으로 아름다운 월드를 탐험할 수 있습니다. 만남, 전투, 그리고 미지로의 도전―― 상상을 초월하는 모험의 세계로!",
     "release_date": "2026년 9월 15일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/43b430b83e739f056c7878bf11a6d8a3c1b8bb59/header_koreana.jpg?t=1789651507",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/43b430b83e739f056c7878bf11a6d8a3c1b8bb59/header_koreana.jpg?t=1789813151",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -472,12 +472,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/c6c6dfe1260dd953b538e83298e257c4ca3c2e9a/ss_c6c6dfe1260dd953b538e83298e257c4ca3c2e9a.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/25c0c7e6c5c5fd530c056ee032b7ba366fb81c0c/ss_25c0c7e6c5c5fd530c056ee032b7ba366fb81c0c.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/a2c7b9293be7978b904bb672d49ede44d5bb52f7/ss_a2c7b9293be7978b904bb672d49ede44d5bb52f7.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/4b7934615abc485253f56e14d4bef1aa636dcd18/ss_4b7934615abc485253f56e14d4bef1aa636dcd18.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/519a496bd09ac75d726ac45baa9c9ac44f480acf/ss_519a496bd09ac75d726ac45baa9c9ac44f480acf.600x338.jpg?t=1789651507",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/48555a45adb748849eea04efc29349211398ce38/ss_48555a45adb748849eea04efc29349211398ce38.600x338.jpg?t=1789651507"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/c6c6dfe1260dd953b538e83298e257c4ca3c2e9a/ss_c6c6dfe1260dd953b538e83298e257c4ca3c2e9a.600x338.jpg?t=1789813151",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/25c0c7e6c5c5fd530c056ee032b7ba366fb81c0c/ss_25c0c7e6c5c5fd530c056ee032b7ba366fb81c0c.600x338.jpg?t=1789813151",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/a2c7b9293be7978b904bb672d49ede44d5bb52f7/ss_a2c7b9293be7978b904bb672d49ede44d5bb52f7.600x338.jpg?t=1789813151",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/4b7934615abc485253f56e14d4bef1aa636dcd18/ss_4b7934615abc485253f56e14d4bef1aa636dcd18.600x338.jpg?t=1789813151",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/519a496bd09ac75d726ac45baa9c9ac44f480acf/ss_519a496bd09ac75d726ac45baa9c9ac44f480acf.600x338.jpg?t=1789813151",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/48555a45adb748849eea04efc29349211398ce38/ss_48555a45adb748849eea04efc29349211398ce38.600x338.jpg?t=1789813151"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10 이상<br></li><li><strong>프로세서:</strong> Intel Core i7-4770 / AMD Ryzen 7 2700<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 970 / AMD Radeon RX 5600<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 40 GB 사용 가능 공간</li></ul>",
@@ -534,7 +534,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 839041,
+    "positive": 839052,
     "negative": 0,
     "genres": [
       "액션"
@@ -599,7 +599,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 596217,
+    "positive": 596266,
     "negative": 0,
     "genres": [
       "액션",
@@ -633,7 +633,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 685613,
+    "positive": 685643,
     "negative": 0,
     "genres": [
       "액션"
