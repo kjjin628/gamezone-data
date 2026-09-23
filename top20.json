@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5279173,
+    "positive": 5279974,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1765593,
+    "positive": 1766162,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 945958,
+    "positive": 945983,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 72295,
+    "positive": 72674,
     "negative": 0,
     "genres": [
       "액션",
@@ -186,7 +186,7 @@
     "is_free": true,
     "desc_kr": "Apex 레전드는 Respawn Entertainment에서 제작한 다양한 수상 경력을 자랑하는 무료 플레이 히어로 슈팅 게임입니다. 게임에 계속해서 추가되는 레전드 캐릭터들의 강력한 능력을 마스터하고 깊이 있는 전술적 분대 플레이, 새롭게 진화하는 게임플레이를 지닌 히어로 슈팅과 배틀 로얄의 혁신을 경험하세요.",
     "release_date": "2020년 11월 4일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1790096400",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/60fcaedb88ccf94df30281533d828b86c6ffb9b6/header_alt_assets_5.jpg?t=1790164440",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -201,12 +201,12 @@
     ],
     "metacritic": 88,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2/ss_3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2.600x338.jpg?t=1790096400",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d64ce54903a3ba6429c6e3189ad746a7db70ee3e/ss_d64ce54903a3ba6429c6e3189ad746a7db70ee3e.600x338.jpg?t=1790096400",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6593905f527d4b1bf01b0bb148b9c9a39616a2e4/ss_6593905f527d4b1bf01b0bb148b9c9a39616a2e4.600x338.jpg?t=1790096400",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6/ss_d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6.600x338.jpg?t=1790096400",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/4a30ba1dd184e8ebdbab3814ea3726008647ea17/ss_4a30ba1dd184e8ebdbab3814ea3726008647ea17.600x338.jpg?t=1790096400",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/f880e64654baad384f3afb9e4b0004e411770241/ss_f880e64654baad384f3afb9e4b0004e411770241.600x338.jpg?t=1790096400"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2/ss_3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2.600x338.jpg?t=1790164440",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d64ce54903a3ba6429c6e3189ad746a7db70ee3e/ss_d64ce54903a3ba6429c6e3189ad746a7db70ee3e.600x338.jpg?t=1790164440",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6593905f527d4b1bf01b0bb148b9c9a39616a2e4/ss_6593905f527d4b1bf01b0bb148b9c9a39616a2e4.600x338.jpg?t=1790164440",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6/ss_d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6.600x338.jpg?t=1790164440",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/4a30ba1dd184e8ebdbab3814ea3726008647ea17/ss_4a30ba1dd184e8ebdbab3814ea3726008647ea17.600x338.jpg?t=1790164440",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/f880e64654baad384f3afb9e4b0004e411770241/ss_f880e64654baad384f3afb9e4b0004e411770241.600x338.jpg?t=1790164440"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 64-bit Windows 10<br></li><li><strong>프로세서:</strong> AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent<br></li><li><strong>메모리:</strong> 6 GB RAM<br></li><li><strong>그래픽:</strong> AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 75 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> ~3.8GB for 1 localized language</li></ul>",
@@ -227,7 +227,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 467475,
+    "positive": 467519,
     "negative": 0,
     "genres": [
       "액션",
@@ -263,7 +263,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1895966,
+    "positive": 1895984,
     "negative": 0,
     "genres": [
       "액션",
@@ -356,7 +356,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 210424,
+    "positive": 210453,
     "negative": 0,
     "genres": [
       "인디",
@@ -391,7 +391,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 839520,
+    "positive": 839544,
     "negative": 0,
     "genres": [
       "액션"
@@ -464,7 +464,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1254252,
+    "positive": 1254271,
     "negative": 0,
     "genres": [
       "액션",
@@ -498,7 +498,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 416561,
+    "positive": 416603,
     "negative": 0,
     "genres": [
       "액션"
@@ -567,7 +567,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 686051,
+    "positive": 686069,
     "negative": 0,
     "genres": [
       "액션"
@@ -600,7 +600,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 597326,
+    "positive": 597363,
     "negative": 0,
     "genres": [
       "액션",
