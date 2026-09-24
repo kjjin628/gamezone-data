@@ -324,30 +324,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 25600,
+                "discountPrice": 0,
                 "originalPrice": 25600,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 25600,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩25,600",
-                  "discountPrice": "₩25,600",
-                  "intermediatePrice": "₩25,600"
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "43d08ca40f5f4e1c9ddc602632a2100a",
+                      "endDate": "2026-10-01T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -357,7 +364,13 @@
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
                       }
-                    },
+                    }
+                  ]
+                }
+              ],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
                     {
                       "startDate": "2026-10-19T15:00:00.000Z",
                       "endDate": "2026-11-02T16:00:00.000Z",
@@ -694,52 +707,28 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 8180,
+                "discountPrice": 40900,
                 "originalPrice": 40900,
                 "voucherDiscount": 0,
-                "discount": 32720,
+                "discount": 0,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩40,900",
-                  "discountPrice": "₩8,180",
-                  "intermediatePrice": "₩8,180"
+                  "discountPrice": "₩40,900",
+                  "intermediatePrice": "₩40,900"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": [
-                    {
-                      "id": "558dd060234f46c2983cbdcb6996c7e2",
-                      "endDate": "2026-09-24T17:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
+                  "appliedRules": []
                 }
               ]
             },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-09-10T17:00:00.000Z",
-                      "endDate": "2026-09-24T17:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 20
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
-            }
+            "promotions": null
           },
           {
             "title": "Castlevania Anniversary Collection",
@@ -1080,19 +1069,215 @@
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-10-19T15:00:00.000Z",
-                      "endDate": "2026-11-02T16:00:00.000Z",
+                      "startDate": "2026-12-10T16:00:00.000Z",
+                      "endDate": "2027-01-07T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35
                       }
                     },
                     {
-                      "startDate": "2026-12-10T16:00:00.000Z",
-                      "endDate": "2027-01-07T16:00:00.000Z",
+                      "startDate": "2026-10-19T15:00:00.000Z",
+                      "endDate": "2026-11-02T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "title": "베리드 스타즈 (BURIED STARS)",
+            "id": "af4c34934afe4db0870b8a1d82dceb94",
+            "namespace": "9bd512d68e3143909842932ac45a4182",
+            "description": "『베리드 스타즈』는 생방송 오디션 프로그램 붕괴 사고 현장을 배경으로 펼쳐지는 미스터리 어드벤처입니다. 갇힌 사람들은 서로, 그리고 SNS를 통해 소통하며 구조를 기다리지만, 뜻밖의 사건이 벌어지며 갈등과 의심에 휘말리게 됩니다.",
+            "effectiveDate": "2026-08-26T02:00:00.000Z",
+            "offerType": "BASE_GAME",
+            "expiryDate": null,
+            "viewableDate": "2026-08-25T02:02:44.000Z",
+            "status": "ACTIVE",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+              {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg"
+              },
+              {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
+              },
+              {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video.qs://f5941d29-59a8-478d-b323-1fc58cffefff?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fe2dc55c2709641a18fc37ef7ce32cfdd%2Fburied-stars-video-89tbz.png"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video.qs://f5f48e9c-41d1-4b94-a7b2-9cfb3f38f919?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fe2dc55c2709641a18fc37ef7ce32cfdd%2Fburied-stars-video-1ml61.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-xcylq.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-cj6dv.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-r44z6.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-38d59.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-9l96o.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1fux8.png"
+              },
+              {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-pknw1.jpg"
+              },
+              {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-19j45.jpg"
+              },
+              {
+                "type": "GalleryImage",
+                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-a7f5t.jpg"
+              }
+            ],
+            "seller": {
+              "id": "o-acvxzssc5z7uj7xaqtv5jzszmwhab4",
+              "name": "LINE Games Corporation"
+            },
+            "productSlug": null,
+            "urlSlug": "buried-stars",
+            "url": null,
+            "items": [
+              {
+                "id": "f13916b569584a1b901dad7fa3931f7d",
+                "namespace": "9bd512d68e3143909842932ac45a4182"
+              }
+            ],
+            "customAttributes": [
+              {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+              },
+              {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+              },
+              {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+              },
+              {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "true"
+              },
+              {
+                "key": "isBlockchainUsed",
+                "value": "false"
+              }
+            ],
+            "categories": [
+              {
+                "path": "freegames"
+              },
+              {
+                "path": "games"
+              },
+              {
+                "path": "games/edition"
+              },
+              {
+                "path": "games/edition/base"
+              }
+            ],
+            "tags": [
+              {
+                "id": "1298"
+              },
+              {
+                "id": "1395"
+              },
+              {
+                "id": "19847"
+              },
+              {
+                "id": "1370"
+              },
+              {
+                "id": "9547"
+              },
+              {
+                "id": "1117"
+              },
+              {
+                "id": "9549"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "buried-stars-d7c88c",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "offerMappings": [
+              {
+                "pageSlug": "buried-stars-d7c88c",
+                "pageType": "productHome"
+              }
+            ],
+            "price": {
+              "totalPrice": {
+                "discountPrice": 41000,
+                "originalPrice": 41000,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "KRW",
+                "currencyInfo": {
+                  "decimals": 0
+                },
+                "fmtPrice": {
+                  "originalPrice": "₩41,000",
+                  "discountPrice": "₩41,000",
+                  "intermediatePrice": "₩41,000"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": []
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-10-01T15:00:00.000Z",
+                      "endDate": "2026-10-08T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 0
                       }
                     }
                   ]
@@ -1246,420 +1431,11 @@
               ]
             },
             "promotions": null
-          },
-          {
-            "title": "마인드캅",
-            "id": "8a20c6c8d5b5417e800c687e9d72013e",
-            "namespace": "f20a4eda0f2d486ea73cab8af1224e31",
-            "description": "마인드캅은 깊은 스토리와 실시간 3 매치 퍼즐을 결합한 퍼즐 어드벤처 속에서 \"후더닛(누가 했는가)\"을 밝혀내는 비선형적 사건 수사 게임입니다. 악명 높은 마인드캅이 되어 용의자들의 마음속에 침투하고 거짓을 간파하며, 그들이 숨기고 싶어 하는 비밀들을 밝혀내세요.",
-            "effectiveDate": "2026-09-17T15:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2026-09-10T15:00:00.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ppb5.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ikqt.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-1ire0.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-10lsx.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-8h2i5.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-ryrj1.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-tnxza.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-169na.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-iyl4n.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-s3zmc.jpg"
-              }
-            ],
-            "seller": {
-              "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
-              "name": "Plug In Digital SAS"
-            },
-            "productSlug": null,
-            "urlSlug": "1513de80f23f42e584540be749826057",
-            "url": null,
-            "items": [
-              {
-                "id": "7f196be5a78845ab98345f412833925b",
-                "namespace": "f20a4eda0f2d486ea73cab8af1224e31"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isPromotionalContentUsed",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "true"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "19847"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "1117"
-              },
-              {
-                "id": "39070"
-              },
-              {
-                "id": "1263"
-              },
-              {
-                "id": "39071"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "mindcop-78e6c1",
-                  "pageType": "productHome"
-                }
-              ]
-            },
-            "offerMappings": [
-              {
-                "pageSlug": "mindcop-78e6c1",
-                "pageType": "productHome"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 19000,
-                "voucherDiscount": 0,
-                "discount": 19000,
-                "currencyCode": "KRW",
-                "currencyInfo": {
-                  "decimals": 0
-                },
-                "fmtPrice": {
-                  "originalPrice": "₩19,000",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                },
-                "dualPrice": null
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
-                    {
-                      "id": "8673a8fef508453e9142e4a091b21fe8",
-                      "endDate": "2026-09-24T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-09-17T15:00:00.000Z",
-                      "endDate": "2026-09-24T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
-            }
-          },
-          {
-            "title": "Shogun Showdown",
-            "id": "b9ff3f98367a45cdac289dff6683a2bc",
-            "namespace": "59ff4d481277487d8c073166ba7612d3",
-            "description": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
-            "effectiveDate": "2026-09-17T15:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2026-09-09T16:22:45.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-6ynli.jpg"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-6ynli.jpg"
-              },
-              {
-                "type": "heroCarouselVideo",
-                "url": "com.epicgames.video.qs://8905e774-2bd2-46ca-9037-670f3e407114?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F450bcfdb9c00453394d7ccc2948ba5db%2Fshogun-showdown-video-9o5v6.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1n1qu.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1oh34.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-bv1ui.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1wvmr.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1dymj.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-1gq3k.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-168ez.jpg"
-              }
-            ],
-            "seller": {
-              "id": "o-7jby5x5ez3xmyf5qhgur72hlye379e",
-              "name": "Goblinz Studio SAS"
-            },
-            "productSlug": null,
-            "urlSlug": "shogun-showdown",
-            "url": null,
-            "items": [
-              {
-                "id": "1cc9b18afb7b40b1847852ef828293dc",
-                "namespace": "59ff4d481277487d8c073166ba7612d3"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isPromotionalContentUsed",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "true"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "21122"
-              },
-              {
-                "id": "1188"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "21129"
-              },
-              {
-                "id": "1386"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "21138"
-              },
-              {
-                "id": "21139"
-              },
-              {
-                "id": "21140"
-              },
-              {
-                "id": "21141"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "1083"
-              },
-              {
-                "id": "1115"
-              },
-              {
-                "id": "21119"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "shogun-showdown-61832d",
-                  "pageType": "productHome"
-                }
-              ]
-            },
-            "offerMappings": [
-              {
-                "pageSlug": "shogun-showdown-61832d",
-                "pageType": "productHome"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 15300,
-                "voucherDiscount": 0,
-                "discount": 15300,
-                "currencyCode": "KRW",
-                "currencyInfo": {
-                  "decimals": 0
-                },
-                "fmtPrice": {
-                  "originalPrice": "₩15,300",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                },
-                "dualPrice": null
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
-                    {
-                      "id": "0f2c45f17a394597a78b8ef5b3673e73",
-                      "endDate": "2026-09-24T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-09-17T15:00:00.000Z",
-                      "endDate": "2026-09-24T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
-            }
           }
         ],
         "paging": {
           "count": 40,
-          "total": 9
+          "total": 8
         }
       }
     }
