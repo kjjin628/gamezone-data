@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1896213,
+    "positive": 1896248,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 210815,
+    "positive": 210837,
     "negative": 0,
     "genres": [
       "인디",
@@ -86,10 +86,6 @@
     "genres": [],
     "metacritic": 0,
     "screenshots": [],
-    "pc_requirements": {
-      "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다</li></ul>",
-      "recommended": "<strong>권장:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다</li></ul>"
-    },
     "ccu": 182877
   },
   {
@@ -144,7 +140,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 839865,
+    "positive": 839872,
     "negative": 0,
     "genres": [
       "액션"
@@ -177,7 +173,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 598080,
+    "positive": 598139,
     "negative": 0,
     "genres": [
       "액션",
