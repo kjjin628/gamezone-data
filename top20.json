@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5291284,
+    "positive": 5291652,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 14373,
+    "positive": 14374,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1767661,
+    "positive": 1767681,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 947249,
+    "positive": 947322,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -149,13 +149,13 @@
     "is_free": false,
     "desc_kr": "WARDOGS는 최대 100명의 플레이어가 참가하는 대규모 밀리터리 샌드박스 FPS이며 전술적인 교전, 제병합동 전투와 건축 및 파괴 메커니즘을 결합한 게임입니다.",
     "release_date": "2026년 9월 10일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1789503126",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/59d4daf753bd5d982e6675f7eee363bc817c574e/header.jpg?t=1790774170",
     "price_kr": 4727000,
     "price_kr_initial": 4727000,
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 85365,
+    "positive": 86058,
     "negative": 0,
     "genres": [
       "액션",
@@ -166,12 +166,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/13fbc7cb084ec25c20ad031c7e888a9459cd8e77/ss_13fbc7cb084ec25c20ad031c7e888a9459cd8e77.600x338.jpg?t=1789503126",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/188530148b5f96f9af23bebaaa6882cac49bd23c/ss_188530148b5f96f9af23bebaaa6882cac49bd23c.600x338.jpg?t=1789503126",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/672d7ce9debe7a3bcfa5feee5fccc3d8b482b13e/ss_672d7ce9debe7a3bcfa5feee5fccc3d8b482b13e.600x338.jpg?t=1789503126",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/6246278cc981346b645bb9638e3d5c3674a3d69f/ss_6246278cc981346b645bb9638e3d5c3674a3d69f.600x338.jpg?t=1789503126",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/69773ecf3030e541fb1012feed3413a8f7d3f321/ss_69773ecf3030e541fb1012feed3413a8f7d3f321.600x338.jpg?t=1789503126",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/e2b163a2a2679533f65cf408b30e3d8966bd81f5/ss_e2b163a2a2679533f65cf408b30e3d8966bd81f5.600x338.jpg?t=1789503126"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/13fbc7cb084ec25c20ad031c7e888a9459cd8e77/ss_13fbc7cb084ec25c20ad031c7e888a9459cd8e77.600x338.jpg?t=1790774170",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/188530148b5f96f9af23bebaaa6882cac49bd23c/ss_188530148b5f96f9af23bebaaa6882cac49bd23c.600x338.jpg?t=1790774170",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/672d7ce9debe7a3bcfa5feee5fccc3d8b482b13e/ss_672d7ce9debe7a3bcfa5feee5fccc3d8b482b13e.600x338.jpg?t=1790774170",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/6246278cc981346b645bb9638e3d5c3674a3d69f/ss_6246278cc981346b645bb9638e3d5c3674a3d69f.600x338.jpg?t=1790774170",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/69773ecf3030e541fb1012feed3413a8f7d3f321/ss_69773ecf3030e541fb1012feed3413a8f7d3f321.600x338.jpg?t=1790774170",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/e2b163a2a2679533f65cf408b30e3d8966bd81f5/ss_e2b163a2a2679533f65cf408b30e3d8966bd81f5.600x338.jpg?t=1790774170"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10<br></li><li><strong>프로세서:</strong> Intel® Core i5 8600, AMD Ryzen 5 3500<br></li><li><strong>메모리:</strong> 16 GB RAM<br></li><li><strong>그래픽:</strong>  Nvidia GTX 1660, Radeon RX 590<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 50 GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> 1080p Low @ 60fps (Upscaled)</li></ul>",
@@ -221,25 +221,25 @@
     "is_free": false,
     "desc_kr": "더 위쳐 3: 와일드 헌트 - 리마스터는 다양한 업그레이드와 개선 사항을 통해, 호평받은 롤플레잉 게임을 현대적으로 재탄생시켰습니다. 전문 괴물 사냥꾼 리비아의 게롤트가 되어, 양녀 시리를 찾기 위한 장대한 퀘스트를 수행하며 다크 판타지 오픈 월드를 가로지르는 여정을 떠나 보세요.",
     "release_date": "2015년 5월 18일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/5cf38861682344b72d11de878d8ed3822c6d84fd/header_alt_assets_1_koreana.jpg?t=1790693338",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/5cf38861682344b72d11de878d8ed3822c6d84fd/header_alt_assets_1_koreana.jpg?t=1790769419",
     "price_kr": 2745000,
     "price_kr_initial": 5490000,
     "price_kr_formatted": "₩ 27,450",
     "price_kr_initial_formatted": "₩ 54,900",
     "discount": 50,
-    "positive": 839075,
+    "positive": 839766,
     "negative": 0,
     "genres": [
       "RPG"
     ],
     "metacritic": 93,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.600x338.jpg?t=1790693338",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/0a38e4d0d57f15934772dbe09b322d08132d5518/ss_0a38e4d0d57f15934772dbe09b322d08132d5518.600x338.jpg?t=1790693338",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0/ss_19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0.600x338.jpg?t=1790693338",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e/ss_3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e.600x338.jpg?t=1790693338",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0/ss_78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0.600x338.jpg?t=1790693338",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/203487f667e4ac00baf482b1c93c87a2b830a6fc/ss_203487f667e4ac00baf482b1c93c87a2b830a6fc.600x338.jpg?t=1790693338"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/f7f564ecedd09b3e503b071a637aeefdedbeedd8/ss_f7f564ecedd09b3e503b071a637aeefdedbeedd8.600x338.jpg?t=1790769419",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/0a38e4d0d57f15934772dbe09b322d08132d5518/ss_0a38e4d0d57f15934772dbe09b322d08132d5518.600x338.jpg?t=1790769419",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0/ss_19c03c2b997d3a393fc629fd42f55ddb4a3d8dd0.600x338.jpg?t=1790769419",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e/ss_3a3f430982cc3bccac1633d3ea60a30bf3d1ae9e.600x338.jpg?t=1790769419",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0/ss_78ecbfb8bc64b8e9d4a372f4a8ffa5069e9325d0.600x338.jpg?t=1790769419",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/203487f667e4ac00baf482b1c93c87a2b830a6fc/ss_203487f667e4ac00baf482b1c93c87a2b830a6fc.600x338.jpg?t=1790769419"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> 64-bit Windows 11<br></li><li><strong>프로세서:</strong> Core i5-8400 / Ryzen 5 2600<br></li><li><strong>메모리:</strong> 12 GB RAM<br></li><li><strong>그래픽:</strong> GeForce GTX 1660 / Radeon RX 5500 XT 8GB / Arc A580<br></li><li><strong>저장 공간:</strong> 60 SSD GB 사용 가능 공간<br></li><li><strong>추가 사항:</strong> VRAM 6 GB</li></ul>",
@@ -260,7 +260,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 469833,
+    "positive": 469901,
     "negative": 0,
     "genres": [
       "액션",
@@ -348,7 +348,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 211313,
+    "positive": 211355,
     "negative": 0,
     "genres": [
       "인디",
@@ -383,7 +383,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1896521,
+    "positive": 1896542,
     "negative": 0,
     "genres": [
       "액션",
@@ -456,7 +456,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1255000,
+    "positive": 1255006,
     "negative": 0,
     "genres": [
       "액션",
@@ -530,7 +530,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 418138,
+    "positive": 418177,
     "negative": 0,
     "genres": [
       "액션"
@@ -557,13 +557,13 @@
     "is_free": true,
     "desc_kr": "War Thunder는 제 2차 세계대전부터 현대전까지의 항공기, 전차, 함선, 헬리콥터를 플레이 할 수 있는 온라인 게임 역사상 가장 거대한 스케일과 광범위한 크로스 플랫폼 기능을 자랑하는 밀리터리 MMO 게임입니다. 지금 게임에 참여하셔서 War Thunder가 제공하는 지상, 공중, 해상의 거대한 전장 서사시에 직접 참여해보세요.",
     "release_date": "2013년 8월 15일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/38881c549e623fe432af4e7b4bc3952b443906f5/header.jpg?t=1790148671",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/38881c549e623fe432af4e7b4bc3952b443906f5/header.jpg?t=1790769936",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1991,
+    "positive": 1992,
     "negative": 0,
     "genres": [
       "액션",
@@ -573,12 +573,12 @@
     ],
     "metacritic": 81,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/4b2f5a60bb5294b69ac3586a13dac61409a252d6/ss_4b2f5a60bb5294b69ac3586a13dac61409a252d6.600x338.jpg?t=1790148671",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ffb4961bef4ede723379a3aae279ec9d269d0f8c/ss_ffb4961bef4ede723379a3aae279ec9d269d0f8c.600x338.jpg?t=1790148671",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/1828de9c706a2e2ec2b34b118dcb2e7df5a4caa7/ss_1828de9c706a2e2ec2b34b118dcb2e7df5a4caa7.600x338.jpg?t=1790148671",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/11c66da4d5e13956d21a03d598c2950f23f23a10/ss_11c66da4d5e13956d21a03d598c2950f23f23a10.600x338.jpg?t=1790148671",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/c1b72a8ecf29d1f2a721c9091498e5df7e0465fe/ss_c1b72a8ecf29d1f2a721c9091498e5df7e0465fe.600x338.jpg?t=1790148671",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/e3f60c834809488c8bd173503df4afb0e7bbadec/ss_e3f60c834809488c8bd173503df4afb0e7bbadec.600x338.jpg?t=1790148671"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/4b2f5a60bb5294b69ac3586a13dac61409a252d6/ss_4b2f5a60bb5294b69ac3586a13dac61409a252d6.600x338.jpg?t=1790769936",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/ffb4961bef4ede723379a3aae279ec9d269d0f8c/ss_ffb4961bef4ede723379a3aae279ec9d269d0f8c.600x338.jpg?t=1790769936",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/1828de9c706a2e2ec2b34b118dcb2e7df5a4caa7/ss_1828de9c706a2e2ec2b34b118dcb2e7df5a4caa7.600x338.jpg?t=1790769936",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/11c66da4d5e13956d21a03d598c2950f23f23a10/ss_11c66da4d5e13956d21a03d598c2950f23f23a10.600x338.jpg?t=1790769936",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/c1b72a8ecf29d1f2a721c9091498e5df7e0465fe/ss_c1b72a8ecf29d1f2a721c9091498e5df7e0465fe.600x338.jpg?t=1790769936",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/e3f60c834809488c8bd173503df4afb0e7bbadec/ss_e3f60c834809488c8bd173503df4afb0e7bbadec.600x338.jpg?t=1790769936"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 (64bit)<br></li><li><strong>프로세서:</strong> Dual-Core 2.2 GHz<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>VR 지원:</strong> SteamVR. Keyboard or gamepad required</li></ul>",
@@ -599,7 +599,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 840205,
+    "positive": 840220,
     "negative": 0,
     "genres": [
       "액션"
