@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5290265,
+    "positive": 5291015,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1767631,
+    "positive": 1767644,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 947130,
+    "positive": 947193,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 84151,
+    "positive": 84875,
     "negative": 0,
     "genres": [
       "액션",
@@ -192,7 +192,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1582,
+    "positive": 1583,
     "negative": 0,
     "genres": [
       "액션",
@@ -227,7 +227,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 469602,
+    "positive": 469752,
     "negative": 0,
     "genres": [
       "액션",
@@ -283,7 +283,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1896481,
+    "positive": 1896502,
     "negative": 0,
     "genres": [
       "액션",
@@ -317,7 +317,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 211236,
+    "positive": 211274,
     "negative": 0,
     "genres": [
       "인디",
@@ -391,7 +391,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1254872,
+    "positive": 1254953,
     "negative": 0,
     "genres": [
       "액션",
@@ -465,7 +465,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1990,
+    "positive": 1991,
     "negative": 0,
     "genres": [
       "액션",
@@ -501,7 +501,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 417969,
+    "positive": 418072,
     "negative": 0,
     "genres": [
       "액션"
@@ -534,7 +534,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 840152,
+    "positive": 840183,
     "negative": 0,
     "genres": [
       "액션"
@@ -567,7 +567,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 47936,
+    "positive": 47934,
     "negative": 0,
     "genres": [
       "액션",
@@ -630,7 +630,7 @@
     "is_free": false,
     "desc_kr": "Deadlock은 개발 초기 단계에 있는 멀티플레이어 게임입니다.",
     "release_date": "발표 예정",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1769127177",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/aa249c5e8cc8f90941bd1dbdc311773cd1afe065/header.jpg?t=1790716179",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -643,11 +643,11 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/fa25560cf85debe669f5d4acd76cf81b0943019b/ss_fa25560cf85debe669f5d4acd76cf81b0943019b.600x338.jpg?t=1769127177",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/1a5a68e51d6aff5e2910410f84854c4c39af68cc/ss_1a5a68e51d6aff5e2910410f84854c4c39af68cc.600x338.jpg?t=1769127177",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/52159118573367c304c43fc9ed85588c0c518a19/ss_52159118573367c304c43fc9ed85588c0c518a19.600x338.jpg?t=1769127177",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/ac02851ede518092df55746dbc98a199c91d7411/ss_ac02851ede518092df55746dbc98a199c91d7411.600x338.jpg?t=1769127177",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/caaf254176430d69244b99e565d3d56559f1743b/ss_caaf254176430d69244b99e565d3d56559f1743b.600x338.jpg?t=1769127177"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/fa25560cf85debe669f5d4acd76cf81b0943019b/ss_fa25560cf85debe669f5d4acd76cf81b0943019b.600x338.jpg?t=1790716179",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/1a5a68e51d6aff5e2910410f84854c4c39af68cc/ss_1a5a68e51d6aff5e2910410f84854c4c39af68cc.600x338.jpg?t=1790716179",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/52159118573367c304c43fc9ed85588c0c518a19/ss_52159118573367c304c43fc9ed85588c0c518a19.600x338.jpg?t=1790716179",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/ac02851ede518092df55746dbc98a199c91d7411/ss_ac02851ede518092df55746dbc98a199c91d7411.600x338.jpg?t=1790716179",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/caaf254176430d69244b99e565d3d56559f1743b/ss_caaf254176430d69244b99e565d3d56559f1743b.600x338.jpg?t=1790716179"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> 미정<br></li><li><strong>프로세서:</strong> 미정<br></li><li><strong>그래픽:</strong> 미정<br></li><li><strong>사운드카드:</strong> 미정</li></ul>",
