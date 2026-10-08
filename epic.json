@@ -974,30 +974,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 16100,
+                "discountPrice": 0,
                 "originalPrice": 16100,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 16100,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩16,100",
-                  "discountPrice": "₩16,100",
-                  "intermediatePrice": "₩16,100"
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "804611a6347e48398b1096ecc862a534",
+                      "endDate": "2026-10-15T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -1010,7 +1017,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -1183,16 +1191,16 @@
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-10-19T15:00:00.000Z",
-                      "endDate": "2026-11-02T16:00:00.000Z",
+                      "startDate": "2026-12-10T16:00:00.000Z",
+                      "endDate": "2027-01-07T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35
                       }
                     },
                     {
-                      "startDate": "2026-12-10T16:00:00.000Z",
-                      "endDate": "2027-01-07T16:00:00.000Z",
+                      "startDate": "2026-10-19T15:00:00.000Z",
+                      "endDate": "2026-11-02T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35
@@ -1204,85 +1212,93 @@
             }
           },
           {
-            "title": "베리드 스타즈 (BURIED STARS)",
-            "id": "af4c34934afe4db0870b8a1d82dceb94",
-            "namespace": "9bd512d68e3143909842932ac45a4182",
-            "description": "『베리드 스타즈』는 생방송 오디션 프로그램 붕괴 사고 현장을 배경으로 펼쳐지는 미스터리 어드벤처입니다. 갇힌 사람들은 서로, 그리고 SNS를 통해 소통하며 구조를 기다리지만, 뜻밖의 사건이 벌어지며 갈등과 의심에 휘말리게 됩니다.",
-            "effectiveDate": "2026-08-26T02:00:00.000Z",
+            "title": "Agent A - 숨겨진 퍼즐",
+            "id": "db1202a30c5541dd99cdf54c918a9348",
+            "namespace": "45f125178d8c4bc18e1827a307bcc5c0",
+            "description": "탈출 게임 방 살인 게임,선택해 클릭 방 탈출 게임 선택해 클릭하는 어드벤처 스파이 모험 퍼즐 채권 비밀 에이전트 루비 신비 탈출",
+            "effectiveDate": "2026-04-28T17:00:00.000Z",
             "offerType": "BASE_GAME",
             "expiryDate": null,
-            "viewableDate": "2026-08-25T02:02:44.000Z",
+            "viewableDate": "2026-04-28T17:00:00.000Z",
             "status": "ACTIVE",
             "isCodeRedemptionOnly": false,
             "keyImages": [
               {
                 "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png"
               },
               {
                 "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
               },
               {
                 "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png"
               },
               {
                 "type": "heroCarouselVideo",
-                "url": "com.epicgames.video.qs://f5941d29-59a8-478d-b323-1fc58cffefff?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fe2dc55c2709641a18fc37ef7ce32cfdd%2Fburied-stars-video-89tbz.png"
-              },
-              {
-                "type": "heroCarouselVideo",
-                "url": "com.epicgames.video.qs://f5f48e9c-41d1-4b94-a7b2-9cfb3f38f919?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fe2dc55c2709641a18fc37ef7ce32cfdd%2Fburied-stars-video-1ml61.png"
+                "url": "com.epicgames.video.qs://8895d5d6-21f4-43b6-a4f2-9458f261246d?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F45db4fbe68fe43f4b025dec2014d42e7%2Fagent-a-a-puzzle-in-disguise-video-ox91q.png"
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-xcylq.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-eyufc.png"
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-cj6dv.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-16obi.png"
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-r44z6.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1q098.png"
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-38d59.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-jdvuj.png"
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-9l96o.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-qvbp3.png"
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1fux8.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-ol099.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-rxvx6.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-up28r.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-tdzld.png"
               },
               {
                 "type": "GalleryImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-pknw1.jpg"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-7cjkl.jpg"
               },
               {
                 "type": "GalleryImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-19j45.jpg"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-jxh9f.jpg"
               },
               {
                 "type": "GalleryImage",
-                "url": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-a7f5t.jpg"
+                "url": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-1bzvx.jpg"
               }
             ],
             "seller": {
-              "id": "o-acvxzssc5z7uj7xaqtv5jzszmwhab4",
-              "name": "LINE Games Corporation"
+              "id": "o-pc4ubv4cz3zqmbu63wfgl4akadwkde",
+              "name": "Yak & Co"
             },
             "productSlug": null,
-            "urlSlug": "buried-stars",
+            "urlSlug": "agent-a-a-puzzle-in-disguise",
             "url": null,
             "items": [
               {
-                "id": "f13916b569584a1b901dad7fa3931f7d",
-                "namespace": "9bd512d68e3143909842932ac45a4182"
+                "id": "e3f60d638d9a4c66840c9eaa3924b1c2",
+                "namespace": "45f125178d8c4bc18e1827a307bcc5c0"
               }
             ],
             "customAttributes": [
@@ -1312,13 +1328,13 @@
                 "path": "freegames"
               },
               {
-                "path": "games"
+                "path": "games/edition/base"
               },
               {
                 "path": "games/edition"
               },
               {
-                "path": "games/edition/base"
+                "path": "games"
               }
             ],
             "tags": [
@@ -1326,7 +1342,7 @@
                 "id": "1298"
               },
               {
-                "id": "1395"
+                "id": "21894"
               },
               {
                 "id": "19847"
@@ -1342,60 +1358,59 @@
               },
               {
                 "id": "9549"
+              },
+              {
+                "id": "1263"
+              },
+              {
+                "id": "10719"
               }
             ],
             "catalogNs": {
               "mappings": [
                 {
-                  "pageSlug": "buried-stars-d7c88c",
+                  "pageSlug": "agent-a-a-puzzle-in-disguise-42fe5f",
                   "pageType": "productHome"
                 }
               ]
             },
             "offerMappings": [
               {
-                "pageSlug": "buried-stars-d7c88c",
+                "pageSlug": "agent-a-a-puzzle-in-disguise-42fe5f",
                 "pageType": "productHome"
               }
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 41000,
+                "discountPrice": 20400,
+                "originalPrice": 20400,
                 "voucherDiscount": 0,
-                "discount": 41000,
+                "discount": 0,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
-                  "originalPrice": "₩41,000",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
+                  "originalPrice": "₩20,400",
+                  "discountPrice": "₩20,400",
+                  "intermediatePrice": "₩20,400"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": [
-                    {
-                      "id": "2144c65e8f94437f889ee8dfc7b9e0aa",
-                      "endDate": "2026-10-08T15:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
+                  "appliedRules": []
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-10-01T15:00:00.000Z",
-                      "endDate": "2026-10-08T15:00:00.000Z",
+                      "startDate": "2026-10-15T15:00:00.000Z",
+                      "endDate": "2026-10-22T15:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
@@ -1403,8 +1418,7 @@
                     }
                   ]
                 }
-              ],
-              "upcomingPromotionalOffers": []
+              ]
             }
           },
           {
@@ -1725,30 +1739,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 17400,
+                "discountPrice": 0,
                 "originalPrice": 17400,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 17400,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩17,400",
-                  "discountPrice": "₩17,400",
-                  "intermediatePrice": "₩17,400"
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "5f6ccbf6dff549b7872f950c443a838f",
+                      "endDate": "2026-10-15T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -1761,7 +1782,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           }
         ],
