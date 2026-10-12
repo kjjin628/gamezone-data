@@ -6,13 +6,13 @@
     "is_free": true,
     "desc_kr": "Counter-Strike는 20년이 넘는 시간 동안 전 세계 수백만 명의 플레이어가 모여 수준 높은 경쟁을 펼칠 수 있는 플랫폼을 제공해 왔습니다. 그리고 이제 곧 Counter-Strike 2와 함께 새로운 CS 시대의 막이 열립니다.",
     "release_date": "2012년 8월 21일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1791824795",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5308366,
+    "positive": 5308928,
     "negative": 0,
     "genres": [
       "액션",
@@ -20,12 +20,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0/ss_9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0.600x338.jpg?t=1789251637",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.600x338.jpg?t=1789251637",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg?t=1789251637",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg?t=1789251637",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg?t=1789251637",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.600x338.jpg?t=1789251637"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0/ss_9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0.600x338.jpg?t=1791824795",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.600x338.jpg?t=1791824795",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg?t=1791824795",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg?t=1791824795",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg?t=1791824795",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.600x338.jpg?t=1791824795"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows® 10<br></li><li><strong>프로세서:</strong> 쿼드 코어/스레드 4개 - Intel® Core™ i5 750 이상<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> 비디오 카드는 1GB 이상이어야 하며 셰이더 모델 5.0을 지원하는 DirectX 11과 호환되어야 합니다.<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>저장 공간:</strong> 85 GB 사용 가능 공간</li></ul>",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 14374,
+    "positive": 14372,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1768022,
+    "positive": 1768043,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 949915,
+    "positive": 949990,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -222,7 +222,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 99260,
+    "positive": 99641,
     "negative": 0,
     "genres": [
       "액션",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "₩ 30,450",
     "price_kr_initial_formatted": "₩ 60,900",
     "discount": 50,
-    "positive": 302627,
+    "positive": 302801,
     "negative": 0,
     "genres": [
       "액션"
@@ -292,7 +292,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1897773,
+    "positive": 1897823,
     "negative": 0,
     "genres": [
       "액션",
@@ -326,7 +326,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 472965,
+    "positive": 473073,
     "negative": 0,
     "genres": [
       "액션",
@@ -362,7 +362,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 212634,
+    "positive": 212678,
     "negative": 0,
     "genres": [
       "인디",
@@ -397,7 +397,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 603133,
+    "positive": 603248,
     "negative": 0,
     "genres": [
       "액션",
@@ -445,13 +445,13 @@
     "is_free": true,
     "desc_kr": "톰 클랜시의 레인보우식스 시즈는 탁월한 계획과 기술이 승부를 좌우하는 전술적인 정예 팀 기반 슈팅 게임입니다.",
     "release_date": "2015년 12월 1일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/6b69a8d5ac8d0542bba5c735a8bcc5bb33cda42e/header_alt_assets_25.jpg?t=1790952963",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/1c7b1ea3405a69c54429e2aa3dc31f3cbbeaa456/header_alt_assets_26.jpg?t=1790952963",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1256165,
+    "positive": 1256195,
     "negative": 0,
     "genres": [
       "액션",
@@ -521,7 +521,7 @@
     "price_kr_formatted": "₩ 54,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 847594,
+    "positive": 847710,
     "negative": 0,
     "genres": [
       "RPG"
@@ -554,7 +554,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 420977,
+    "positive": 421036,
     "negative": 0,
     "genres": [
       "액션"
