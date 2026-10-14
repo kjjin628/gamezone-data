@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5311690,
+    "positive": 5311968,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1768093,
+    "positive": 1768123,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 950245,
+    "positive": 950299,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -222,7 +222,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 100855,
+    "positive": 101008,
     "negative": 0,
     "genres": [
       "액션",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "₩ 30,450",
     "price_kr_initial_formatted": "₩ 60,900",
     "discount": 50,
-    "positive": 303753,
+    "positive": 303832,
     "negative": 0,
     "genres": [
       "액션"
@@ -292,7 +292,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1897961,
+    "positive": 1897999,
     "negative": 0,
     "genres": [
       "액션",
@@ -326,7 +326,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 212846,
+    "positive": 212869,
     "negative": 0,
     "genres": [
       "인디",
@@ -381,7 +381,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 473387,
+    "positive": 473425,
     "negative": 0,
     "genres": [
       "액션",
@@ -417,7 +417,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 603734,
+    "positive": 603766,
     "negative": 0,
     "genres": [
       "액션",
@@ -445,13 +445,13 @@
     "is_free": true,
     "desc_kr": "톰 클랜시의 레인보우식스 시즈는 탁월한 계획과 기술이 승부를 좌우하는 전술적인 정예 팀 기반 슈팅 게임입니다.",
     "release_date": "2015년 12월 1일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/1c7b1ea3405a69c54429e2aa3dc31f3cbbeaa456/header_alt_assets_26.jpg?t=1791914543",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/bb763894462b681780ebfe02c5e36b42fce254cd/header_koreana.jpg?t=1791914543",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1256338,
+    "positive": 1256348,
     "negative": 0,
     "genres": [
       "액션",
@@ -521,7 +521,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 421327,
+    "positive": 421369,
     "negative": 0,
     "genres": [
       "액션"
@@ -594,7 +594,7 @@
     "price_kr_formatted": "₩ 54,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 848156,
+    "positive": 848203,
     "negative": 0,
     "genres": [
       "RPG"
