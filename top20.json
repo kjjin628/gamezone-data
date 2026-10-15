@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5313228,
+    "positive": 5313994,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1768165,
+    "positive": 1768185,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 950491,
+    "positive": 950568,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -217,12 +217,12 @@
     "desc_kr": "ARC Raiders는 아크라 불리는 미지의 머신들에게 침공당한 위험천만한 미래 지구를 배경으로 하는 멀티플레이어 구출 어드벤처 게임입니다.",
     "release_date": "2025년 10월 30일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg?t=1791401542",
-    "price_kr": 3045000,
+    "price_kr": 6090000,
     "price_kr_initial": 6090000,
-    "price_kr_formatted": "₩ 30,450",
-    "price_kr_initial_formatted": "₩ 60,900",
-    "discount": 50,
-    "positive": 304302,
+    "price_kr_formatted": "₩ 60,900",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 304519,
     "negative": 0,
     "genres": [
       "액션"
@@ -255,7 +255,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 102686,
+    "positive": 104192,
     "negative": 0,
     "genres": [
       "액션",
@@ -312,7 +312,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 212963,
+    "positive": 213016,
     "negative": 0,
     "genres": [
       "인디",
@@ -347,7 +347,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1898082,
+    "positive": 1898122,
     "negative": 0,
     "genres": [
       "액션",
@@ -381,7 +381,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 604074,
+    "positive": 604365,
     "negative": 0,
     "genres": [
       "액션",
@@ -415,7 +415,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 689120,
+    "positive": 689178,
     "negative": 0,
     "genres": [
       "액션"
@@ -448,7 +448,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 473625,
+    "positive": 473746,
     "negative": 0,
     "genres": [
       "액션",
@@ -514,13 +514,13 @@
     "is_free": true,
     "desc_kr": "톰 클랜시의 레인보우식스 시즈는 탁월한 계획과 기술이 승부를 좌우하는 전술적인 정예 팀 기반 슈팅 게임입니다.",
     "release_date": "2015년 12월 1일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/bb763894462b681780ebfe02c5e36b42fce254cd/header_koreana.jpg?t=1792001976",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/555b5051d332c5f6b86f88ba5dfd80404dc91aaa/header_alt_assets_27.jpg?t=1792001976",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1256413,
+    "positive": 1256482,
     "negative": 0,
     "genres": [
       "액션",
@@ -554,7 +554,7 @@
     "price_kr_formatted": "₩ 15,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 421529,
+    "positive": 421617,
     "negative": 0,
     "genres": [
       "액션"
@@ -587,7 +587,7 @@
     "price_kr_formatted": "₩ 44,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 841796,
+    "positive": 841825,
     "negative": 0,
     "genres": [
       "액션"
