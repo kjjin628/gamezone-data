@@ -327,6 +327,9 @@
                 "id": "1298"
               },
               {
+                "id": "18051"
+              },
+              {
                 "id": "19847"
               },
               {
@@ -358,30 +361,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 20400,
+                "discountPrice": 4080,
                 "originalPrice": 20400,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 16320,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩20,400",
-                  "discountPrice": "₩20,400",
-                  "intermediatePrice": "₩20,400"
+                  "discountPrice": "₩4,080",
+                  "intermediatePrice": "₩4,080"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "d24c637d1a564142a6e9072e34bdd65c",
+                      "endDate": "2026-11-02T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -394,7 +404,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -751,6 +762,9 @@
                 "id": "21122"
               },
               {
+                "id": "18051"
+              },
+              {
                 "id": "19847"
               },
               {
@@ -806,30 +820,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 22600,
+                "discountPrice": 9040,
                 "originalPrice": 22600,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 13560,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩22,600",
-                  "discountPrice": "₩22,600",
-                  "intermediatePrice": "₩22,600"
+                  "discountPrice": "₩9,040",
+                  "intermediatePrice": "₩9,040"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "92f1801b3fa146cea6e9ae6c9dc4a772",
+                      "endDate": "2026-11-02T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -842,7 +863,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -963,6 +985,9 @@
                 "id": "1298"
               },
               {
+                "id": "18051"
+              },
+              {
                 "id": "1370"
               },
               {
@@ -988,30 +1013,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 8900,
+                "discountPrice": 3110,
                 "originalPrice": 8900,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 5790,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩8,900",
-                  "discountPrice": "₩8,900",
-                  "intermediatePrice": "₩8,900"
+                  "discountPrice": "₩3,110",
+                  "intermediatePrice": "₩3,110"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "9dcf532fb51143aeb68f2238b3e672f8",
+                      "endDate": "2026-11-02T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -1021,7 +1053,13 @@
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 35
                       }
-                    },
+                    }
+                  ]
+                }
+              ],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
                     {
                       "startDate": "2026-12-10T16:00:00.000Z",
                       "endDate": "2027-01-07T16:00:00.000Z",
