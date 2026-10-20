@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5318330,
+    "positive": 5318870,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1768319,
+    "positive": 1768332,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 951310,
+    "positive": 951359,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -222,7 +222,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 109883,
+    "positive": 110377,
     "negative": 0,
     "genres": [
       "액션",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1898523,
+    "positive": 1898547,
     "negative": 0,
     "genres": [
       "액션",
@@ -293,7 +293,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 213426,
+    "positive": 213460,
     "negative": 0,
     "genres": [
       "인디",
@@ -328,7 +328,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 305675,
+    "positive": 305795,
     "negative": 0,
     "genres": [
       "액션"
@@ -361,7 +361,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 607429,
+    "positive": 607601,
     "negative": 0,
     "genres": [
       "액션",
@@ -415,7 +415,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1256816,
+    "positive": 1256840,
     "negative": 0,
     "genres": [
       "액션",
@@ -449,7 +449,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 414293,
+    "positive": 414665,
     "negative": 0,
     "genres": [
       "액션"
@@ -518,7 +518,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 474489,
+    "positive": 474563,
     "negative": 0,
     "genres": [
       "액션",
@@ -554,7 +554,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "₩ 80,000",
     "discount": 60,
-    "positive": 300346,
+    "positive": 300426,
     "negative": 0,
     "genres": [
       "액션"
@@ -582,12 +582,12 @@
     "desc_kr": "10년의 호러. 10년간 돌발적으로 급습한 공포와 아슬아슬한 순간들. 10년의 잔혹한 희생과 짜릿한 탈출. 죽음조차도 피할 수 없는 섬뜩한 악의 영역에 영원히 갇힌 네 명의 생존자는 신경과 재치를 시험하는 잔혹한 게임에서 피에 굶주린 살인마에 맞서 싸워야 합니다. 어느 편에 설지 선택하고 공포 게임 최고의 비대칭 멀티플레이어에서 긴장감과 공포의 세계로 들어가보세요.",
     "release_date": "2016년 6월 14일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
-    "price_kr": 2150000,
+    "price_kr": 860000,
     "price_kr_initial": 2150000,
-    "price_kr_formatted": "₩ 21,500",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 689624,
+    "price_kr_formatted": "₩ 8,600",
+    "price_kr_initial_formatted": "₩ 21,500",
+    "discount": 60,
+    "positive": 689647,
     "negative": 0,
     "genres": [
       "액션"
