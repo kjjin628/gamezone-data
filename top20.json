@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5319251,
+    "positive": 5319851,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 14369,
+    "positive": 14370,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1768341,
+    "positive": 1768358,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 951455,
+    "positive": 951524,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -222,7 +222,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 110923,
+    "positive": 111398,
     "negative": 0,
     "genres": [
       "액션",
@@ -279,7 +279,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1898586,
+    "positive": 1898635,
     "negative": 0,
     "genres": [
       "액션",
@@ -313,7 +313,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 213530,
+    "positive": 213565,
     "negative": 0,
     "genres": [
       "인디",
@@ -348,7 +348,7 @@
     "price_kr_formatted": "₩ 60,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 306079,
+    "positive": 306376,
     "negative": 0,
     "genres": [
       "액션"
@@ -381,7 +381,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 607742,
+    "positive": 607902,
     "negative": 0,
     "genres": [
       "액션",
@@ -415,7 +415,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1256876,
+    "positive": 1256920,
     "negative": 0,
     "genres": [
       "액션",
@@ -443,25 +443,25 @@
     "is_free": false,
     "desc_kr": "《決勝時刻®》體驗支援《現代戰爭® 4》、《黑色行動 7》和《決勝時刻®：現代戰域™》。",
     "release_date": "2022년 10월 27일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/00ee0d1f8e6f3d351695d0d70603afd3eecd68bf/header_koreana.jpg?t=1792179713",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/00ee0d1f8e6f3d351695d0d70603afd3eecd68bf/header_koreana.jpg?t=1792523940",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 415048,
+    "positive": 415414,
     "negative": 0,
     "genres": [
       "액션"
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.600x338.jpg?t=1792179713",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ca97243a998802a38c7cddf195cee327c5760353/ss_ca97243a998802a38c7cddf195cee327c5760353.600x338.jpg?t=1792179713",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/6b8f4040a1e923f036e04d9eb21ecb0f866be57e/ss_6b8f4040a1e923f036e04d9eb21ecb0f866be57e.600x338.jpg?t=1792179713",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/c6f865bd79b76a1fa50c59cd17a68d7837abf0b2/ss_c6f865bd79b76a1fa50c59cd17a68d7837abf0b2.600x338.jpg?t=1792179713",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/619503d5c40001a5e72717bedccbbca027084d94/ss_619503d5c40001a5e72717bedccbbca027084d94.600x338.jpg?t=1792179713",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/88dbb0eae312359216204ce3ab34b2f476177efd/ss_88dbb0eae312359216204ce3ab34b2f476177efd.600x338.jpg?t=1792179713"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ee5f6b6aebe4dc9e86b49c4e309d361b132df308/ss_ee5f6b6aebe4dc9e86b49c4e309d361b132df308.600x338.jpg?t=1792523940",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/ca97243a998802a38c7cddf195cee327c5760353/ss_ca97243a998802a38c7cddf195cee327c5760353.600x338.jpg?t=1792523940",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/6b8f4040a1e923f036e04d9eb21ecb0f866be57e/ss_6b8f4040a1e923f036e04d9eb21ecb0f866be57e.600x338.jpg?t=1792523940",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/c6f865bd79b76a1fa50c59cd17a68d7837abf0b2/ss_c6f865bd79b76a1fa50c59cd17a68d7837abf0b2.600x338.jpg?t=1792523940",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/619503d5c40001a5e72717bedccbbca027084d94/ss_619503d5c40001a5e72717bedccbbca027084d94.600x338.jpg?t=1792523940",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/88dbb0eae312359216204ce3ab34b2f476177efd/ss_88dbb0eae312359216204ce3ab34b2f476177efd.600x338.jpg?t=1792523940"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows® 10 64 Bit (최신 업데이트)<br></li><li><strong>프로세서:</strong> AMD Ryzen™ 5 1400 또는 Intel® Core™ i5-6600<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 / 1060 또는 Intel® Arc™ A580<br></li><li><strong>DirectX:</strong> 버전 12<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>추가 사항:</strong> 출시 시 161GB 사용 가능한 공간이 있는 SSD</li></ul>",
@@ -553,7 +553,7 @@
     "price_kr_formatted": "₩ 8,600",
     "price_kr_initial_formatted": "₩ 21,500",
     "discount": 60,
-    "positive": 689713,
+    "positive": 689782,
     "negative": 0,
     "genres": [
       "액션"
@@ -586,7 +586,7 @@
     "price_kr_formatted": "₩ 32,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 474616,
+    "positive": 474692,
     "negative": 0,
     "genres": [
       "액션",
