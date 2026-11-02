@@ -537,9 +537,6 @@
                 "id": "1298"
               },
               {
-                "id": "18051"
-              },
-              {
                 "id": "19847"
               },
               {
@@ -571,52 +568,28 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 4080,
+                "discountPrice": 20400,
                 "originalPrice": 20400,
                 "voucherDiscount": 0,
-                "discount": 16320,
+                "discount": 0,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩20,400",
-                  "discountPrice": "₩4,080",
-                  "intermediatePrice": "₩4,080"
+                  "discountPrice": "₩20,400",
+                  "intermediatePrice": "₩20,400"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": [
-                    {
-                      "id": "d24c637d1a564142a6e9072e34bdd65c",
-                      "endDate": "2026-11-02T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
+                  "appliedRules": []
                 }
               ]
             },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-10-19T15:00:00.000Z",
-                      "endDate": "2026-11-02T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 20
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
-            }
+            "promotions": null
           },
           {
             "title": "고스트러너 2",
@@ -972,9 +945,6 @@
                 "id": "21122"
               },
               {
-                "id": "18051"
-              },
-              {
                 "id": "19847"
               },
               {
@@ -1030,52 +1000,28 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 9040,
+                "discountPrice": 22600,
                 "originalPrice": 22600,
                 "voucherDiscount": 0,
-                "discount": 13560,
+                "discount": 0,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩22,600",
-                  "discountPrice": "₩9,040",
-                  "intermediatePrice": "₩9,040"
+                  "discountPrice": "₩22,600",
+                  "intermediatePrice": "₩22,600"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": [
-                    {
-                      "id": "92f1801b3fa146cea6e9ae6c9dc4a772",
-                      "endDate": "2026-11-02T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
+                  "appliedRules": []
                 }
               ]
             },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-10-19T15:00:00.000Z",
-                      "endDate": "2026-11-02T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 40
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
-            }
+            "promotions": null
           },
           {
             "title": "Sorry We're Closed",
@@ -1195,9 +1141,6 @@
                 "id": "1218"
               },
               {
-                "id": "18051"
-              },
-              {
                 "id": "1367"
               },
               {
@@ -1280,14 +1223,6 @@
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
-                      }
-                    },
-                    {
-                      "startDate": "2026-10-19T15:00:00.000Z",
-                      "endDate": "2026-11-02T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 70
                       }
                     }
                   ]
@@ -1427,9 +1362,6 @@
                 "id": "1298"
               },
               {
-                "id": "18051"
-              },
-              {
                 "id": "1370"
               },
               {
@@ -1455,50 +1387,29 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 3110,
+                "discountPrice": 8900,
                 "originalPrice": 8900,
                 "voucherDiscount": 0,
-                "discount": 5790,
+                "discount": 0,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩8,900",
-                  "discountPrice": "₩3,110",
-                  "intermediatePrice": "₩3,110"
+                  "discountPrice": "₩8,900",
+                  "intermediatePrice": "₩8,900"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": [
-                    {
-                      "id": "9dcf532fb51143aeb68f2238b3e672f8",
-                      "endDate": "2026-11-02T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
+                  "appliedRules": []
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-10-19T15:00:00.000Z",
-                      "endDate": "2026-11-02T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 35
-                      }
-                    }
-                  ]
-                }
-              ],
+              "promotionalOffers": [],
               "upcomingPromotionalOffers": [
                 {
                   "promotionalOffers": [
