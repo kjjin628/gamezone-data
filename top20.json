@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5338934,
+    "positive": 5339395,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1768668,
+    "positive": 1768711,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 69,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 66940,
+    "positive": 72052,
     "negative": 0,
     "genres": [
       "액션",
@@ -151,7 +151,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 954346,
+    "positive": 954412,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -255,7 +255,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 427710,
+    "positive": 427827,
     "negative": 0,
     "genres": [
       "액션"
@@ -288,7 +288,7 @@
     "price_kr_formatted": "₩ 66,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 909147,
+    "positive": 909258,
     "negative": 0,
     "genres": [
       "RPG"
@@ -321,7 +321,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1900008,
+    "positive": 1900055,
     "negative": 0,
     "genres": [
       "액션",
@@ -355,7 +355,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 214982,
+    "positive": 215023,
     "negative": 0,
     "genres": [
       "인디",
@@ -446,7 +446,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 693967,
+    "positive": 694336,
     "negative": 0,
     "genres": [
       "액션"
@@ -479,7 +479,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 612610,
+    "positive": 612672,
     "negative": 0,
     "genres": [
       "액션",
@@ -542,13 +542,13 @@
     "is_free": false,
     "desc_kr": "Probably Stolen은 디스토피아 우주정거장에서 펼쳐지는 사이버펑크 가게 경영 시뮬레이터입니다. 출처가 의심스러운 상품을 제작하고 거래하고 밀수하며, 세력들의 충성도를 관리하고, 사업을 유지하기 위해 선을 어디까지 넘을지 결정하세요. 올라가는 임대료가 목을 조이기 전에 충분히 벌어서 가게를 매입하세요.",
     "release_date": "2026년 10월 28일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793711740",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793801444",
     "price_kr": 1791000,
     "price_kr_initial": 1990000,
     "price_kr_formatted": "₩ 17,910",
     "price_kr_initial_formatted": "₩ 19,900",
     "discount": 10,
-    "positive": 8583,
+    "positive": 8933,
     "negative": 0,
     "genres": [
       "인디",
@@ -558,12 +558,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/c3fd208d9830641a432822c2ffb762824980ce7b/ss_c3fd208d9830641a432822c2ffb762824980ce7b.600x338.jpg?t=1793711740",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/309930b942d4670222a3c94cff4d2c27a000bbb4/ss_309930b942d4670222a3c94cff4d2c27a000bbb4.600x338.jpg?t=1793711740",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/f60b54ed03b6d644bce610204ef44d7fbfa12b0f/ss_f60b54ed03b6d644bce610204ef44d7fbfa12b0f.600x338.jpg?t=1793711740",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/a7dd4e3d14b364c7b2f521745df813b19bd1dfff/ss_a7dd4e3d14b364c7b2f521745df813b19bd1dfff.600x338.jpg?t=1793711740",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/29a423c290e82503d25b8ff62c9982b8493f1147/ss_29a423c290e82503d25b8ff62c9982b8493f1147.600x338.jpg?t=1793711740",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/647bda2ca60a9bbd50ea3897353268dff7ceb232/ss_647bda2ca60a9bbd50ea3897353268dff7ceb232.600x338.jpg?t=1793711740"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/c3fd208d9830641a432822c2ffb762824980ce7b/ss_c3fd208d9830641a432822c2ffb762824980ce7b.600x338.jpg?t=1793801444",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/309930b942d4670222a3c94cff4d2c27a000bbb4/ss_309930b942d4670222a3c94cff4d2c27a000bbb4.600x338.jpg?t=1793801444",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/f60b54ed03b6d644bce610204ef44d7fbfa12b0f/ss_f60b54ed03b6d644bce610204ef44d7fbfa12b0f.600x338.jpg?t=1793801444",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/a7dd4e3d14b364c7b2f521745df813b19bd1dfff/ss_a7dd4e3d14b364c7b2f521745df813b19bd1dfff.600x338.jpg?t=1793801444",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/29a423c290e82503d25b8ff62c9982b8493f1147/ss_29a423c290e82503d25b8ff62c9982b8493f1147.600x338.jpg?t=1793801444",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/647bda2ca60a9bbd50ea3897353268dff7ceb232/ss_647bda2ca60a9bbd50ea3897353268dff7ceb232.600x338.jpg?t=1793801444"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Win 10, x64<br></li><li><strong>프로세서:</strong> Intel Core i3 or equivalent<br></li><li><strong>메모리:</strong> 8 GB RAM<br></li><li><strong>그래픽:</strong> GTX 650ti equivalent or higher<br></li><li><strong>DirectX:</strong> 버전 10<br></li><li><strong>저장 공간:</strong> 1 GB 사용 가능 공간</li></ul>",
@@ -584,7 +584,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1257993,
+    "positive": 1258002,
     "negative": 0,
     "genres": [
       "액션",
@@ -618,7 +618,7 @@
     "price_kr_formatted": "₩ 47,270",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 131614,
+    "positive": 131757,
     "negative": 0,
     "genres": [
       "액션",
