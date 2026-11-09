@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5344269,
+    "positive": 5344718,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1768817,
+    "positive": 1768832,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 955223,
+    "positive": 955287,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -155,7 +155,7 @@
     "price_kr_formatted": "₩ 69,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 97423,
+    "positive": 99507,
     "negative": 0,
     "genres": [
       "액션",
@@ -221,7 +221,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 430718,
+    "positive": 430843,
     "negative": 0,
     "genres": [
       "액션"
@@ -288,7 +288,7 @@
     "price_kr_formatted": "₩ 66,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 911476,
+    "positive": 911595,
     "negative": 0,
     "genres": [
       "RPG"
@@ -357,7 +357,7 @@
     "price_kr_formatted": "₩ 17,910",
     "price_kr_initial_formatted": "₩ 19,900",
     "discount": 10,
-    "positive": 16737,
+    "positive": 18869,
     "negative": 0,
     "genres": [
       "인디",
@@ -393,7 +393,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 215428,
+    "positive": 215463,
     "negative": 0,
     "genres": [
       "인디",
@@ -428,7 +428,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 613985,
+    "positive": 614078,
     "negative": 0,
     "genres": [
       "액션",
@@ -462,7 +462,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1258348,
+    "positive": 1258347,
     "negative": 0,
     "genres": [
       "액션",
@@ -529,12 +529,12 @@
     "desc_kr": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
     "release_date": "2025년 2월 26일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
-    "price_kr": 695000,
+    "price_kr": 1070000,
     "price_kr_initial": 1070000,
-    "price_kr_formatted": "₩ 6,950",
-    "price_kr_initial_formatted": "₩ 10,700",
-    "discount": 35,
-    "positive": 349933,
+    "price_kr_formatted": "₩ 10,700",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 350019,
     "negative": 0,
     "genres": [
       "액션",
@@ -567,7 +567,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 695720,
+    "positive": 695769,
     "negative": 0,
     "genres": [
       "액션"

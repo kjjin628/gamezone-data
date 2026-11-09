@@ -1593,11 +1593,11 @@
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-19ld2.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1iqza.png"
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-h2n65.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-194o8.png"
               },
               {
                 "type": "featuredMedia",
@@ -1617,11 +1617,11 @@
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1by43.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1pcpd.png"
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1xpu9.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-17nkk.png"
               },
               {
                 "type": "featuredMedia",
@@ -1736,15 +1736,15 @@
             "price": {
               "totalPrice": {
                 "discountPrice": 0,
-                "originalPrice": 25000,
+                "originalPrice": 26000,
                 "voucherDiscount": 0,
-                "discount": 25000,
+                "discount": 26000,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
-                  "originalPrice": "₩25,000",
+                  "originalPrice": "₩26,000",
                   "discountPrice": "0",
                   "intermediatePrice": "0"
                 },
