@@ -4,103 +4,91 @@
       "searchStore": {
         "elements": [
           {
-            "title": "Idle Champions of the Forgotten Realms",
-            "id": "a9748abde1c94b66aae5250bb9fc5503",
-            "namespace": "7e508f543b05465abe3a935960eb70ac",
-            "description": "Idle Champions는 Dungeons & Dragons의 라이선스를 받은 전략 관리 비디오 게임으로 소설, 캠페인, 방송 등에 출연한 상징적인 캐릭터를 하나의 장대한 모험에 집결시킵니다.",
-            "effectiveDate": "2021-02-16T17:00:00.000Z",
+            "title": "Alien: Isolation",
+            "id": "d37f3694e7a04edb8347f3cb6320f9d3",
+            "namespace": "df37f065c3f14eadbf011177396e2966",
+            "description": "끊임없는 두려움과 극도로 위험한 분위기에서 벌어지는 서바이벌 호러인 Alien: Isolation에서 공포의 진정한 의미를 체험하세요.   CATHODE™ 엔진으로 개발되었습니다.",
+            "effectiveDate": "2020-12-21T16:00:00.000Z",
             "offerType": "BASE_GAME",
             "expiryDate": null,
-            "viewableDate": "2021-02-16T17:00:00.000Z",
+            "viewableDate": "2020-12-21T16:00:00.000Z",
             "status": "ACTIVE",
             "isCodeRedemptionOnly": false,
             "keyImages": [
               {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg"
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://db158029-97be-45f7-9a3f-c89f95c9b532"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-01-1920x1080-b65e51b6fb2e.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-02-1920x1080-7e870d423c46.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-03-1920x1080-14d440b45f8a.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-04-1920x1080-99a3d5d4610a.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-05-1920x1080-af77e3dfaf2f.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g1a-06-1920x1080-4c834bac0133.jpg"
+              },
+              {
+                "type": "GalleryImage",
+                "url": "https://cdn2.unrealengine.com/egs-alienisolation-creativeassembly-g2-00-1920x1080-40e07dae74c0.jpg"
               },
               {
                 "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-sykbg.jpg"
+                "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg"
+              },
+              {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg"
               },
               {
                 "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-sykbg.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-uxqgy.jpg"
-              },
-              {
-                "type": "heroCarouselVideo",
-                "url": "com.epicgames.video://a34261b6-491d-409a-ab84-c37fb78ce8c2?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2Fa53f91e55c6840018cb5de0b204f1ad9%2Fidle-champions-of-the-forgotten-realms-video-fbcrd.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-01-1920x1080-24b28d80662e.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-02-1920x1080-bccd6a9e30ef.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-03-1920x1080-f75380153815.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-04-1920x1080-dd8d90ab7a3e.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn2.unrealengine.com/egs-idlechampionsoftheforgottenrealms-codenameentertainment-g1a-05-1920x1080-0ce66a29f505.jpg"
+                "url": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S6-1200x1600-af00adc8f67a7c6138cce183ac1e9503.jpg"
               }
             ],
             "seller": {
-              "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
-              "name": "Codename Entertainment"
+              "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+              "name": "SEGA of Europe"
             },
-            "productSlug": "idle-champions-of-the-forgotten-realms",
-            "urlSlug": "banegeneralaudience",
+            "productSlug": "alien-isolation",
+            "urlSlug": "lethegeneralaudience",
             "url": null,
             "items": [
               {
-                "id": "9a4e1a1eb6b140f6a9e5e4dcb5a2bf55",
-                "namespace": "7e508f543b05465abe3a935960eb70ac"
+                "id": "4646166ab44c49b0a83e00ab59df5292",
+                "namespace": "df37f065c3f14eadbf011177396e2966"
               }
             ],
             "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
               {
                 "key": "com.epicgames.app.blacklist",
                 "value": "[]"
               },
               {
-                "key": "isPromotionalContentUsed",
-                "value": "false"
-              },
-              {
                 "key": "publisherName",
-                "value": "Codename Entertainment"
+                "value": "SEGA"
               },
               {
                 "key": "developerName",
-                "value": "Codename Entertainment"
+                "value": "Creative Assembly"
               },
               {
                 "key": "com.epicgames.app.productSlug",
-                "value": "idle-champions-of-the-forgotten-realms"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
+                "value": "alien-isolation"
               }
             ],
             "categories": [
@@ -122,7 +110,7 @@
             ],
             "tags": [
               {
-                "id": "21136"
+                "id": "1216"
               },
               {
                 "id": "21122"
@@ -134,48 +122,48 @@
                 "id": "21139"
               },
               {
-                "id": "1188"
+                "id": "21140"
               },
               {
-                "id": "1141"
+                "id": "21141"
               },
               {
-                "id": "19847"
+                "id": "21894"
+              },
+              {
+                "id": "21127"
+              },
+              {
+                "id": "21129"
               },
               {
                 "id": "1370"
-              },
-              {
-                "id": "1115"
               },
               {
                 "id": "9547"
               },
               {
                 "id": "21149"
-              },
-              {
-                "id": "21119"
               }
             ],
             "catalogNs": {
               "mappings": [
                 {
-                  "pageSlug": "idle-champions-of-the-forgotten-realms",
+                  "pageSlug": "alien-isolation",
                   "pageType": "productHome"
                 }
               ]
             },
             "offerMappings": [
               {
-                "pageSlug": "idle-champions-of-the-forgotten-realms",
+                "pageSlug": "alien-isolation",
                 "pageType": "productHome"
               }
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 0,
+                "discountPrice": 43000,
+                "originalPrice": 43000,
                 "voucherDiscount": 0,
                 "discount": 0,
                 "currencyCode": "KRW",
@@ -183,9 +171,9 @@
                   "decimals": 0
                 },
                 "fmtPrice": {
-                  "originalPrice": "0",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
+                  "originalPrice": "₩43,000",
+                  "discountPrice": "₩43,000",
+                  "intermediatePrice": "₩43,000"
                 },
                 "dualPrice": null
               },
@@ -196,12 +184,13 @@
               ]
             },
             "promotions": {
-              "promotionalOffers": [
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
-                      "startDate": "2026-11-05T16:00:00.000Z",
-                      "endDate": "2026-11-12T16:00:00.000Z",
+                      "startDate": "2026-11-19T16:00:00.000Z",
+                      "endDate": "2026-11-26T16:00:00.000Z",
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
@@ -209,8 +198,7 @@
                     }
                   ]
                 }
-              ],
-              "upcomingPromotionalOffers": []
+              ]
             }
           },
           {
@@ -1024,6 +1012,189 @@
             "promotions": null
           },
           {
+            "title": "Mark of the Deep",
+            "id": "1f9a12b06b4f437790b6913ad136a08c",
+            "namespace": "3d6441ab9d4246208bc97d7babf664b5",
+            "description": "Mark of the Deep은 강력한 서사와 메트로이드바니아 및 소울라이크 게임 요소의 흥미로운 조합이 있는 서사적인 해적 모험입니다. 해적 루키가 이 여정에 나서고, 저주받은 섬의 신비를 탐험하며 사라진 선원을 찾아보세요!",
+            "effectiveDate": "2025-01-24T18:28:51.000Z",
+            "offerType": "BASE_GAME",
+            "expiryDate": null,
+            "viewableDate": "2024-10-04T13:51:33.000Z",
+            "status": "ACTIVE",
+            "isCodeRedemptionOnly": false,
+            "keyImages": [
+              {
+                "type": "OfferImageWide",
+                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png"
+              },
+              {
+                "type": "OfferImageTall",
+                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png"
+              },
+              {
+                "type": "Thumbnail",
+                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png"
+              },
+              {
+                "type": "heroCarouselVideo",
+                "url": "com.epicgames.video://2ad52fde-ffab-4e73-b850-1297762ac6ea?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F83a240506a884c10ad8fb99694e57a0d%2Fmark-of-the-deep-video-1k6z8.jpg"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1k2bg.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1aw2l.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1dac0.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-een94.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1522q.png"
+              },
+              {
+                "type": "featuredMedia",
+                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-iq37n.png"
+              }
+            ],
+            "seller": {
+              "id": "o-4eqpjkvk6sweygtlkhzz5ce3pdq3hr",
+              "name": "Light Up Games"
+            },
+            "productSlug": null,
+            "urlSlug": "2fd257a6cd80405a833f9004ff07993a",
+            "url": null,
+            "items": [
+              {
+                "id": "c103019bafa5424c916ed61d0ca8f331",
+                "namespace": "3d6441ab9d4246208bc97d7babf664b5"
+              }
+            ],
+            "customAttributes": [
+              {
+                "key": "autoGeneratedPrice",
+                "value": "false"
+              },
+              {
+                "key": "isManuallySetViewableDate",
+                "value": "true"
+              },
+              {
+                "key": "isPromotionalContentUsed",
+                "value": "false"
+              },
+              {
+                "key": "isManuallySetPCReleaseDate",
+                "value": "false"
+              },
+              {
+                "key": "isBlockchainUsed",
+                "value": "false"
+              }
+            ],
+            "categories": [
+              {
+                "path": "freegames"
+              },
+              {
+                "path": "games/edition/base"
+              },
+              {
+                "path": "games/edition"
+              },
+              {
+                "path": "games"
+              }
+            ],
+            "tags": [
+              {
+                "id": "1381"
+              },
+              {
+                "id": "21894"
+              },
+              {
+                "id": "19847"
+              },
+              {
+                "id": "1336"
+              },
+              {
+                "id": "1370"
+              },
+              {
+                "id": "9547"
+              },
+              {
+                "id": "9549"
+              },
+              {
+                "id": "1263"
+              }
+            ],
+            "catalogNs": {
+              "mappings": [
+                {
+                  "pageSlug": "mark-of-the-deep-f7dc08",
+                  "pageType": "productHome"
+                }
+              ]
+            },
+            "offerMappings": [
+              {
+                "pageSlug": "mark-of-the-deep-f7dc08",
+                "pageType": "productHome"
+              }
+            ],
+            "price": {
+              "totalPrice": {
+                "discountPrice": 33500,
+                "originalPrice": 33500,
+                "voucherDiscount": 0,
+                "discount": 0,
+                "currencyCode": "KRW",
+                "currencyInfo": {
+                  "decimals": 0
+                },
+                "fmtPrice": {
+                  "originalPrice": "₩33,500",
+                  "discountPrice": "₩33,500",
+                  "intermediatePrice": "₩33,500"
+                },
+                "dualPrice": null
+              },
+              "lineOffers": [
+                {
+                  "appliedRules": []
+                }
+              ]
+            },
+            "promotions": {
+              "promotionalOffers": [],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
+                    {
+                      "startDate": "2026-11-19T16:00:00.000Z",
+                      "endDate": "2026-11-26T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE",
+                        "discountPercentage": 0
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
             "title": "Monument Valley",
             "id": "f967cff9761c4198b4e972cfd71e40d7",
             "namespace": "e236e73a294b462d85715f5ba23a6346",
@@ -1560,256 +1731,6 @@
             }
           },
           {
-            "title": "표류도시",
-            "id": "3be0a0d8479946d78f60d90c9442a0b4",
-            "namespace": "27e33143fc9e4de8bbf76782292933d4",
-            "description": "떠다니는 쓰레기 마을 생존 게임! 바다 표면에서 얻을 수 있는 귀중한 쓰레기를 최대한 모으고, 이 화려한 포스트 아포칼립스 세계에서 살아남기 위해 노력하며 도시를 성장시키세요.",
-            "effectiveDate": "2026-11-05T16:00:00.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2026-10-29T15:00:00.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-12rh8.jpg"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-12rh8.jpg"
-              },
-              {
-                "type": "heroCarouselVideo",
-                "url": "com.epicgames.video.qs://063d3dcf-6e4f-4985-aaf6-843b2af0aacf?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F5c36b876e80d4285b9993947efeeaf2b%2Fflotsam-video-zha43.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1x7gf.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1iqza.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-194o8.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-2158h.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-3fxga.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-og552.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-ce4l3.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1pcpd.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-17nkk.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-13jeo.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1el5c.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1pb84.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1o1mv.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-orxc4.png"
-              }
-            ],
-            "seller": {
-              "id": "o-dwuld3yb6hujsr2eddx6flmag4yn8r",
-              "name": "Pajama Llama Games"
-            },
-            "productSlug": null,
-            "urlSlug": "7ca01ab906ad4eff92d4ed1efa5fbfcb",
-            "url": null,
-            "items": [
-              {
-                "id": "697883143d244f6c82e08782093f3a9e",
-                "namespace": "27e33143fc9e4de8bbf76782292933d4"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isPromotionalContentUsed",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "true"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games/edition/base"
-              }
-            ],
-            "tags": [
-              {
-                "id": "21122"
-              },
-              {
-                "id": "1188"
-              },
-              {
-                "id": "1381"
-              },
-              {
-                "id": "21894"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "21130"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "9549"
-              },
-              {
-                "id": "21138"
-              },
-              {
-                "id": "21139"
-              },
-              {
-                "id": "21140"
-              },
-              {
-                "id": "21141"
-              },
-              {
-                "id": "1080"
-              },
-              {
-                "id": "1146"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "21149"
-              },
-              {
-                "id": "21119"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "flotsam-266287",
-                  "pageType": "productHome"
-                }
-              ]
-            },
-            "offerMappings": [
-              {
-                "pageSlug": "flotsam-266287",
-                "pageType": "productHome"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 26000,
-                "voucherDiscount": 0,
-                "discount": 26000,
-                "currencyCode": "KRW",
-                "currencyInfo": {
-                  "decimals": 0
-                },
-                "fmtPrice": {
-                  "originalPrice": "₩26,000",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                },
-                "dualPrice": null
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
-                    {
-                      "id": "a48fcd4f4fa84f9eb709c5df30d98ce8",
-                      "endDate": "2026-11-12T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-11-05T16:00:00.000Z",
-                      "endDate": "2026-11-12T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
-            }
-          },
-          {
             "title": "Knightica",
             "id": "9975548b6d404a94b8a9bdb34cad49e9",
             "namespace": "02d659f31e1c43a78c43fd9fd9edc089",
@@ -1957,30 +1878,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 15300,
+                "discountPrice": 0,
                 "originalPrice": 15300,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 15300,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩15,300",
-                  "discountPrice": "₩15,300",
-                  "intermediatePrice": "₩15,300"
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "bc81bf6a13dc4ff08e3c229ed9489631",
+                      "endDate": "2026-11-19T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -1993,7 +1921,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           }
         ],
