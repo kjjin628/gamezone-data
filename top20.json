@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5347986,
+    "positive": 5348568,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1768887,
+    "positive": 1768904,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 955776,
+    "positive": 955803,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -187,7 +187,7 @@
     "price_kr_formatted": "₩ 69,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 107562,
+    "positive": 108044,
     "negative": 0,
     "genres": [
       "액션",
@@ -255,7 +255,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 432109,
+    "positive": 432268,
     "negative": 0,
     "genres": [
       "액션"
@@ -326,7 +326,7 @@
     "price_kr_formatted": "₩ 66,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 912596,
+    "positive": 912773,
     "negative": 0,
     "genres": [
       "RPG"
@@ -390,12 +390,12 @@
     "desc_kr": "로그라이크 덱 빌딩 게임의 상징이 돌아왔습니다! 슬레이 더 스파이어 2에서 독창적인 덱을 만들고, 괴이한 생명체들과 조우하며, 엄청난 힘을 가진 유물을 발견하세요.",
     "release_date": "2026년 3월 5일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
-    "price_kr": 2700000,
+    "price_kr": 2160000,
     "price_kr_initial": 2700000,
-    "price_kr_formatted": "₩ 27,000",
-    "price_kr_initial_formatted": "",
-    "discount": 0,
-    "positive": 215801,
+    "price_kr_formatted": "₩ 21,600",
+    "price_kr_initial_formatted": "₩ 27,000",
+    "discount": 20,
+    "positive": 215932,
     "negative": 0,
     "genres": [
       "인디",
@@ -430,7 +430,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 614703,
+    "positive": 614795,
     "negative": 0,
     "genres": [
       "액션",
@@ -464,7 +464,7 @@
     "price_kr_formatted": "₩ 19,900",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 23516,
+    "positive": 23711,
     "negative": 0,
     "genres": [
       "인디",
@@ -500,7 +500,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1258504,
+    "positive": 1258546,
     "negative": 0,
     "genres": [
       "액션",
@@ -569,7 +569,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 696086,
+    "positive": 696127,
     "negative": 0,
     "genres": [
       "액션"
