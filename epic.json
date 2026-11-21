@@ -1978,30 +1978,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 17400,
+                "discountPrice": 12180,
                 "originalPrice": 17400,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 5220,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩17,400",
-                  "discountPrice": "₩17,400",
-                  "intermediatePrice": "₩17,400"
+                  "discountPrice": "₩12,180",
+                  "intermediatePrice": "₩12,180"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "2fa1e660ca5543f59345e7596b6c79a5",
+                      "endDate": "2026-12-21T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -2014,7 +2021,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           }
         ],
