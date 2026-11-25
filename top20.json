@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5364297,
+    "positive": 5364540,
     "negative": 0,
     "genres": [
       "액션",
@@ -81,7 +81,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1769799,
+    "positive": 1769874,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 957889,
+    "positive": 957934,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -149,7 +149,7 @@
     "is_free": true,
     "desc_kr": "ROB RUN is a brutal crime sandbox featuring thousands of players. Rise above everyone through the grit, the grime, and the struggle. Break free and take yourself from squalor by any means.",
     "release_date": "2026년 11월 4일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1795595062",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
@@ -167,12 +167,12 @@
     ],
     "metacritic": 0,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/258546065bdba3f2dc14b476a6c0ba8caaf5b367/ss_258546065bdba3f2dc14b476a6c0ba8caaf5b367.600x338.jpg?t=1793811654",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/021a08079176959be882c88607b13727f49c470f/ss_021a08079176959be882c88607b13727f49c470f.600x338.jpg?t=1793811654",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/838584dd1348b5a85f8e9bc840fbfe2b689f556c/ss_838584dd1348b5a85f8e9bc840fbfe2b689f556c.600x338.jpg?t=1793811654",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/58c183d67d59bf7cfd5ab0554b452d4e4e371102/ss_58c183d67d59bf7cfd5ab0554b452d4e4e371102.600x338.jpg?t=1793811654",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/e16f10d92eeb37401f77be4fdee0d7cab70d4b6a/ss_e16f10d92eeb37401f77be4fdee0d7cab70d4b6a.600x338.jpg?t=1793811654",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/635f462aadd36021294570ee7fcec41e47f7e935/ss_635f462aadd36021294570ee7fcec41e47f7e935.600x338.jpg?t=1793811654"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/258546065bdba3f2dc14b476a6c0ba8caaf5b367/ss_258546065bdba3f2dc14b476a6c0ba8caaf5b367.600x338.jpg?t=1795595062",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/021a08079176959be882c88607b13727f49c470f/ss_021a08079176959be882c88607b13727f49c470f.600x338.jpg?t=1795595062",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/838584dd1348b5a85f8e9bc840fbfe2b689f556c/ss_838584dd1348b5a85f8e9bc840fbfe2b689f556c.600x338.jpg?t=1795595062",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/58c183d67d59bf7cfd5ab0554b452d4e4e371102/ss_58c183d67d59bf7cfd5ab0554b452d4e4e371102.600x338.jpg?t=1795595062",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/e16f10d92eeb37401f77be4fdee0d7cab70d4b6a/ss_e16f10d92eeb37401f77be4fdee0d7cab70d4b6a.600x338.jpg?t=1795595062",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/635f462aadd36021294570ee7fcec41e47f7e935/ss_635f462aadd36021294570ee7fcec41e47f7e935.600x338.jpg?t=1795595062"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li>64비트 프로세서와 운영 체제가 필요합니다<br></li><li><strong>운영 체제:</strong> Windows 10 or later<br></li><li><strong>프로세서:</strong> Intel Core i5-6600K or AMD Ryzen R5 1600 processor<br></li><li><strong>메모리:</strong> 12 GB RAM<br></li><li><strong>그래픽:</strong> NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 580 or Intel Arc A380<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 20 GB 사용 가능 공간</li></ul>",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "₩ 21,600",
     "price_kr_initial_formatted": "₩ 27,000",
     "discount": 20,
-    "positive": 229659,
+    "positive": 230919,
     "negative": 0,
     "genres": [
       "인디",
@@ -294,7 +294,7 @@
     "price_kr_formatted": "₩ 24,200",
     "price_kr_initial_formatted": "₩ 55,000",
     "discount": 56,
-    "positive": 233450,
+    "positive": 234082,
     "negative": 0,
     "genres": [
       "액션",
@@ -329,7 +329,7 @@
     "price_kr_formatted": "₩ 69,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 135025,
+    "positive": 136451,
     "negative": 0,
     "genres": [
       "액션",
@@ -363,7 +363,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 436329,
+    "positive": 436440,
     "negative": 0,
     "genres": [
       "액션"
@@ -432,7 +432,7 @@
     "price_kr_formatted": "₩ 66,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 917272,
+    "positive": 917341,
     "negative": 0,
     "genres": [
       "RPG"
@@ -465,7 +465,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 617886,
+    "positive": 617942,
     "negative": 0,
     "genres": [
       "액션",
@@ -499,7 +499,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 699425,
+    "positive": 699644,
     "negative": 0,
     "genres": [
       "액션"
@@ -604,7 +604,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1259935,
+    "positive": 1259993,
     "negative": 0,
     "genres": [
       "액션",
@@ -638,7 +638,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1904562,
+    "positive": 1904687,
     "negative": 0,
     "genres": [
       "액션",
@@ -672,7 +672,7 @@
     "price_kr_formatted": "₩ 18,250",
     "price_kr_initial_formatted": "₩ 73,000",
     "discount": 75,
-    "positive": 872122,
+    "positive": 872854,
     "negative": 0,
     "genres": [
       "액션",
