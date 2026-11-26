@@ -246,7 +246,7 @@
               },
               {
                 "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1ytoh.png"
+                "url": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-11zkk.png"
               },
               {
                 "type": "featuredMedia",
@@ -437,8 +437,7 @@
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -451,7 +450,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {
@@ -619,30 +619,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 15300,
+                "discountPrice": 0,
                 "originalPrice": 15300,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 15300,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩15,300",
-                  "discountPrice": "₩15,300",
-                  "intermediatePrice": "₩15,300"
+                  "discountPrice": "0",
+                  "intermediatePrice": "0"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "013e3944c4054c01894e14e52e4f3b03",
+                      "endDate": "2026-12-03T16:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -652,7 +659,13 @@
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
                       }
-                    },
+                    }
+                  ]
+                }
+              ],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
                     {
                       "startDate": "2026-12-10T16:00:00.000Z",
                       "endDate": "2027-01-07T16:00:00.000Z",
@@ -1304,197 +1317,6 @@
             }
           },
           {
-            "title": "Mark of the Deep",
-            "id": "1f9a12b06b4f437790b6913ad136a08c",
-            "namespace": "3d6441ab9d4246208bc97d7babf664b5",
-            "description": "Mark of the Deep은 강력한 서사와 메트로이드바니아 및 소울라이크 게임 요소의 흥미로운 조합이 있는 서사적인 해적 모험입니다. 해적 루키가 이 여정에 나서고, 저주받은 섬의 신비를 탐험하며 사라진 선원을 찾아보세요!",
-            "effectiveDate": "2025-01-24T18:28:51.000Z",
-            "offerType": "BASE_GAME",
-            "expiryDate": null,
-            "viewableDate": "2024-10-04T13:51:33.000Z",
-            "status": "ACTIVE",
-            "isCodeRedemptionOnly": false,
-            "keyImages": [
-              {
-                "type": "OfferImageWide",
-                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png"
-              },
-              {
-                "type": "OfferImageTall",
-                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png"
-              },
-              {
-                "type": "Thumbnail",
-                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png"
-              },
-              {
-                "type": "heroCarouselVideo",
-                "url": "com.epicgames.video://2ad52fde-ffab-4e73-b850-1297762ac6ea?cover=https%3A%2F%2Fcdn1.epicgames.com%2Fspt-assets%2F83a240506a884c10ad8fb99694e57a0d%2Fmark-of-the-deep-video-1k6z8.jpg"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1k2bg.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1aw2l.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1dac0.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-een94.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1522q.png"
-              },
-              {
-                "type": "featuredMedia",
-                "url": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-iq37n.png"
-              }
-            ],
-            "seller": {
-              "id": "o-4eqpjkvk6sweygtlkhzz5ce3pdq3hr",
-              "name": "Light Up Games"
-            },
-            "productSlug": null,
-            "urlSlug": "2fd257a6cd80405a833f9004ff07993a",
-            "url": null,
-            "items": [
-              {
-                "id": "c103019bafa5424c916ed61d0ca8f331",
-                "namespace": "3d6441ab9d4246208bc97d7babf664b5"
-              }
-            ],
-            "customAttributes": [
-              {
-                "key": "autoGeneratedPrice",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetViewableDate",
-                "value": "true"
-              },
-              {
-                "key": "isPromotionalContentUsed",
-                "value": "false"
-              },
-              {
-                "key": "isManuallySetPCReleaseDate",
-                "value": "false"
-              },
-              {
-                "key": "isBlockchainUsed",
-                "value": "false"
-              }
-            ],
-            "categories": [
-              {
-                "path": "freegames"
-              },
-              {
-                "path": "games/edition/base"
-              },
-              {
-                "path": "games/edition"
-              },
-              {
-                "path": "games"
-              }
-            ],
-            "tags": [
-              {
-                "id": "1381"
-              },
-              {
-                "id": "21894"
-              },
-              {
-                "id": "19847"
-              },
-              {
-                "id": "1336"
-              },
-              {
-                "id": "1370"
-              },
-              {
-                "id": "9547"
-              },
-              {
-                "id": "9549"
-              },
-              {
-                "id": "1263"
-              }
-            ],
-            "catalogNs": {
-              "mappings": [
-                {
-                  "pageSlug": "mark-of-the-deep-f7dc08",
-                  "pageType": "productHome"
-                }
-              ]
-            },
-            "offerMappings": [
-              {
-                "pageSlug": "mark-of-the-deep-f7dc08",
-                "pageType": "productHome"
-              }
-            ],
-            "price": {
-              "totalPrice": {
-                "discountPrice": 0,
-                "originalPrice": 33500,
-                "voucherDiscount": 0,
-                "discount": 33500,
-                "currencyCode": "KRW",
-                "currencyInfo": {
-                  "decimals": 0
-                },
-                "fmtPrice": {
-                  "originalPrice": "₩33,500",
-                  "discountPrice": "0",
-                  "intermediatePrice": "0"
-                },
-                "dualPrice": null
-              },
-              "lineOffers": [
-                {
-                  "appliedRules": [
-                    {
-                      "id": "98be12560c6f4280b62ccd6b69514a13",
-                      "endDate": "2026-11-26T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "promotions": {
-              "promotionalOffers": [
-                {
-                  "promotionalOffers": [
-                    {
-                      "startDate": "2026-11-19T16:00:00.000Z",
-                      "endDate": "2026-11-26T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 0
-                      }
-                    }
-                  ]
-                }
-              ],
-              "upcomingPromotionalOffers": []
-            }
-          },
-          {
             "title": "Monument Valley",
             "id": "f967cff9761c4198b4e972cfd71e40d7",
             "namespace": "e236e73a294b462d85715f5ba23a6346",
@@ -1877,14 +1699,6 @@
                       "discountSetting": {
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 0
-                      }
-                    },
-                    {
-                      "startDate": "2026-12-10T16:00:00.000Z",
-                      "endDate": "2027-01-07T16:00:00.000Z",
-                      "discountSetting": {
-                        "discountType": "PERCENTAGE",
-                        "discountPercentage": 75
                       }
                     }
                   ]
@@ -2279,7 +2093,7 @@
         ],
         "paging": {
           "count": 40,
-          "total": 11
+          "total": 10
         }
       }
     }

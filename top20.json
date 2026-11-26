@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5365542,
+    "positive": 5365938,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1770060,
+    "positive": 1770142,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 958109,
+    "positive": 958170,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -254,12 +254,12 @@
     "desc_kr": "로그라이크 덱 빌딩 게임의 상징이 돌아왔습니다! 슬레이 더 스파이어 2에서 독창적인 덱을 만들고, 괴이한 생명체들과 조우하며, 엄청난 힘을 가진 유물을 발견하세요.",
     "release_date": "2026년 3월 5일",
     "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
-    "price_kr": 2160000,
+    "price_kr": 2700000,
     "price_kr_initial": 2700000,
-    "price_kr_formatted": "₩ 21,600",
-    "price_kr_initial_formatted": "₩ 27,000",
-    "discount": 20,
-    "positive": 234713,
+    "price_kr_formatted": "₩ 27,000",
+    "price_kr_initial_formatted": "",
+    "discount": 0,
+    "positive": 235968,
     "negative": 0,
     "genres": [
       "인디",
@@ -294,7 +294,7 @@
     "price_kr_formatted": "₩ 24,200",
     "price_kr_initial_formatted": "₩ 55,000",
     "discount": 56,
-    "positive": 235902,
+    "positive": 236444,
     "negative": 0,
     "genres": [
       "액션",
@@ -329,7 +329,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 436828,
+    "positive": 436962,
     "negative": 0,
     "genres": [
       "액션"
@@ -362,7 +362,7 @@
     "price_kr_formatted": "₩ 69,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 140666,
+    "positive": 142836,
     "negative": 0,
     "genres": [
       "액션",
@@ -396,7 +396,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 700349,
+    "positive": 700550,
     "negative": 0,
     "genres": [
       "액션"
@@ -465,7 +465,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 618272,
+    "positive": 618348,
     "negative": 0,
     "genres": [
       "액션",
@@ -499,7 +499,7 @@
     "price_kr_formatted": "₩ 66,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 917669,
+    "positive": 917799,
     "negative": 0,
     "genres": [
       "RPG"
@@ -564,7 +564,7 @@
     "price_kr_formatted": "₩ 18,250",
     "price_kr_initial_formatted": "₩ 73,000",
     "discount": 75,
-    "positive": 875751,
+    "positive": 876600,
     "negative": 0,
     "genres": [
       "액션",
@@ -597,7 +597,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1260193,
+    "positive": 1260275,
     "negative": 0,
     "genres": [
       "액션",
@@ -671,7 +671,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1905289,
+    "positive": 1905457,
     "negative": 0,
     "genres": [
       "액션",
