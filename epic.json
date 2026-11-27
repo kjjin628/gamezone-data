@@ -790,6 +790,9 @@
                 "id": "1298"
               },
               {
+                "id": "39909"
+              },
+              {
                 "id": "19847"
               },
               {
@@ -821,30 +824,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 20400,
+                "discountPrice": 4080,
                 "originalPrice": 20400,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 16320,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩20,400",
-                  "discountPrice": "₩20,400",
-                  "intermediatePrice": "₩20,400"
+                  "discountPrice": "₩4,080",
+                  "intermediatePrice": "₩4,080"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "598cd09f54384bb0bb8af3d770f66707",
+                      "endDate": "2026-12-01T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -854,7 +864,13 @@
                         "discountType": "PERCENTAGE",
                         "discountPercentage": 20
                       }
-                    },
+                    }
+                  ]
+                }
+              ],
+              "upcomingPromotionalOffers": [
+                {
+                  "promotionalOffers": [
                     {
                       "startDate": "2026-12-10T16:00:00.000Z",
                       "endDate": "2027-01-07T16:00:00.000Z",
@@ -1805,6 +1821,9 @@
                 "id": "1216"
               },
               {
+                "id": "39909"
+              },
+              {
                 "id": "1370"
               },
               {
@@ -1827,30 +1846,37 @@
             ],
             "price": {
               "totalPrice": {
-                "discountPrice": 10200,
+                "discountPrice": 2040,
                 "originalPrice": 10200,
                 "voucherDiscount": 0,
-                "discount": 0,
+                "discount": 8160,
                 "currencyCode": "KRW",
                 "currencyInfo": {
                   "decimals": 0
                 },
                 "fmtPrice": {
                   "originalPrice": "₩10,200",
-                  "discountPrice": "₩10,200",
-                  "intermediatePrice": "₩10,200"
+                  "discountPrice": "₩2,040",
+                  "intermediatePrice": "₩2,040"
                 },
                 "dualPrice": null
               },
               "lineOffers": [
                 {
-                  "appliedRules": []
+                  "appliedRules": [
+                    {
+                      "id": "a8a9c154b8a2479eba5a5d6b230adb26",
+                      "endDate": "2026-12-01T15:00:00.000Z",
+                      "discountSetting": {
+                        "discountType": "PERCENTAGE"
+                      }
+                    }
+                  ]
                 }
               ]
             },
             "promotions": {
-              "promotionalOffers": [],
-              "upcomingPromotionalOffers": [
+              "promotionalOffers": [
                 {
                   "promotionalOffers": [
                     {
@@ -1863,7 +1889,8 @@
                     }
                   ]
                 }
-              ]
+              ],
+              "upcomingPromotionalOffers": []
             }
           },
           {

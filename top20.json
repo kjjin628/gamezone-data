@@ -12,7 +12,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 5366471,
+    "positive": 5366861,
     "negative": 0,
     "genres": [
       "액션",
@@ -46,7 +46,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1770213,
+    "positive": 1770269,
     "negative": 0,
     "genres": [
       "액션",
@@ -117,7 +117,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 958275,
+    "positive": 958335,
     "negative": 0,
     "genres": [
       "캐주얼",
@@ -259,7 +259,7 @@
     "price_kr_formatted": "₩ 27,000",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 237266,
+    "positive": 238125,
     "negative": 0,
     "genres": [
       "인디",
@@ -294,7 +294,7 @@
     "price_kr_formatted": "₩ 24,200",
     "price_kr_initial_formatted": "₩ 55,000",
     "discount": 56,
-    "positive": 237285,
+    "positive": 237925,
     "negative": 0,
     "genres": [
       "액션",
@@ -329,7 +329,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 437145,
+    "positive": 437245,
     "negative": 0,
     "genres": [
       "액션"
@@ -394,7 +394,7 @@
     "price_kr_formatted": "₩ 69,800",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 144605,
+    "positive": 146109,
     "negative": 0,
     "genres": [
       "액션",
@@ -422,13 +422,13 @@
     "is_free": true,
     "desc_kr": "War Thunder는 제 2차 세계대전부터 현대전까지의 항공기, 전차, 함선, 헬리콥터를 플레이 할 수 있는 온라인 게임 역사상 가장 거대한 스케일과 광범위한 크로스 플랫폼 기능을 자랑하는 밀리터리 MMO 게임입니다. 지금 게임에 참여하셔서 War Thunder가 제공하는 지상, 공중, 해상의 거대한 전장 서사시에 직접 참여해보세요.",
     "release_date": "2013년 8월 15일",
-    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/09150b32d79fc827c2d24bc7ee200748a3c1e43e/header.jpg?t=1794405808",
+    "header_img": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/09150b32d79fc827c2d24bc7ee200748a3c1e43e/header.jpg?t=1795793702",
     "price_kr": 0,
     "price_kr_initial": 0,
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1999,
+    "positive": 2000,
     "negative": 0,
     "genres": [
       "액션",
@@ -438,12 +438,12 @@
     ],
     "metacritic": 81,
     "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/33d8e5aba677bb107c838e2abaff51289fbc4035/ss_33d8e5aba677bb107c838e2abaff51289fbc4035.600x338.jpg?t=1794405808",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/d53df86e4cd55fdae0a5977d01d2307390698cfa/ss_d53df86e4cd55fdae0a5977d01d2307390698cfa.600x338.jpg?t=1794405808",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/cfd07056413ebe7346de22676b56e7f56304b26f/ss_cfd07056413ebe7346de22676b56e7f56304b26f.600x338.jpg?t=1794405808",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/4b2f5a60bb5294b69ac3586a13dac61409a252d6/ss_4b2f5a60bb5294b69ac3586a13dac61409a252d6.600x338.jpg?t=1794405808",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/f8cc0f426b22376f8d94bd624c215d2049a1a217/ss_f8cc0f426b22376f8d94bd624c215d2049a1a217.600x338.jpg?t=1794405808",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/1828de9c706a2e2ec2b34b118dcb2e7df5a4caa7/ss_1828de9c706a2e2ec2b34b118dcb2e7df5a4caa7.600x338.jpg?t=1794405808"
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/33d8e5aba677bb107c838e2abaff51289fbc4035/ss_33d8e5aba677bb107c838e2abaff51289fbc4035.600x338.jpg?t=1795793702",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/d53df86e4cd55fdae0a5977d01d2307390698cfa/ss_d53df86e4cd55fdae0a5977d01d2307390698cfa.600x338.jpg?t=1795793702",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/cfd07056413ebe7346de22676b56e7f56304b26f/ss_cfd07056413ebe7346de22676b56e7f56304b26f.600x338.jpg?t=1795793702",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/4b2f5a60bb5294b69ac3586a13dac61409a252d6/ss_4b2f5a60bb5294b69ac3586a13dac61409a252d6.600x338.jpg?t=1795793702",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/f8cc0f426b22376f8d94bd624c215d2049a1a217/ss_f8cc0f426b22376f8d94bd624c215d2049a1a217.600x338.jpg?t=1795793702",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/1828de9c706a2e2ec2b34b118dcb2e7df5a4caa7/ss_1828de9c706a2e2ec2b34b118dcb2e7df5a4caa7.600x338.jpg?t=1795793702"
     ],
     "pc_requirements": {
       "minimum": "<strong>최소:</strong><br><ul class=\"bb_ul\"><li><strong>운영 체제:</strong> Windows 10 (64bit)<br></li><li><strong>프로세서:</strong> Dual-Core 2.2 GHz<br></li><li><strong>메모리:</strong> 4 GB RAM<br></li><li><strong>그래픽:</strong> DirectX 11 level video card: AMD Radeon 77XX / NVIDIA GeForce GTX 660. The minimum supported resolution for the game is 720p.<br></li><li><strong>DirectX:</strong> 버전 11<br></li><li><strong>네트워크:</strong> 초고속 인터넷 연결<br></li><li><strong>저장 공간:</strong> 70 GB 사용 가능 공간<br></li><li><strong>VR 지원:</strong> SteamVR. Keyboard or gamepad required</li></ul>",
@@ -464,7 +464,7 @@
     "price_kr_formatted": "₩ 5,600",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 618561,
+    "positive": 618642,
     "negative": 0,
     "genres": [
       "액션",
@@ -498,7 +498,7 @@
     "price_kr_formatted": "₩ 21,500",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 700900,
+    "positive": 701070,
     "negative": 0,
     "genres": [
       "액션"
@@ -531,7 +531,7 @@
     "price_kr_formatted": "₩ 19,800",
     "price_kr_initial_formatted": "₩ 66,000",
     "discount": 70,
-    "positive": 918060,
+    "positive": 918233,
     "negative": 0,
     "genres": [
       "RPG"
@@ -604,7 +604,7 @@
     "price_kr_formatted": "₩ 18,250",
     "price_kr_initial_formatted": "₩ 73,000",
     "discount": 75,
-    "positive": 878005,
+    "positive": 878796,
     "negative": 0,
     "genres": [
       "액션",
@@ -637,7 +637,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1260394,
+    "positive": 1260446,
     "negative": 0,
     "genres": [
       "액션",
@@ -671,7 +671,7 @@
     "price_kr_formatted": "",
     "price_kr_initial_formatted": "",
     "discount": 0,
-    "positive": 1905667,
+    "positive": 1905830,
     "negative": 0,
     "genres": [
       "액션",
